@@ -1,0 +1,161 @@
+*:focus{
+    outline: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #222;
+    background-color: rgb(197, 197, 197);
+    font-weight: 300;
+}
+
+#form-container{
+    display: flex;
+    position: relative;
+    margin: 5% auto;
+    width: 600px;
+    height: 450px;
+    background: white;
+    border-radius: 50px 20px;
+    box-shadow: 10px 2px 4px rgba(65,65,65,0.4);
+}
+
+.left{
+    display: flex;
+    position: relative;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 350px;
+    height: 400px;
+}
+
+h3{
+    margin: -20px 0 20px 0;
+    font-weight: 300px;
+    font-size: 20px;
+}
+
+.left form input,
+.left form select{
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 23px;
+    padding: 7px;
+    width: 220px;
+    height: 32px;
+    border: none;
+    border-bottom: 1px solid #aaa;
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+}
+
+.left form input:focus,
+.left form select:focus{
+    border-bottom: 2px solid #16a085;
+    color: #16a085;
+}
+
+.left form .form-btn{
+    margin-top: 28px;
+    width: 120px;
+    height: 32px;
+    background: #16a085;
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 500;
+    transform: uppercase;
+    cursor: pointer;
+}
+
+.left form .form-btn:focus,
+.left form .form-btn:hover{
+    box-shadow: 10 2px 4px rgba(65, 65, 65, 0.4); 
+    transition: 1s ease;
+}
+
+.left form p{
+    font-size: 15px;
+    color:#333;
+ }
+ 
+ .left form p a{
+    color:blue;
+    cursor: pointer;
+ }
+
+.right{
+    top: 0;
+    right: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 300px;
+    height: 450px;
+    background: linear-gradient(120grad, darkred, darkblue);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50px 20px 50px 0;
+}
+
+.right .loginwith{
+    display: block;
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+button.Social-signin{
+    margin-bottom: 20px;
+    width: 220px;
+    height: 36px;
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+button.Social-signin.google{
+    background: #4285F4;
+    transition: 1s ease;
+}
+
+button.Social-signin.Twitter{
+    background: #00acee;
+    transition: 1s ease;
+}
+
+button.Social-signin.linked{
+    background: #0A66C2;
+    transition: 1s ease;
+}
+
+button.Social-signin.facebook{
+    background: #3b5998;
+    transition: 1s ease;
+}
+
+.or{
+    margin-left: 20%;
+    position: fixed;
+    width: 48px;
+    height: 50px;
+    border-radius: 50%;
+    border: 7px solid white;
+    background: linear-gradient(120grad, darkblue, red);
+    text-align: center;
+    margin-top: 13%;
+    padding: 0%;
+}
+
+.or p{
+    color: white;
+}

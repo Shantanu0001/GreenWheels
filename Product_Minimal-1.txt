@@ -1,0 +1,514 @@
+<div class="product-minimal">
+
+    <div class="product-showcase">
+
+      <h2 class="title">Scooters-Brands</h2>
+
+      <div class="showcase-wrapper has-scrollbar">
+
+        <div class="showcase-container">
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Yamaha_L.png" alt="relaxed short full sleeve t-shirt"
+                width="70" class="showcase-img">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Yamaha</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Scooters-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Ampere.png" alt="girls pink embro design top"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Ampere</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Scooters-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Honda_L.png" alt="black floral wrap midi skirt"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Honda</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Scooters-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/tvs_L.png" alt="pure garment dyed cotton shirt"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">TVS</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Scooters-Brands</a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="showcase-container">
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Bajaj.png" alt="men yarn fleece full-zip jacket"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Bajaj</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Scooters-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Hero_L.png" alt="mens winter leathers jackets"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Hero</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Scooters-Brands</a>
+
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Evolet.png" alt="mens winter leathers jackets"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Evolet</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Scooters-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Earth_L.png" alt="better basics french terry sweatshorts"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Earth Energy</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Scooters-Brands</a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="product-showcase">
+
+      <h2 class="title">Bikes-Brands</h2>
+
+      <div class="showcase-wrapper has-scrollbar">
+
+        <div class="showcase-container">
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Revolt_L.png" alt="relaxed short full sleeve t-shirt"
+                width="70" class="showcase-img">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Revolt</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Bikes-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Komaki_L.png" alt="girls pink embro design top"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Komaki</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Bikes-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Blacksmith_L.jpeg" alt="black floral wrap midi skirt"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Blacksmit</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Bikes-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Joy_L.png" alt="pure garment dyed cotton shirt"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Joy e-bike</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Bikes-Brands</a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="showcase-container">
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Tork_L.png" alt="men yarn fleece full-zip jacket"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Tork</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Bikes-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Hero_L.png" alt="mens winter leathers jackets"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Hero</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Bikes-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Odysse_L.png" alt="mens winter leathers jackets"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Odysse</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Bikes-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Ultraviolette_L.png" alt="better basics french terry sweatshorts"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Ultraviolette</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Bikes-Brands</a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="product-showcase">
+
+      <h2 class="title">Cars-Brands</h2>
+
+      <div class="showcase-wrapper has-scrollbar">
+
+        <div class="showcase-container">
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Tata_L.png" alt="relaxed short full sleeve t-shirt"
+                width="70" class="showcase-img">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Tata</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Cars-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Hyundai_L.png" alt="girls pink embro design top"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Hyundai</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Cars-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Mahaindra.jpg" alt="black floral wrap midi skirt"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Mahindra</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Cars-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Kia_L.png" alt="pure garment dyed cotton shirt"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Kia</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Cars-Brands</a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="showcase-container">
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/mercedes_L.jpg" alt="men yarn fleece full-zip jacket"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Mercedes-Benz</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Cars-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/Audi_L.png" alt="mens winter leathers jackets"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">Audi</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Cars-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/MG.jpeg" alt="mens winter leathers jackets"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">MG Motors</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Cars-Brands</a>
+
+            </div>
+
+          </div>
+
+          <div class="showcase">
+
+            <a href="#" class="showcase-img-box">
+              <img src="./assets/images/products/BYD.png" alt="better basics french terry sweatshorts"
+                class="showcase-img" width="70">
+            </a>
+
+            <div class="showcase-content">
+
+              <a href="#">
+                <h4 class="showcase-title">BYD</h4>
+              </a>
+
+              <a href="#" class="showcase-category">Cars-Brands/a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>

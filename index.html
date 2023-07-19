@@ -1,0 +1,2466 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GreenWheels - Existing Vehicles Retrofication platform in India</title>
+
+  <!--
+    - favicon
+  -->
+  <link rel="shortcut icon" href="./assets/images/logo/favicon.ico" type="image/x-icon">
+  <!-- icofont-icon link -->
+  <link rel="stylesheet" href="/EEVs/Icofont-icons/icofont.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <!--
+    - custom css link
+  -->
+  <link rel="stylesheet" href="./assets/css/style-prefix.css">
+
+  <!--
+    - google font link
+  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="script.js"></script>
+
+</head>
+
+<body>
+
+
+  <div class="overlay" data-overlay></div>
+
+  <!--
+    - MODAL
+  -->
+
+  <div class="modal" data-modal>
+
+    <div class="modal-close-overlay" data-modal-overlay></div>
+
+    <div class="modal-content">
+
+      <button class="modal-close-btn" data-modal-close>
+        <ion-icon name="close-outline"></ion-icon>
+      </button>
+
+      <div class="newsletter-img">
+        <img src="./assets/images/chngtev.jpg" alt="subscribe newsletter" width="400" height="400">
+      </div>
+
+      <div class="newsletter">
+
+        <form action="#">
+
+          <div class="newsletter-header">
+
+            <h3 class="newsletter-title">Subscribe Newsletter.</h3>
+
+            <p class="newsletter-desc">
+              Subscribe the <b>GreenWheels</b> to get latest products and discount update.
+            </p>
+
+          </div>
+
+          <input type="email" name="email" class="email-field" placeholder="Email Address" required>
+
+          <button type="submit" class="btn-newsletter">Subscribe</button>
+
+        </form>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <!--
+    - HEADER
+  -->
+
+  <header>
+
+    <div class="header-main">
+      <div class="container">
+        <a href="http://localhost/GreenWheels/" class="header-logo">
+          <span>Green </span>Wheels
+        </a>
+
+        <div class="header-search-container">
+
+          <input type="search" name="search" class="search-field" placeholder="Enter your product name...">
+
+          <button class="search-btn">
+            <ion-icon name="search-outline"></ion-icon>
+          </button>
+
+        </div>
+
+        <div class="header-user-actions">
+          <div id="login-btn">
+            <button id="redirectButton">
+              <a href="session_decider.php">
+                <ion-icon name="person-outline"></ion-icon>
+              </a>
+            </button>
+            
+          </div>
+
+        </div>
+        <a href="http://localhost/GreenWheels/loginsystem/login_form.php" ><button type="button">LogOut</button></a>
+      </div>
+
+    </div>
+
+    <nav class="desktop-navigation-menu">
+
+      <div class="container">
+
+        <ul class="desktop-menu-category-list">
+
+          <li class="menu-category">
+            <a href="#" class="menu-title">New Ev</a>
+
+            <ul class="dropdown-list">
+
+              <li class="dropdown-item">
+                <a href="#">Car</a>
+              </li>
+
+              <li class="dropdown-item">
+                <a href="#">Bike</a>
+              </li>
+
+              <li class="dropdown-item">
+                <a href="#">Scooter</a>
+              </li>
+
+            </ul>
+          </li>
+
+
+          <li class="menu-category">
+            <a href="./sellev/mainsellev.php" class="menu-title">Sell Ev</a>
+          </li>
+
+          <li class="menu-category">
+            <a href="./buyusedev.php" class="menu-title">Used Ev</a>
+          </li>
+
+          <li class="menu-category">
+            <a href="./retrofication/retrofitter.html" class="menu-title">Retrofitter</a>
+          </li>
+
+          <li class="menu-category">
+            <a href="#" class="menu-title">Charging Point</a>
+
+            <ul class="dropdown-list">
+
+              <li class="dropdown-item">
+                <a href="#">Ahmedabad</a>
+              </li>
+
+              <li class="dropdown-item">
+                <a href="#">Bengaluru</a>
+              </li>
+
+              <li class="dropdown-item">
+                <a href="#">Delhi</a>
+              </li>
+
+              <li class="dropdown-item">
+                <a href="#">Mumbai</a>
+              </li>
+
+            </ul>
+          </li>
+
+          <li class="menu-category">
+            <a href="#" class="menu-title">Accessories</a>
+
+            <ul class="dropdown-list">
+
+              <li class="dropdown-item">
+                <a href="#"> car floor mat</a>
+              </li>
+
+              <li class="dropdown-item">
+                <a href="#"> Tyre</a>
+              </li>
+
+              <li class="dropdown-item">
+                <a href="#">Electric Car Blanket </a>
+              </li>
+
+              <li class="dropdown-item">
+                <a href="#">Extra Electric Car Cables</a>
+              </li>
+
+              <li class="dropdown-item">
+                <a href="#">Electric Car Jack</a>
+              </li>
+
+            </ul>
+          </li>
+
+          <li class="menu-category">
+            <button class="menu-title" id="serBtn" onclick="serviceBtn()">Services</button>
+          </li>
+
+          <li class="menu-category">
+            <a href="#" class="menu-title">Reviews & Videos</a>
+
+            <ul class="dropdown-list">
+
+              <li class="dropdown-item">
+                <a href="#">Ev News</a>
+              </li>
+
+              <li class="dropdown-item">
+                <a href="#">User Reviews</a>
+              </li>
+
+              <li class="dropdown-item">
+                <a href="#">Videos</a>
+              </li>
+
+            </ul>
+          </li>
+
+        </ul>
+
+      </div>
+
+    </nav>
+
+    <div class="mobile-bottom-navigation">
+
+      <button class="action-btn" data-mobile-menu-open-btn>
+        <ion-icon name="menu-outline"></ion-icon>
+      </button>
+
+      <button class="action-btn">
+        <ion-icon name="bag-handle-outline"></ion-icon>
+
+        <span class="count">0</span>
+      </button>
+
+      <button class="action-btn">
+        <ion-icon name="home-outline"></ion-icon>
+      </button>
+
+      <button class="action-btn">
+        <ion-icon name="heart-outline"></ion-icon>
+
+        <span class="count">0</span>
+      </button>
+
+      <button class="action-btn" data-mobile-menu-open-btn>
+        <ion-icon name="grid-outline"></ion-icon>
+      </button>
+
+    </div>
+
+  </header>
+
+
+  <!--
+    - MAIN
+  -->
+
+  <main>
+
+    <!--
+      - BANNER
+    -->
+
+    <div class="banner">
+
+      <div class="container">
+
+        <div class="slider-container has-scrollbar">
+
+          <div class="slider-item">
+
+            <img src="./assets/images/banner-1.jpeg" alt="women's latest fashion sale" class="banner-img">
+
+          </div>
+
+          <div class="slider-item">
+
+            <img src="./assets/images/banner-2.jpeg" alt="modern sunglasses" class="banner-img">
+
+          </div>
+
+          <div class="slider-item">
+
+            <img src="./assets/images/banner-3.png" alt="new fashion summer sale" class="banner-img">
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!--
+      - CATEGORY
+    -->
+
+    <div class="category">
+
+      <div class="container">
+
+        <div class="category-item-container has-scrollbar">
+
+          <div class="category-item">
+
+            <div class="category-img-box">
+              <img src="./assets/images/icons/New_Evs.png" alt="New Evs" width="30">
+            </div>
+
+            <div class="category-content-box">
+
+              <div class="category-content-flex">
+                <h3 class="category-item-title">New Ev</h3>
+              </div>
+
+            </div>
+
+          </div>
+          
+          <div class="category-item">
+              
+            <div class="category-img-box">
+              <a href=".\sellev\mainsellev.php" target="_blank"><img src="./assets/images/icons/Sell_Ev.png" alt="Sell Evs" width="30">
+              
+              
+            </div>
+
+            <div class="category-content-box">
+
+              <div class="category-content-flex">
+                <h3 class="category-item-title">Sell Ev</h3>
+              
+              </div>
+
+            </div>
+
+          </div></a>
+          
+          <div class="category-item">
+              
+            <div class="category-img-box">
+              <a href="./buyusedev.php" target="_blank"><img src="./assets/images/icons/Sell_Ev.png" alt="Sell Evs" width="30">
+              
+              
+            </div>
+
+            <div class="category-content-box">
+
+              <div class="category-content-flex">
+                <h3 class="category-item-title">Used Ev</h3>
+              
+              </div>
+
+            </div>
+
+          </div></a>
+
+          <div class="category-item">
+
+            <div class="category-img-box">
+              <a href="http://localhost/GreenWheels/retrofication/retro_main.php" target="_blank"><img src="./assets/images/icons/Retrofitter.png" alt="Retrofitter" width="30">
+            </div>
+
+            <div class="category-content-box">
+
+              <div class="category-content-flex">
+                <h3 class="category-item-title">Retrofitter</h3>
+              </div>
+
+            </div>
+
+          </div></a>
+
+          <div class="category-item">
+
+            <div class="category-img-box">
+              <img src="./assets/images/icons/Ev_Serv.png" alt="Evs Service" width="30">
+            </div>
+
+            <div class="category-content-box">
+
+              <div class="category-content-flex">
+                <a href="#Services" class="category-item-title" id="evserv" >Ev Service</a>
+              </div>
+
+            </div>
+
+          </div>
+
+          <script>
+            var f1=document.getElementById('evserv');
+            function serviceBtn()
+    {
+          
+          f1.scrollIntoView({ behavior: "smooth" });
+          
+    }
+          </script>
+          <div class="category-item">
+
+            <div class="category-img-box">
+              <img src="./assets/images/icons/Charg_pnt.png" alt="Charging Point" width="30">
+            </div>
+
+            <div class="category-content-box">
+
+              <div class="category-content-flex">
+                <h3 class="category-item-title">Charging Point</h3>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="category-item">
+
+            <div class="category-img-box">
+              <img src="./assets/images/icons/Accessories.png" alt="Accessories" width="30">
+            </div>
+
+            <div class="category-content-box">
+
+              <div class="category-content-flex">
+                <h3 class="category-item-title">Accessories</h3>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="category-item">
+
+            <div class="category-img-box">
+              <img src="./assets/images/icons/Ev_News.png" alt="Evs News" width="30">
+            </div>
+
+            <div class="category-content-box">
+
+              <div class="category-content-flex">
+                <h3 class="category-item-title">Ev News</h3>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="category-item">
+
+            <div class="category-img-box">
+              <img src="./assets/images/icons/User_Review.png" alt="User Review" width="30">
+            </div>
+
+            <div class="category-content-box">
+
+              <div class="category-content-flex">
+                <h3 class="category-item-title">User Reviews</h3>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="category-item">
+
+            <div class="category-img-box">
+              <img src="./assets/images/icons/Brands.png" alt="Brands" width="30">
+            </div>
+
+            <div class="category-content-box">
+
+              <div class="category-content-flex">
+                <h3 class="category-item-title">Brands</h3>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="category-item">
+
+            <div class="category-img-box">
+              <img src="./assets/images/icons/Video.png" alt="Video" width="30">
+            </div>
+
+            <div class="category-content-box">
+
+              <div class="category-content-flex">
+                <h3 class="category-item-title">Videos</h3>
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+
+
+    <!--
+      - PRODUCT
+    -->
+
+    <div class="product-container">
+
+      <div class="container">
+
+
+        <!--
+          - SIDEBAR
+        -->
+
+        <div class="sidebar has-scrollbar" data-mobile-menu>
+
+          <div class="sidebar-category">
+
+            <div class="sidebar-top">
+              <h2 class="sidebar-title">Category</h2>
+
+              <button class="toast-close-btn" data-toast-close>
+              </button>
+
+              <button class="sidebar-close-btn" data-mobile-menu-close-btn>
+                <ion-icon name="close-outline"></ion-icon>
+              </button>
+            </div>
+
+            <ul class="sidebar-menu-category-list">
+
+              <li class="sidebar-menu-category">
+
+                <button class="sidebar-accordion-menu" data-accordion-btn>
+
+                  <div class="menu-title-flex">
+                    <img src="./assets/images/icons/Brands.png" alt="clothes" width="20" height="20"
+                      class="menu-title-img">
+
+                    <p class="menu-title">Passenger-ricksaw</p>
+                  </div>
+
+                  <div>
+                    <ion-icon name="add-outline" class="add-icon"></ion-icon>
+                    <ion-icon name="remove-outline" class="remove-icon"></ion-icon>
+                  </div>
+
+                </button>
+
+                <ul class="sidebar-submenu-category-list" data-accordion>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Tata Vehicles</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Mahindra Vehicles</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Ashok Leyland Vehicles</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Piaggio Vehicles</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Bharat Benz vehicles</p>
+                    </a>
+                  </li>
+
+                </ul>
+
+              </li>
+
+              <li class="sidebar-menu-category">
+
+                <button class="sidebar-accordion-menu" data-accordion-btn>
+
+                  <div class="menu-title-flex">
+                    <img src="./assets/images/icons/shoes.svg" alt="footwear" class="menu-title-img" width="20"
+                      height="20">
+
+                    <p class="menu-title">Electric-Bike</p>
+                  </div>
+
+                  <div>
+                    <ion-icon name="add-outline" class="add-icon"></ion-icon>
+                    <ion-icon name="remove-outline" class="remove-icon"></ion-icon>
+                  </div>
+
+                </button>
+
+                <ul class="sidebar-submenu-category-list" data-accordion>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Bajaj Bikes</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">TVS Bikes</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Hero Bikes</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Honda Bikes</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Yamaha Bikes</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">KTM Bikes</p>
+                    </a>
+                  </li>
+
+                </ul>
+
+              </li>
+
+              <li class="sidebar-menu-category">
+
+                <button class="sidebar-accordion-menu" data-accordion-btn>
+
+                  <div class="menu-title-flex">
+                    <img src="./assets/images/icons/jewelry.svg" alt="clothes" class="menu-title-img" width="20"
+                      height="20">
+
+                    <p class="menu-title">Electric-Scooter</p>
+                  </div>
+
+                  <div>
+                    <ion-icon name="add-outline" class="add-icon"></ion-icon>
+                    <ion-icon name="remove-outline" class="remove-icon"></ion-icon>
+                  </div>
+
+                </button>
+
+                <ul class="sidebar-submenu-category-list" data-accordion>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">TVS Scooters</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Hero Scooters</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Honda Scooters</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Yamaha Scooters</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Bajaj Scooters</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Suzuki Scooters</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Vespa Scooters</p>
+                    </a>
+                  </li>
+
+                </ul>
+
+              </li>
+
+              <li class="sidebar-menu-category">
+
+                <button class="sidebar-accordion-menu" data-accordion-btn>
+
+                  <div class="menu-title-flex">
+                    <img src="./assets/images/icons/perfume.svg" alt="perfume" class="menu-title-img" width="20"
+                      height="20">
+
+                    <p class="menu-title">Electric-Car</p>
+                  </div>
+
+                  <div>
+                    <ion-icon name="add-outline" class="add-icon"></ion-icon>
+                    <ion-icon name="remove-outline" class="remove-icon"></ion-icon>
+                  </div>
+
+                </button>
+
+                <ul class="sidebar-submenu-category-list" data-accordion>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Tata Cars</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Maruti Suzuki Cars</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Mahindra Cars</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Hyundai Cars</p>>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Kia Cars</p>>
+                    </a>
+                  </li>
+
+                </ul>
+
+              </li>
+
+              <li class="sidebar-menu-category">
+
+                <button class="sidebar-accordion-menu" data-accordion-btn>
+
+                  <div class="menu-title-flex">
+                    <img src="./assets/images/icons/glasses.svg" alt="glasses" class="menu-title-img" width="20"
+                      height="20">
+
+                    <p class="menu-title" id="Services">E-Service</p>
+                  </div>
+
+                  <div>
+                    <ion-icon name="add-outline" class="add-icon"></ion-icon>
+                    <ion-icon name="remove-outline" class="remove-icon"></ion-icon>
+                  </div>
+
+                </button>
+
+                <ul class="sidebar-submenu-category-list" data-accordion>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Perodic Services</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Denting & Painting</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Car Spa & Cleaning</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Engine Service</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Tyre & Wheel Care</p>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Custom Service</p>
+                    </a>
+                  </li>
+
+                </ul>
+
+              </li>
+
+            </ul>
+
+          </div>
+
+          <div class="product-showcase">
+
+            <h3 class="showcase-heading">best Dellers</h3>
+
+            <div class="showcase-wrapper">
+
+              <div class="showcase-container">
+
+                <div class="showcase">
+
+                  <a href="#" class="showcase-img-box">
+                    <img src="./assets/images/products/Etrio.png" alt="baby fabric shoes" width="75" height="75"
+                      class="showcase-img">
+                  </a>
+
+                  <div class="showcase-content">
+
+                    <a href="#">
+                      <h4 class="showcase-title">E-trio</h4>
+                    </a>
+
+                  </div>
+
+                </div>
+
+                <div class="showcase">
+
+                  <a href="#" class="showcase-img-box">
+                    <img src="./assets/images/products/Joy_L.png" alt="men's hoodies t-shirt" class="showcase-img"
+                      width="75" height="75">
+                  </a>
+
+                  <div class="showcase-content">
+
+                    <a href="#">
+                      <h4 class="showcase-title">Joy e-bike</h4>
+                    </a>
+
+                  </div>
+
+                </div>
+
+                <div class="showcase">
+
+                  <a href="#" class="showcase-img-box">
+                    <img src="./assets/images/products/Hero_L.png" alt="girls t-shirt" class="showcase-img" width="75"
+                      height="75">
+                  </a>
+
+                  <div class="showcase-content">
+
+                    <a href="#">
+                      <h4 class="showcase-title">Hero</h4>
+                    </a>
+
+                  </div>
+
+                </div>
+
+                <div class="showcase">
+
+                  <a href="#" class="showcase-img-box">
+                    <img src="./assets/images/products/ather.png" alt="woolen hat for men" class="showcase-img"
+                      width="75" height="75">
+                  </a>
+
+                  <div class="showcase-content">
+
+                    <a href="#">
+                      <h4 class="showcase-title">Ather</h4>
+                    </a>
+
+                  </div>
+
+                </div>
+
+                <div class="showcase">
+
+                  <a href="#" class="showcase-img-box">
+                    <img src="./assets/images/products/Ampere.png" alt="woolen hat for men" class="showcase-img"
+                      width="75" height="75">
+                  </a>
+
+                  <div class="showcase-content">
+
+                    <a href="#">
+                      <h4 class="showcase-title">Ampere</h4>
+                    </a>
+
+                  </div>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+
+        <div class="product-box">
+
+          <!--
+            - PRODUCT MINIMAL
+          -->
+
+          <div class="product-main">
+
+            <h2 class="title">New Arivals</h2>
+
+            <div class="product-grid">
+
+              <div class="showcase">
+
+                <div class="showcase-banner">
+
+                  <img src="./assets/images/products/RV400_1.webp" alt="Mens Winter Leathers Jackets" width="300"
+                    class="product-img default">
+                  <img src="./assets/images/products/RV400_2.webp" alt="Mens Winter Leathers Jackets" width="300"
+                    class="product-img hover">
+
+                  <!-- <p class="showcase-badge">EV</p> -->
+
+                  <div class="showcase-actions">
+
+                    <button class="btn-action">
+                      <ion-icon name="heart-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="repeat-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="bag-add-outline"></ion-icon>
+                    </button>
+
+                  </div>
+
+                </div>
+
+                <div class="showcase-content">
+
+                  <a href="#" class="showcase-category">E-Bike</a>
+
+                  <a href="#">
+                    <h3 class="showcase-title">Revolt RV400</h3>
+                  </a>
+
+                  <div class="price-box">
+                    <p class="price">Rs. 1.24 Lakh</p>
+                  </div>
+
+                </div>
+
+              </div>
+
+              <div class="showcase">
+
+                <div class="showcase-banner">
+                  <img src="./assets/images/products/U_F77_1.avif" alt="Pure Garment Dyed Cotton Shirt"
+                    class="product-img default" width="300">
+                  <img src="./assets/images/products/U_F77_2.avif" alt="Pure Garment Dyed Cotton Shirt"
+                    class="product-img hover" width="300">
+
+                  <div class="showcase-actions">
+                    <button class="btn-action">
+                      <ion-icon name="heart-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="repeat-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="bag-add-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="showcase-content">
+                  <a href="#" class="showcase-category">E-Bike</a>
+
+                  <h3>
+                    <a href="#" class="showcase-title">Ultraviolette F77</a>
+                  </h3>
+
+                  <div class="price-box">
+                    <p class="price">Rs. 3.80 Lakh</p>
+                  </div>
+
+                </div>
+
+              </div>
+
+              <div class="showcase">
+
+                <div class="showcase-banner">
+                  <img src="./assets/images/products/Tork_1.webp" alt="MEN Yarn Fleece Full-Zip Jacket"
+                    class="product-img default" width="300">
+                  <img src="./assets/images/products/Tork_2.webp" alt="MEN Yarn Fleece Full-Zip Jacket"
+                    class="product-img hover" width="300">
+
+                  <div class="showcase-actions">
+                    <button class="btn-action">
+                      <ion-icon name="heart-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="repeat-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="bag-add-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="showcase-content">
+                  <a href="#" class="showcase-category">E-Bike</a>
+
+                  <h3>
+                    <a href="#" class="showcase-title">Tork kartos</a>
+                  </h3>
+
+                  <div class="price-box">
+                    <p class="price">Rs. 1.12 Lakh</p>
+                  </div>
+
+                </div>
+
+              </div>
+
+              <div class="showcase">
+
+                <div class="showcase-banner">
+                  <img src="./assets/images/products/Oddy_1.jpg" alt="Black Floral Wrap Midi Skirt"
+                    class="product-img default" width="300">
+                  <img src="./assets/images/products/Oddy_2.jpg" alt="Black Floral Wrap Midi Skirt"
+                    class="product-img hover" width="300">
+
+                  <!-- <p class="showcase-badge angle pink">new</p> -->
+
+                  <div class="showcase-actions">
+                    <button class="btn-action">
+                      <ion-icon name="heart-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="repeat-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="bag-add-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="showcase-content">
+                  <a href="#" class="showcase-category">E-Bike</a>
+
+                  <h3>
+                    <a href="#" class="showcase-title">Odysse Electric STD</a>
+                  </h3>
+
+                  <div class="price-box">
+                    <p class="price">Rs. 1.50 Lakh</p>
+                  </div>
+
+                </div>
+
+              </div>
+
+              <div class="showcase">
+
+                <div class="showcase-banner">
+                  <img src="./assets/images/products/OlaS1Pro_1.webp" alt="Casual Men's Brown shoes"
+                    class="product-img default" width="300">
+                  <img src="./assets/images/products/OlaS1Pro_2.webp" alt="Casual Men's Brown shoes"
+                    class="product-img hover" width="300">
+
+                  <div class="showcase-actions">
+                    <button class="btn-action">
+                      <ion-icon name="heart-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="repeat-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="bag-add-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="showcase-content">
+                  <a href="#" class="showcase-category">E-Scooter</a>
+
+                  <h3>
+                    <a href="#" class="showcase-title">Ola S1 Pro</a>
+                  </h3>
+
+                  <div class="price-box">
+                    <p class="price">Rs. 1.32 Lakh</p>
+                  </div>
+
+                </div>
+
+              </div>
+
+              <div class="showcase">
+
+                <div class="showcase-banner">
+                  <img src="./assets/images/products/450_1.avif" alt="Pocket Watch Leather Pouch"
+                    class="product-img default" width="300">
+                  <img src="./assets/images/products/450_2.avif" alt="Pocket Watch Leather Pouch"
+                    class="product-img hover" width="300">
+
+                  <!-- <p class="showcase-badge angle black">sale</p> -->
+
+                  <div class="showcase-actions">
+                    <button class="btn-action">
+                      <ion-icon name="heart-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="repeat-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="bag-add-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="showcase-content">
+                  <a href="#" class="showcase-category">E-Scooter</a>
+
+                  <h3>
+                    <a href="#" class="showcase-title">Ather 450 X</a>
+                  </h3>
+
+                  <div class="price-box">
+                    <p class="price">Rs. 1.46 Lakh</p>
+                  </div>
+
+                </div>
+
+              </div>
+
+              <div class="showcase">
+
+                <div class="showcase-banner">
+                  <img src="./assets/images/products/REO_1.webp" alt="Smart watche Vital Plus"
+                    class="product-img default" width="300">
+                  <img src="./assets/images/products/REO_2.webp" alt="Smart watche Vital Plus" class="product-img hover"
+                    width="300">
+
+                  <div class="showcase-actions">
+                    <button class="btn-action">
+                      <ion-icon name="heart-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="repeat-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="bag-add-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="showcase-content">
+                  <a href="#" class="showcase-category">E-Scooter</a>
+
+                  <h3>
+                    <a href="#" class="showcase-title">Ampere Reo La</a>
+                  </h3>
+
+                  <div class="price-box">
+                    <p class="price">Rs 42,990</p>
+                  </div>
+
+                </div>
+
+              </div>
+
+              <div class="showcase">
+
+                <div class="showcase-banner">
+                  <img src="./assets/images/products/Chetak_1.webp" alt="Womens Party Wear Shoes"
+                    class="product-img default" width="300">
+                  <img src="./assets/images/products/Chetak_2.webp" alt="Womens Party Wear Shoes"
+                    class="product-img hover" width="300">
+
+                  <!-- <p class="showcase-badge angle black">sale</p> -->
+
+                  <div class="showcase-actions">
+                    <button class="btn-action">
+                      <ion-icon name="heart-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="repeat-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="bag-add-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="showcase-content">
+                  <a href="#" class="showcase-category">E-Scooter</a>
+
+                  <h3>
+                    <a href="#" class="showcase-title">Bajaj Chetak</a>
+                  </h3>
+
+                  <div class="price-box">
+                    <p class="price">Rs. 1.15 Lakh</p>
+                  </div>
+
+                </div>
+
+              </div>
+
+              <div class="showcase">
+
+                <div class="showcase-banner">
+                  <img src="./assets/images/products/nexon_1.webp" alt="Mens Winter Leathers Jackets"
+                    class="product-img default" width="300">
+                  <img src="./assets/images/products/nexon_2.webp" alt="Mens Winter Leathers Jackets"
+                    class="product-img hover" width="300">
+
+                  <div class="showcase-actions">
+                    <button class="btn-action">
+                      <ion-icon name="heart-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="repeat-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="bag-add-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="showcase-content">
+                  <a href="#" class="showcase-category">E-Car</a>
+
+                  <h3>
+                    <a href="#" class="showcase-title">Tata Nexon EV XZ</a>
+                  </h3>
+
+                  <div class="price-box">
+                    <p class="price">Rs. 17.37 Lakh</p>
+                  </div>
+
+                </div>
+
+              </div>
+
+              <div class="showcase">
+
+                <div class="showcase-banner">
+                  <img src="./assets/images/products/MB_EQS_1.webp" alt="Trekking & Running Shoes - black"
+                    class="product-img default" width="300">
+                  <img src="./assets/images/products/MB_EQS_2.webp" alt="Trekking & Running Shoes - black"
+                    class="product-img hover" width="300">
+
+                  <!-- <p class="showcase-badge angle black">sale</p> -->
+
+                  <div class="showcase-actions">
+                    <button class="btn-action">
+                      <ion-icon name="heart-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="repeat-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="bag-add-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="showcase-content">
+                  <a href="#" class="showcase-category">E-Car</a>
+
+                  <h3>
+                    <a href="#" class="showcase-title">Mercedes-Benz EQS</a>
+                  </h3>
+
+                  <div class="price-box">
+                    <p class="price">Rs. 1.59 Core</p>
+                  </div>
+
+                </div>
+
+              </div>
+
+              <div class="showcase">
+
+                <div class="showcase-banner">
+                  <img src="./assets/images/products/Tiagor_1.png" alt="Men's Leather Formal Wear shoes"
+                    class="product-img default" width="300">
+                  <img src="./assets/images/products/Tiagor_2.png" alt="Men's Leather Formal Wear shoes"
+                    class="product-img hover" width="300">
+
+                  <div class="showcase-actions">
+                    <button class="btn-action">
+                      <ion-icon name="heart-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="repeat-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="bag-add-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="showcase-content">
+                  <a href="#" class="showcase-category">E-Car</a>
+
+                  <h3>
+                    <a href="#" class="showcase-title">Tata Tigor EV</a>
+                  </h3>
+
+                  <div class="price-box">
+                    <p class="price">Rs. 12.49 Lakh</p>
+                  </div>
+
+                </div>
+
+              </div>
+
+              <div class="showcase">
+
+                <div class="showcase-banner">
+                  <img src="./assets/images/products/Kia_1.avif" alt="Better Basics French Terry Sweatshorts"
+                    class="product-img default" width="300">
+                  <img src="./assets/images/products/Kia_2.avif" alt="Better Basics French Terry Sweatshorts"
+                    class="product-img hover" width="300">
+
+                  <!-- <p class="showcase-badge angle black">sale</p> -->
+
+                  <div class="showcase-actions">
+                    <button class="btn-action">
+                      <ion-icon name="heart-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="repeat-outline"></ion-icon>
+                    </button>
+
+                    <button class="btn-action">
+                      <ion-icon name="bag-add-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+                <a href="./product_View.html">
+                <div class="showcase-content">
+                  <a href="./product_View.html" class="showcase-category">E-Car</a>
+
+                  <h3>
+                    <a href="./product_View.html" class="showcase-title">Kia EV6</a>
+                  </h3>
+
+                  <div class="price-box">
+                    <p class="price">Rs. 60.95 Lakh</p>
+                  </div>
+                  </a>
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <!--
+            - PRODUCT FEATURED
+          -->
+
+          <div class="product-featured">
+
+            <h2 class="title">latest Updates</h2>
+
+            <div class="showcase-wrapper has-scrollbar">
+
+              <div class="showcase-container">
+
+                <div class="showcase">
+
+                  <div class="showcase-banner">
+                    <img src="./assets/images/products/Kia_3.jpg" alt="shampoo, conditioner & facewash packs"
+                      class="showcase-img">
+                  </div>
+
+                  <div class="showcase-content">
+
+                    <a href="#">
+                      <h3 class="showcase-title">Kia EV6</h3>
+                    </a>
+
+                    <p class="showcase-desc">
+                      Kia EV6 Order Books Open From TODAY, First 200 Buyers Geet These Benefits
+                    </p>
+
+                  </div>
+
+                </div>
+
+              </div>
+
+              <div class="showcase-container">
+
+                <div class="showcase">
+
+                  <div class="showcase-banner">
+                    <img src="./assets/images/products/HD.jpg" alt="shampoo, conditioner & facewash packs"
+                      class="showcase-img">
+                  </div>
+
+                  <div class="showcase-content">
+
+                    <a href="#">
+                      <h3 class="showcase-title">Harley-Davidson S2 Del Mar</h3>
+                    </a>
+
+                    <p class="showcase-desc">
+                      The Harley-Davidson S2 Del Mar has been introduced in the global markets.
+                    </p>
+
+                  </div>
+
+                </div>
+
+              </div>
+
+              <div class="showcase-container">
+
+                <div class="showcase">
+
+                  <div class="showcase-banner">
+                    <img src="./assets/images/products/Volvo_C40.jpg" alt="shampoo, conditioner & facewash packs"
+                      class="showcase-img">
+                  </div>
+
+                  <div class="showcase-content">
+
+                    <a href="#">
+                      <h3 class="showcase-title">Volvo C40</h3>
+                    </a>
+
+                    <p class="showcase-desc">
+                      Volvo has confirmed that the C40 Recharge will be launched in India in 2023.
+                    </p>
+
+                  </div>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <!--
+            - PRODUCT GRID
+          -->
+          <div class="category">
+
+            <h2 class="title">Scooters-Brand</h2>
+
+            <div class="container">
+
+              <div class="category-item-container has-scrollbar">
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/tvs_L.png" alt="New Evs" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">TVS</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Bajaj.png" alt="Sell Evs" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Bajaj</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Yamaha_L.png" alt="Retrofitter" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Yamaha</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Ampere.png" alt="Evs Service" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Ampere</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Hero_L.png" alt="Charging Point" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Hero</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Honda_L.png" alt="Accessories" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Honda</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Evolet.png" alt="Evs News" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Evolet</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Earth_L.png" alt="User Review" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Earth Energy</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="category">
+
+            <h2 class="title">Bike-Brands</h2>
+
+            <div class="container">
+
+              <div class="category-item-container has-scrollbar">
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Revolt_L.png" alt="New Evs" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Revolt</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Komaki_L.png" alt="Sell Evs" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Komaki</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Blacksmith_L.jpeg" alt="Retrofitter" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Blacksmit</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Joy_L.png" alt="Evs Service" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Joy e-bike</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Tork_L.png" alt="Charging Point" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Tork</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Hero_L.png" alt="Accessories" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Hero</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Odysse_L.png" alt="Evs News" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Odysse</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Ultraviolette_L.png" alt="User Review" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Ultraviolette</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="category">
+
+            <h2 class="title">Cars-Brands</h2>
+
+            <div class="container">
+
+              <div class="category-item-container has-scrollbar">
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Tata_L.png" alt="New Evs" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Tata</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Bajaj.png" alt="Sell Evs" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Bajaj</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Hyundai_L.png" alt="Retrofitter" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Hyundai</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Mahaindra.jpg" alt="Evs Service" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Mahindra</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Kia_L.png" alt="Charging Point" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Kia</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/mercedes_L.jpg" alt="Accessories" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Mercedes-Benz</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/Audi_L.png" alt="Evs News" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">Audi</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="category-item">
+
+                  <div class="category-img-box">
+                    <img src="./assets/images/products/MG.jpeg" alt="User Review" width="30">
+                  </div>
+
+                  <div class="category-content-box">
+
+                    <div class="category-content-flex">
+                      <h3 class="category-item-title">MG Motors</h3>
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <!--
+      - BLOG
+    -->
+
+    <div class="blog">
+
+      <div class="container">
+        <h2 class="title">Reviews on Vehicles</h2>
+
+        <div class="blog-container has-scrollbar">
+
+          <div class="blog-card">
+
+            <a href="#">
+              <img src="./assets/images/MG_Comet.jpg" alt="Clothes Retail KPIs 2021 Guide for Clothes Executives"
+                width="300" class="blog-banner">
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Car</a>
+
+              <a href="#">
+                <h3 class="blog-title">MG Comet EV First Drive Review: More Than just A Toy.</h3>
+              </a>
+
+              <p class="blog-meta">
+                By <cite>Team GreenWheels</cite> | <time datetime="2023-04-27">Apr 27, 2023</time>
+              </p>
+
+            </div>
+
+          </div>
+
+          <div class="blog-card">
+
+            <a href="#">
+              <img src="./assets/images/Tiagor_1.jpg" alt="Clothes Retail KPIs 2021 Guide for Clothes Executives"
+                width="300" class="blog-banner">
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Car</a>
+
+              <a href="#">
+                <h3 class="blog-title">Tata Tiago EV First Drive | Your first Electric?</h3>
+              </a>
+
+              <p class="blog-meta">
+                By <cite>Team GreenWheels</cite> / <time datetime="2022-12-24">Dec 24, 2022</time>
+              </p>
+
+            </div>
+
+          </div>
+
+          <div class="blog-card">
+
+            <a href="#">
+              <img src="./assets/images/MG_ZS.jpg" alt="Clothes Retail KPIs 2021 Guide for Clothes Executives"
+                width="300" class="blog-banner">
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Car</a>
+
+              <a href="#">
+                <h3 class="blog-title">2022 MG ZS EV: EV Formula Refined.</h3>
+              </a>
+
+              <p class="blog-meta">
+                By <cite>Team GreenWheels</cite> / <time datetime="2022-03-31">Mar 31, 2022</time>
+              </p>
+
+            </div>
+
+          </div>
+
+          <div class="blog-card">
+
+            <a href="#">
+              <img src="./assets/images/Kia_2.avif" alt="Clothes Retail KPIs 2021 Guide for Clothes Executives"
+                width="300" class="blog-banner">
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Car</a>
+
+              <a href="#">
+                <h3 class="blog-title">KIA EV6 First Drive | Well Rounded Electric Power.</h3>
+              </a>
+
+              <p class="blog-meta">
+                By <cite>Team GreenWheels</cite> / <time datetime="2022-05-24">May 25, 2022</time>
+              </p>
+
+            </div>
+
+          </div>
+
+          <div class="blog-card">
+
+            <a href="#">
+              <img src="./assets/images/Oddy_1.jpg" alt="Clothes Retail KPIs 2021 Guide for Clothes Executives"
+                width="300" class="blog-banner">
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Bike</a>
+
+              <a href="#">
+                <h3 class="blog-title">Odysse Evoqis review: One Bike, Many Names, Same Story</h3>
+              </a>
+
+              <p class="blog-meta">
+                By <cite>Team GreenWheels</cite> / <time datetime="2023-03-26">Mar 26, 2023</time>
+              </p>
+
+            </div>
+
+          </div>
+
+          <div class="blog-card">
+
+            <a href="#">
+              <img src="./assets/images/U_F77_1.jpg" alt="Clothes Retail KPIs 2021 Guide for Clothes Executives"
+                width="300" class="blog-banner">
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Bike</a>
+
+              <a href="#">
+                <h3 class="blog-title">We Rode India's Fastest Electric 2-wheeler.</h3>
+              </a>
+
+              <p class="blog-meta">
+                By <cite>Team GreenWheels</cite> / <time datetime="2023-01-30">Jan 30, 2023</time>
+              </p>
+
+            </div>
+
+          </div>
+
+          <div class="blog-card">
+
+            <a href="#">
+              <img src="./assets/images/Tork_1.jpg" alt="Clothes Retail KPIs 2021 Guide for Clothes Executives"
+                width="300" class="blog-banner">
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Bike</a>
+
+              <a href="#">
+                <h3 class="blog-title">Tork Katros R First Ride Review: The Desi e-Mortocycle.</h3>
+              </a>
+
+              <p class="blog-meta">
+                By <cite>Team GreenWheels</cite> / <time datetime="2023-02-27">Feb 27, 2023</time>
+              </p>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="blog">
+
+      <div class="container">
+        <h2 class="title">Reviews on Vehicles</h2>
+
+        <div class="blog-container has-scrollbar">
+
+          <div class="blog-card">
+
+            <a href="#">
+              <iframe width="320" height="185" src="https://www.youtube.com/embed/3YH144vc7dI"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Car</a>
+
+              <a href="#">
+                <h3 class="blog-title">MG Comet EV First Drive Review: Features, Performance</h3>
+              </a>
+
+              <p class="blog-meta">
+                <time datetime="2023-04-27">Apr 27, 2023</time> | <cite>24K views</cite>
+              </p>
+
+            </div>
+
+          </div>
+
+          <div class="blog-card">
+
+            <a href="#">
+              <iframe width="320" height="185" src="https://www.youtube.com/embed/9Qdxqj3rMNM"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Car</a>
+
+              <a href="#">
+                <h3 class="blog-title">Tata Tiago EV First Look | India's First Affordable E-Car</h3>
+              </a>
+
+              <p class="blog-meta">
+                <time datetime="2022-8-1">Oct 1, 2022</time> | <cite>81K views</cite>
+              </p>
+
+            </div>
+
+          </div>
+
+          <div class="blog-card">
+
+            <a href="#">
+              <iframe width="320" height="185" src="https://www.youtube.com/embed/mviD0iADUlw"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Car</a>
+
+              <a href="#">
+                <h3 class="blog-title">2022 MG ZS EV review: Electric SUV Features, Performance </h3>
+              </a>
+
+              <p class="blog-meta">
+                <time datetime="2022-03-31">Mar 31, 2022</time> |<cite>237K views</cite>
+              </p>
+
+            </div>
+
+          </div>
+
+          <div class="blog-card">
+
+            <a href="#">
+              <iframe width="320" height="185" src="https://www.youtube.com/embed/L8kKOImWts8"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Car</a>
+
+              <a href="#">
+                <h3 class="blog-title">KIA EV6 Electric Crossover launched At Rs59.95 Lakh.</h3>
+              </a>
+
+              <p class="blog-meta">
+                <time datetime="2022-06-2">Jun 2, 2022</time> | <cite>290K views </cite>
+              </p>
+
+            </div>
+
+          </div>
+
+          <div class="blog-card">
+
+            <a href="#">
+              <iframe width="320" height="185" src="https://www.youtube.com/embed/_cyTZPy77nU?start=37"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Bike</a>
+
+              <a href="#">
+                <h3 class="blog-title">Odysse Evoqis Electric Bike: Full Review, Price & Finance Option</h3>
+              </a>
+
+              <p class="blog-meta">
+                <time datetime="2023-04-19">Apr 19, 2023</time> | <cite>8.4K views</cite>
+              </p>
+
+            </div>
+
+          </div>
+
+          <div class="blog-card">
+
+            <a href="#">
+              <iframe width="320" height="185" src="https://www.youtube.com/embed/y2xX7PxAEv8"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Bike</a>
+
+              <a href="#">
+                <h3 class="blog-title">2023 Ultraviolette F77 review - Is it what we'd hoped for?</h3>
+              </a>
+
+              <p class="blog-meta">
+                <time datetime="2023-04-30">Apr 30, 2023</time> | <cite>286K views</cite>
+              </p>
+
+            </div>
+
+          </div>
+
+          <div class="blog-card">
+
+            <a href="#">
+              <iframe width="320" height="185" src="https://www.youtube.com/embed/JpbBzCQPTi0"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+            </a>
+
+            <div class="blog-content">
+
+              <a href="#" class="blog-category">Electric-Bike</a>
+
+              <a href="#">
+                <h3 class="blog-title">2022 Tork Katros Review: Tork of the town| First Ride</h3>
+              </a>
+
+              <p class="blog-meta">
+                <time datetime="2022-02-27">Feb 27, 2022</time> | <cite>207K views</cite>
+              </p>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </main>
+
+
+
+
+
+  <!--
+    - FOOTER
+  -->
+
+  <footer>
+    <div class="row primary">
+      <div class="column about">
+        <h3 class="h3">Connect with us</h3>
+        <!--<p>
+                <i class="fa fa-map-marker" aria-hidden="true"></i>   Sienna Towers, Service Road, Bangalore
+            </p>-->
+        <div class="social">
+          <i class="fa fa-facebook-square"></i>
+          <i class="fa fa-twitter-square"></i>
+          <i class="fa fa-linkedin-square"></i>
+          <i class="fa fa-instagram"></i>
+        </div>
+      </div>
+
+      <div class="column link">
+        <h3 class="h3">Company</h3>
+        <ul class="colink">
+          <li class="link"><a href="/About Us.html" class="alink">About us</a></li>
+          <li class="link"><a href="./Contact us/Contact us.html" class="alink">Contact us</a></li>
+          <li class="link"><a href="/team.html" class="alink">Team</a></li>
+
+        </ul>
+      </div>
+
+      <div class="column subscribe">
+        <h3 class="h3">Newsletter</h3>
+        <div>
+          <input id="email" type="email" placeholder="Your email id here" />
+          <button id="sub">Subscribe</button>
+        </div>
+      </div>
+    </div>
+    <div class="row copyright">
+      <div class="footer-menu">
+        <a href="/FAQ.html" class="alink">F.A.Q</a>
+        <a href="" class="alink">Privacy Policy</a>
+        <a href="" class="alink">Terms & Conditions</a>
+
+      </div>
+
+      <div class="footer-bottom">
+
+        <div class="containe">
+
+          <p class="copyright">
+            Copyright &copy; <a href="#"> GreenWheels</a> all rights reserved.
+          </p>
+
+        </div>
+
+      </div>
+
+  </footer>
+
+
+
+
+
+
+  <!--
+    - custom js link
+  -->
+  <script src="./assets/js/script.js"></script>
+
+  <!--
+    - ionicon link
+  -->
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>

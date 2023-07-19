@@ -1,0 +1,72 @@
+.full-page
+{
+    height: 100%;
+	width: 100%;
+	background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(images/bg-2.jpg);
+	background-position: center;
+	background-size: cover;
+	position: absolute;
+}
+
+.form-box
+{
+    width:380px;
+	height:580px;
+	position:relative;
+	margin:2% auto;
+	background:rgba(0,0,255,0.6);
+	padding:10px;
+    overflow: hidden;
+}
+.button-box
+{
+	width:330.95px;
+	margin:55px auto;
+	position:relative;
+	box-shadow: 0 0 20px 9px #e1e1e1;
+	border-radius: 30px;
+	background-color: snow;
+}
+
+#btn
+{
+	top: 0;
+	left:0;
+	position: absolute;
+	width: 110px;
+	height: 100%;
+	background: #03fc98;
+	border-radius: 30px;
+	transition: .5s;
+}
+
+.input-field
+{
+	width: 100%;
+	padding:10px 0;
+	margin:5px 0;
+	border-left:0;
+	border-top:0;
+	border-right:0;
+	border-bottom: 1px solid #999;
+	outline:none;
+	background: white;
+}
+
+#imageName{
+	color:green;
+  }
+
+.submit_1,.submit_2
+{
+	width: 85%;
+	padding: 10px 30px;
+	cursor: pointer;
+	display: block;
+	margin: auto;
+	background: #03fc98;
+	border: 0;
+	outline: none;
+	border-radius: 30px;
+}
+

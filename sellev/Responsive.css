@@ -1,0 +1,7774 @@
+@media screen and (max-width: 1280px) 
+{
+	.coursethumb.fixcourse,.coursethumb.footerfixcourse
+	{
+		width: 30%!important;
+	}
+	#jobhero {
+		width: 100%;
+		height: 28vh;
+	}
+	.jobsearchbar
+	{
+		left: 1%;
+		width: 61%;
+	}
+	.jobsearchrightbar
+	{
+		right:1%;
+	}
+@media screen and (max-width: 1210px) 
+{
+	.coursethumb.fixcourse,.coursethumb.footerfixcourse
+	{
+		width: 32.55%!important;
+	}
+}
+
+@media screen and (max-width: 1500px) {
+	.reviewsclss .col-md-3
+	{
+		padding-left:5px;
+		padding-right:5px;
+	}
+}
+@media screen and (max-width: 1450px) 
+{
+	.coursethumb.fixcourse,.coursethumb.footerfixcourse
+	{
+		margin-right: 9%;
+	}
+}
+@media screen and (max-width: 1400px) {
+	.coursethumb.fixcourse,.coursethumb.footerfixcourse
+	{
+		margin-right: 7%;
+	}
+	.retrofitclsbg
+	{
+		height: 400px!important;
+	}
+	.reviewsecion a
+	{
+		font-size:12px;
+	}
+	#speci table td
+	{
+		font-size: 12px;
+	}
+	
+}
+@media screen and (max-width: 1338px) {
+	.coursethumb.fixcourse,.coursethumb.footerfixcourse
+	{
+		margin-right: 6%;
+	}
+.retroportfoliocls img
+	{
+		width:30.33%;
+	}
+	.retrofitservicecls h3
+	{
+		font-size: 16px;
+	}
+	.retrofitservicecls .btn
+	{
+		font-size:18px;
+	}
+	#chargingpointfront #hero
+	{
+		height: 50vh;
+	}
+}
+@media screen and (max-width: 1337px) {
+	.coursethumb.fixcourse,.coursethumb.footerfixcourse {
+    	margin-right: 1%;
+	}
+	.reviewsecion a
+	{
+		font-size:11px;
+	}
+	.startingcls
+	{
+		font-size: 14px;
+	}
+	.pricemain h1
+	{
+		font-size:16px;
+	}
+	#vehiclekits .col-lg-7
+	{
+		padding-right: 1px;
+	}
+	#vehiclekits .btn
+	{
+		width: 100px;
+		height: 20px;
+		padding: 0;
+		font-size:12px;
+	}
+	#nearbycities h4, #vehiclekits h3
+	{
+		font-size:0.9rem;
+	}
+	#nearbycities .table th
+	{
+		font-size:14px;
+	}
+	#trandingid .nav-link.active, #upcome .nav-link.active, #allveh .nav-link.active,#trandingid .nav-item a, #upcome .nav-item a, #allveh .nav-item a
+	{
+		font-size: 10px;
+	}
+	#popular img, #upcome img, #allveh img
+	{
+		max-height: 80px;
+	}
+	.poptitlecls
+	{
+		font-size: 15px;
+	}
+	.poppricecls
+	{
+		font-size: 14px;
+	}
+	#vehiclekits img
+	{
+		height:73px;
+	}
+	.kitname span
+	{
+		font-size: 14px;
+	}
+	.kitprice span {
+    	font-size: 14px;
+	}
+	.kitprice i
+	{
+		font-size: 17px;
+	}
+	.compare_With_Similar .lastbtncls
+	{
+		display: block;
+		width: 100%!important;
+		background:none;
+		text-align:center;
+		margin-top:1%;
+	}
+	.compareAddpopup .compare_With_Similar > li
+	{
+		width:24%;
+		height:90px;
+	}
+	#sparepopcategoryscroll .popcategoryli
+	{
+		height: 190px;
+	}
+	
+}
+@media screen and (max-width: 1260px) {
+	.col-auto label {
+    font-size: 9px;
+	}
+}
+@media screen and (max-width: 1276px) {
+	.chkvcon .custom-control
+	{
+		display:block;
+	}
+	.woaccord p
+	{
+		font-size:11px;
+	}
+	#minfilamount
+	{
+		max-width: 34%;
+	}
+	.paddingranger
+	{
+		padding-bottom: 7%;
+	}
+	.vehicledetail .comchk
+	{
+		font-size: 11px;
+	}
+	.shortdetail li
+	{
+		font-size: 0.6rem;
+	}
+}
+@media screen and (max-width: 1210px) {
+	#trainingposition img,#trainingposition
+	{
+		height: 40vh !important;
+	}
+	.courseserachbox
+	{
+		width: 40%;
+	}
+	.vehicledetail
+	{
+		width:31.33%;
+	}
+	.col-auto label {
+    font-size: 11px;
+	}
+	.reviewsecion .col-md-3,.reviewsecion .col-md-2,.reviewsecion .col-md-4,.reviewsecion .col-lg-3,.reviewsecion .col-lg-2,.reviewsecion .col-lg-4
+	{
+		padding-right: 5px!important;
+		padding-left: 5px!important;
+	}
+	.startingcls
+	{
+		font-size: 12px;
+	}
+	.icofont-speech-comments, .icofont-ui-edit
+	{
+		font-size: 11px;
+	}
+	.comparevehtitle
+	{
+		height:auto;
+	}
+	.container
+	{
+		max-width:100%;
+	}
+	.shadowWPadding .title
+	{
+		white-space: nowrap;
+		overflow: hidden;
+	}
+	.compareAddpopup
+	{
+		height: 230px!important;
+	}
+}
+@media screen and (max-width: 1198px) {
+	.rv-jobdesc.coursesimilar #carexpSlider .MS-content .item
+	{
+		width: 40%!important;
+	}
+#maxfilamount, #maxfilkm, #maxfilyr, #maxtscore, #maxtrating,#minfilamount,#minfilkm, #minfilyr, #mintscore, #mintrating
+	{
+		font-size: 11px;
+	}
+	.paddingranger
+	{
+		margin-bottom: 5%;
+	}
+	.overviewsec i
+	{
+		font-size: 17px;
+	}
+	
+}
+@media screen and (max-width: 1150px) {
+	.jobsearchrightbar
+	{
+		width: 34%;
+	}
+	.jobsearchrightbar .btn
+	{
+		font-size:12px;
+	}
+	.whatretrofitcls {
+    	margin-top: 13%;
+	}
+	#sparecomparelist #carpopSlider .MS-content .item, .proddescription #scooterpopSlider .MS-content .item
+	{
+		width: 27% !important;
+	}
+	.othersellercls .sellerprice
+	{
+    	font-size: 11px;
+	}
+	.otherseller
+	{
+		height: auto;
+	}
+.paddingranger
+	{
+		padding-bottom: 0px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.paddingranger .ui-slider
+	{
+		margin-left: 8%;
+		margin-right: 8%;
+	}
+	.paddingranger .pb-3
+	{
+		padding-bottom: 0px!important;
+	}
+	.paddingranger .custom-control
+	{
+		margin-left: 5%;
+	}
+	.vehpara
+	{
+		font-size: 13px;
+	}
+	.filterveh .nav-secondary-wrapper li
+	{
+		font-size: 14px;
+	}
+	#configuration_sidebar_content i
+	{
+		font-size: 19px;
+	}
+	.useful-links ul li
+	{
+		margin-right:10px;
+		font-size: 11px;
+	}
+	.nav-menu .drop-downev > ul
+	{
+		width:800px;
+	}
+	.pricedet span
+	{
+		font-size: 13px;
+	}
+	.showroomid,.onroadid
+	{
+		font-size: 14px;
+	}
+	.changeloc
+	{
+		font-size: 10px;
+	}
+	.feanm
+	{
+		font-size: 11px;
+	}
+	.feaval
+	{
+		font-size: 12px;
+	}
+	.overviewsecanchor
+	{
+		font-size: 12px;
+	}
+	.userrevnm
+	{
+		font-size: 12px;
+	}
+	.reviewsclss .fa-star {
+    	font-size: 5px;
+	}
+	.viewratdet,.reviewdatecls {
+    	font-size: 11px;
+	}
+	.userreviewcolcls div
+	{
+		padding:5px;
+	}
+	.retrofittingcls .col-lg-3,.retrofittingcls .col-lg-9,.retrofittingcls .col-md-12,.retrofittingcls .col-md-6
+	{
+		padding-right: 5px;
+		padding-left: 5px;
+	}
+	#truckexpSlider .MS-content .item
+	{
+		width: 31.33%!important;
+	}
+	.userreviewcls #hero
+	{
+    	height: calc(40vh - 70px);
+	}
+}
+@media screen and (max-width: 1050px) {
+	.searchmenu li
+	{
+		margin-right: 3%;
+	}
+	.whatretrofitcls {
+    	margin-top: 15%;
+	}
+	#sparepopcategoryscroll .popcategoryli {
+	    height: 230px;
+	}
+	.keycompocls
+	{
+		height: 330px;
+	}
+	/*.changerow>.col-md-2
+	{
+		flex: 0 0 19.667%;
+		max-width: 19.667%;
+	}
+	.changerow .col-md-10
+	{
+		flex: 0 0 80.333%;
+		max-width: 80.333%;
+	}*/
+	.retrofictimg img
+	{
+		margin-left: 1%;
+	}
+	.useful-links ul li
+	{
+		margin-right:7px;
+		font-size: 10px;
+	}
+	.categorySortingFilters .sortByFilter
+	{
+		width: 190px;
+	}
+	.compareimg img
+	{
+		height:180px;
+	}
+	.retrofitterli h4
+	{
+		font-size: 14px;
+	}
+	.retroaddresscls span
+	{
+		font-size:12px;
+		width:160px;
+	}
+	.retrofit_detail .icofont-location-pin,.retroaddresscls .icofont-navigation
+	{
+		font-size: 16px!important;
+	}
+	.retrofityclass, .retrofitopentime a, .retrofitclosecls,.retrofiiterlistingcls a,.evmechbrand i, .evmechbrand span
+	{
+			font-size:10px;
+	}
+	#localcity
+	{
+		width: 250px;
+	}
+	.searchFilter .btn {
+    min-width: 140px;
+}
+}
+
+@media screen and (max-width: 1026px) {
+	.whatretrofitcls {
+    	margin-top: 17%;
+	}
+	.retrofitfirstslider #worldevcategoryscroll
+	{
+		top: 7%;
+	}
+	.retrofitourservice
+	{
+		margin-bottom:0%!important;
+	}
+	.sparecategorycls li .sparecategoryname
+	{
+		font-size: 12px;
+	}
+.filtercls .btn
+	{
+		padding: 0px;
+	}
+	.card .btn-link
+	{
+		font-size: 11px !important;
+	}
+	.woaccord h4
+	{
+		font-size: 11px;
+	}
+	.custom-control-label::before
+	{
+		top: 0.10rem;
+	}
+	.chkvcon label
+	{
+		font-size: 11px;
+	}
+	.card h2
+	{
+		line-height: 0.9;
+	}
+	.filtercls .custom-control
+	{
+		font-size: 11px;
+	}
+	.categorySortingFilters .sortByFilter
+	{
+		width: 170px;
+	}
+	.categorySortingFilters .viewModeFilter > a
+	{
+		padding: 9px 0 7px;
+		width: 30px;
+	}
+	.comparevehtitle
+	{
+    	font-size: 14px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.pricedet span
+	{
+		font-size: 12px;
+	}
+}
+@media screen and (max-width: 991px) {
+	.showloginsubmenu i
+	{
+		color: black!important;
+	}
+	.mobile-nav
+	{
+		z-index: 99999999999;
+	}
+	.mapslider
+	{
+		width: 90%;
+		z-index: 9999999999;
+	}
+	.mapsearchbox,.mapsearchboxlist,.mapaccordianfilter
+	{
+		width: 97%;
+	}
+	#startupjobs #motorcyclelatest .MS-content .item {
+		width: 50% !important;
+	}
+	#startupjobs #motorcyclelatest .MS-controls .MS-left
+	{
+		right: 7% !important;
+	}
+	#startupjobs #motorcyclelatest .MS-controls button
+	{
+		top: -11% !important;
+		font-size: 23px;
+	}
+	.rv-jobdesc.coursesimilar #carexpSlider .MS-content .item {
+		width: 49%!important;
+	}
+	.left_accountmenu
+	{
+		display:none;
+	}
+	.left_mobmenu
+	{
+		display:block;
+		margin-bottom:11%;
+	}
+	.left_mobmenu i
+	{
+		font-size: 22px;
+		color:dodgerblue;
+	}
+	.left_accountmenu.show
+	{
+		display:block!important;
+	}
+	.interestcls li
+	{
+		padding-top: 4%;
+		padding-bottom: 4%;
+	}
+	.commentcard .card-body
+	{
+		padding: 0.25rem;
+	}
+	.commentcard .fa-edit
+	{
+		margin-right: 10%;
+		font-size: 16px;
+	}
+	.commentcard .fa-minus-circle
+	{
+		font-size: 16px;
+	}
+	.commentcard ul li
+	{
+		height: auto!important;
+		padding-top: 4%;
+		padding-bottom: 4%;
+		font-size: 12px;
+	}
+	#commentModal .btn
+	{
+		font-size: 12px;
+	}
+	#nearbycities.footerfixcourse
+	{
+		position: initial!important;
+		width: 100% !important;
+		z-index: 0;
+	}
+	#nearbycities.fixedads
+	{
+		position: initial;
+		width: 100%;
+	}
+	.dropdownworld
+	{
+		display:none;
+	}
+	.evstartupmobmenu
+	{
+		display:block;
+	}
+	.mobservice
+	{
+		padding-left: 13%;
+	}
+	
+	.jobsearchrightbar
+	{
+		width: 100%;
+		display: block;
+		position: initial;
+		background: transparent;
+	}
+	.mobmargin
+	{
+		margin-top:4%;
+	}
+	.job_alert
+	{
+		width: 100%;
+	}
+	.jonseeker_login
+	{
+		display: none;
+	}
+	.jobsearchbar {
+		left: 1%;
+		width: 98%;
+		right: 1%;
+	}
+	.whatretrofitcls {
+    	margin-top: 1%;
+	}
+	#worldevcategoryscroll
+	{
+		display:none!important;
+	}
+	.trainingcoursebg
+	{
+		margin-top: 3rem!important;
+	}
+	.othersparetitle span
+	{
+		text-align: center;
+		margin: auto;
+		display: block;
+	}
+	.sellerprice
+	{
+		padding-left:2px;
+		padding-right:2px;
+	}
+	.categorybreadcrump
+	{
+		display:none;
+	}
+	.traningssection
+	{
+		margin-top: 3%;
+		overflow:hidden;
+	}
+	.courseitem:hover .coursetooltiptext,.courselist:hover .courselisttooltiptext {
+  		visibility: hidden;
+	}
+	.couseslider #carexpSlider,.couseslider #motorcycleexpSlider
+	{
+		padding-left:0rem!important;
+		padding-right:0rem!important;
+	}
+	.couseslider #carexpSlider .MS-content,.couseslider #motorcycleexpSlider .MS-content
+	{
+		margin: 0 0%;
+	}
+	#trainingposition img,#trainingposition
+	{
+		height: 30vh !important;
+	}
+	.courseserachbox
+	{
+		width: 45%;
+		top: 24%;
+	}
+	.courseserachbox h1
+	{
+		font-size: 25px;
+	}
+	.sparedesccls h1 {
+		font-size: 25px;
+	}
+	.sparepricecls span, .sparepricecls i
+	{
+		font-size: 23px;
+	}
+	.sparead img
+	{
+		display:none;
+	}
+	.userreviewcls #hero
+	{
+    	height: calc(30vh - 70px);
+	}
+	.showworldevsubmenu ul
+	{
+		padding-left:10px!important;
+	}
+	.ourretrofitservice ul li
+	{
+		list-style: none;
+		float: left;
+		width: 30%;
+		margin: 1%;
+		margin-bottom: 3%;
+	}
+	.ourevmechservice ul li
+	{
+		list-style: none;
+		float: left;
+		width: 47%!important;
+	}
+	.ourevmechservice ul li img
+	{
+		width: 30%!important;
+		height: 50px!important;
+	}
+	.ourevmechservice ul li span
+	{
+		margin-top:0%!important;
+	}
+	.aboutevmech h3
+	{
+		font-size: 20px !important;
+	}
+	.aboutevmech p
+	{
+		font-size: 14px;
+		text-align: inherit;
+		line-height: 2rem;
+	}
+	.evmechbenifit h4
+	{
+		font-size: 12px !important;
+		text-align: center;
+		margin-bottom:3px !important;
+	}
+	.mechbenifitcls p
+	{
+		font-size: 12px;
+		line-height: 1.2rem;
+		text-align: center;
+	}
+	.mechbenifitcls
+	{
+		margin-bottom:0!important;
+	}
+	.faqccordionExample .card-header .btn
+	{
+		font-size: 14px !important;
+	}
+	.faqccordionExample .card-body
+	{
+		font-size: 12px !important;
+	}
+	.mechbrands,.mechbrandlist
+	{
+		padding-left:0!important;
+	}
+	#searchevmechanicModal h5,#bookserviceModal .modal-header p,#bookserviceModal .modal-header h5
+	{
+		font-size: 16px;
+		text-align: left;
+	}
+	#bookserviceModal .bookservbrands li
+	{
+		padding-left: 1%;
+		padding-right: 1%;
+		width: 31%;
+	}
+	#bookserviceModal .modal-body
+	{
+		padding: 10px;
+	}
+	#bookserviceModal .forspacecls
+	{
+		padding-right: 1px!important;
+		padding-left: 1px!important;
+	}
+	.ribbon::before, .ribbon::after
+	{
+		border: 0px solid #2980b9;
+	}
+	.ribbon span
+	{
+		font: 700 10px/1 'Lato', sans-serif;
+		width: 240px;
+	}
+	.ribbon-top-left span
+	{
+		top: 26px;
+	}
+	.forspacecls .cityimgcls
+	{
+		font-size: 12px;
+	}
+	.evmechchoosecls li
+	{
+		font-size: 14px;
+	}
+	.mobnavtype
+	{
+		height: auto;
+		margin-bottom: 0;
+		margin-top:2%;
+	}
+	.evmechbenifit div
+	{
+		padding-right: 5px!important;
+		padding-left: 5px!important;
+	}
+	.timelinecls .font-size-14
+	{
+		background:white;
+	}
+	.ourretrofitservice h3
+	{
+		text-align:center;
+		font-size:14px;
+		margin-bottom: 5%;
+	}
+	.ourretrofitservice ul
+	{
+		padding-left:0;
+	}
+	.ourretrofitservice ul li img
+	{
+		display:block;
+		margin:auto;
+		text-align: center;
+		width: 50%;
+		height: 100px;
+	}
+	.ourretrofitservice ul li span
+	{
+		font-size:10px;
+		text-align: center;
+		display: block;
+		margin-top: 8%;
+	}
+	.retrofittingcls
+	{
+		margin-top:5%;
+	}
+	.retrofitservicecls
+	{
+		display:none;
+	}
+	.ourretrofitservice
+	{
+		display:block;
+		padding: 0.8%;
+	}
+	.mobbuysec .mobnavtype
+	{
+		height: auto!important;	
+	}
+	#header
+	{
+		background:white;
+	}
+	#header .logo h1
+	{
+		padding: 2px 0!important;
+	}
+	.mobile-nav-toggle
+	{
+		font-size: 28px !important;
+	}
+	.social-links i
+	{
+		line-height: 1.5 !important;
+	}
+	.mobile-nav a, .mobile-nav .btn, .mobile-nav li span
+	{
+		font-weight: 600;
+	}
+	/*.footersocial,.footer-top
+	{
+		display:none;
+	}*/
+	.mobile_app_on
+	{
+		display:block;
+		height:180px;
+	}
+	.mobile_app_on a,.mobile_app_on li
+	{
+		color:white!important;
+	}
+	.mobile_app_on ul
+	{
+		text-align:center;
+		padding-left: 0;
+	}
+	.mobile_app_on ul li
+	{
+		list-style:none;
+		width:100%;
+		font-size:12px;
+		line-height:2.5;
+	}
+	.site_link span
+	{
+		margin-left:1%;
+		margin-right:1%;
+	}
+	.bckworldev i
+	{
+		margin-right:4%;
+	}
+	.showworldevsubmenu ul i,.showaddonsubmenu ul i
+	{
+		font-size: 30px;
+		color:gray;
+	}
+	.mobile-nav .showloginsubmenu ul li, .mobile-nav .showworldevsubmenu ul li a, .mobile-nav .showaddonsubmenu ul li a
+	{
+		font-size: 14px;
+		color: #404040;
+		padding-left:10px!important;
+	}
+	.showworldevsubmenu ul img
+	{
+		width:9%!important;
+	}
+	.showworldevsubmenu ul>li
+	{
+		padding:1%!important;
+	}
+	.showaddonsubmenu ul>li
+	{
+		padding:4%!important;
+	}
+	.showhideworldev .icofont-simple-right,.showhideaddon .icofont-simple-right,.showhidenewsreview .icofont-simple-right,.showhideservice .icofont-simple-right
+	{
+		float:right;
+	}
+	
+	.mobile-nav .navhead
+	{
+		display:block;
+	}
+	.footer-contact h6,#footer .footer-top .footer-contact p
+	{
+		text-align: left;
+	}
+	.footer-contact img, .footer-contact .social-links 
+	{
+		display: inline;
+		margin-right: 2%;
+	}
+	.worldevpreviewcls h4
+	{
+		font-size: 20px;
+	}
+	.worldevpreviewcls .carousel-item {
+    height: 450px;
+}
+	.drop-downad
+	{
+		display:none;
+	}
+	{
+		text-align: center;
+		}
+	.hideinwebcls
+	{
+		display:block;
+	}
+	.nav-menu li>img
+	{
+		display:block;
+		width:3%;
+	height:20px;
+	}
+	.mobile-nav a, .mobile-nav .btn, .mobile-nav li span
+	{
+		color: #404040;
+	}
+	.mobile-nav li>img
+	{
+		width:3%;
+		height:20px;
+	}
+	.mobile-nav ul>li
+	{
+		padding:3%;
+	}
+	.citylisting img
+	{
+		width: 75%;
+		margin: auto;
+		display: block;
+	}
+	.citylisting li
+	{
+		margin-bottom: 3%;
+		padding-right: 5px!important;
+		padding-left: 5px!important;
+	}
+	#scooterSlider .MS-content .item,#carSlider .MS-content .item,#cargoSlider .MS-content .item,#ecycleSlider .MS-content .item,#autoSlider .MS-content .item,#truckSlider .MS-content .item,#busSlider .MS-content .item,#vanSlider .MS-content .item,#motorcyclepopSlider .MS-content .item,#scooterpopSlider .MS-content .item,#carpopSlider .MS-content .item,#cargopopSlider .MS-content .item,#ecyclepopSlider .MS-content .item,#autopopSlider .MS-content .item,#truckpopSlider .MS-content .item,#buspopSlider .MS-content .item,#vanpopSlider .MS-content .item,#motorcycleexpSlider .MS-content .item,#scooterexpSlider .MS-content .item,#carexpSlider .MS-content .item,#cargoexpSlider .MS-content .item,#ecycleexpSlider .MS-content .item,#autoexpSlider .MS-content .item,#truckexpSlider .MS-content .item,#busexpSlider .MS-content .item,#vanexpSlider .MS-content .item,#motorcycleworldevSlider .MS-content .item,#scooterworldevSlider .MS-content .item,#carworldevSlider .MS-content .item,#cargoworldevSlider .MS-content .item,#ecycleworldevSlider .MS-content .item,#autoworldevSlider .MS-content .item,#truckworldevSlider .MS-content .item,#busworldevSlider .MS-content .item,#vanworldevSlider .MS-content .item,#usedmotorcycleSlider .MS-content .item,#usedscooterSlider .MS-content .item,#brandSlider .MS-content .item,#motorcycleupSlider .MS-content .item,#motorcyclebestSlider .MS-content .item,#vanupSlider .MS-content .item,#scooterupSlider .MS-content .item,#scooterbestSlider .MS-content .item,#vanbestSlider .MS-content .item,#scooterbest .MS-content .item,#scooterlatest .MS-content .item,#scooterupcomimg .MS-content .item,#motorcyclebest .MS-content .item,#motorcyclelatest .MS-content .item,#motorcycleupcoming .MS-content .item,#nonregmotorcycle .MS-content .item,#nonregscooter .MS-content .item,#retrofittedev .MS-content .item,#convertedev .MS-content .item
+	{
+		width: 31.33% !important;
+	}
+	.removeoverflow .carousel-item {
+    height: 400px;
+}
+	.removeoverflow
+	{
+		margin-top:5%;
+	}
+	.removeoverflow .carousel-inner
+	{
+		border-radius:0;
+	}
+	.retrofitservicecls
+	{
+		width: 40%;
+		height: 65%;
+	}
+	#accountshowinmob
+	{
+		display:block!important;
+	}
+	.customerlogindummy a
+	{
+		font-size: 14px !important;
+		color: #404040!important;
+		padding-left: 5px;
+		font-weight: 400 !important;
+	}
+	.hideinweb
+	{
+		display:none!important;
+		visibility: hidden;
+		opacity: 0;
+	}
+	#accountshowinmob li
+	{
+		padding: 12px;
+	}
+	.mobmtcls
+	{
+		margin-top: 6%;
+	}
+	.mobmtcls h2,.mobmtcls h3
+	{
+		font-size: 20px;
+	}
+	
+	.mobmtcls .form-row label
+	{
+		font-size: 14px;
+	}
+	.dropdownworld::after {
+		background-color: rgba(0,0,0,0);
+	}
+	.dropdownworld li a
+	{
+		font-size: 12px;
+		padding-top:0px;
+		padding-bottom:0px;
+	}
+	.dropdownworld li img
+	{
+		width: 2.7%!important;
+	}
+	#localcity
+	{
+		height: 29px;
+	}
+	#searchretrofitter
+	{
+		height: 29px;
+		min-width: 100px!important;
+		padding:0!important;
+	}
+	.rivw_tab
+	{
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+	.retrofittingcls .container
+	{
+		/*margin-top: 6%;----effect on retrofit.php page*/
+	}
+	.hidemobcls
+	{
+		display:none;
+	}
+	.retroaddresscls span
+	{
+		width: 200px;
+	}
+	.retrolistwishlistcls
+	{
+		left: 28%;
+	}
+	.brdUL
+	{
+		padding-left:0px;
+	}
+	.sortbyresult a,.sortbyresult
+	{
+		width: 130px;
+		font-size:12px;
+	}
+	.sortbyresult .left_arrow
+	{
+		right: -17px;
+	}
+	.hideinweb
+	{
+		display:block;
+		padding: 10px 20px;
+		visibility: visible;
+		opacity: 1;
+	}
+	.hideinweb .btn
+	{
+		padding-left:1%;
+	}
+	.addvehpopup
+	{
+		position:fixed;
+		z-index: 1;
+	  left: 0;
+	  top: 0;
+	  width: 100%; /* Full width */
+	  height: 100%; /* Full height */
+	  overflow: auto; /* Enable scroll if needed */
+	  background-color: rgb(0,0,0); /* Fallback color */
+	  background-color: white; /* Black w/ opacity */
+		padding:2%;
+	}
+	.addevcompare
+	{
+		text-align: center;
+	}
+	.imgPanelleft img
+	{
+		height: 90px!important;
+		width:150px;
+	}
+	.allrate h4
+	{
+		font-size: 1rem;
+	}
+	.allrate .fa-star
+	{
+		font-size: 1.5em;
+	}
+	.writereview h5
+	{
+		font-size: 1rem;
+	}
+	.form-control::placeholder
+	{
+		    font-size: 12px;
+	}
+	.userprodratecls .col-md-6
+	{
+		padding-right: 5px;
+		padding-left: 5px;
+		font-size: 13px;
+	}
+	.ratefirstrow
+	{
+		height:auto;
+	}
+	.userrevnm
+	{
+		font-size: 14px;
+	}
+	.reviewsclss .fa-star {
+    	font-size: 12px;
+	}
+	.viewratdet,.reviewdatecls {
+    	font-size: 14px;
+	}
+	.progressstar label,.detrate div
+	{
+		font-size: 12px;
+	}
+	.ratefirstrow h5
+	{
+		font-size: 1rem;
+	}
+	#compareDiv .container
+	{
+		margin: 0px!important;
+		display: block;
+		float:none;
+		padding-right: 0px!important;
+		padding-left: 0px!important;
+	}
+	.comparebtn
+	{
+		font-size: 12px;
+	}
+	.sellersec .col-auto
+	{
+		width: 48%;
+	margin-left: 0px;
+	}
+	.drop-down,.drop-downev
+	{
+		display:none;
+	}
+	.mobnav,.mobnewevnav,.sortfix
+	{
+		display:block;
+	}
+	.sellcls
+	{
+		margin-top:5%;
+	}
+	
+	.filtercls,.advertisemntcls,.vehtitle,.vehpara,.newevlisttab,.usefullinkclass,.advertisementcls
+	{
+		display:none;
+	}
+	.servicesort.filtercls
+	{
+		display:block!important;
+	}
+	.sellersec .sellbtn,.col-auto
+	{
+		width: 50%;
+	}
+	#loaddiv>h3
+	{
+		margin-top:10%;
+	}
+	#header
+	{
+		position: fixed;
+		width: 100%;
+		top:0;
+	}
+	#opensellerdetail
+	{
+		width: 97%;
+		left: 9px;
+	}
+	#sellerdet
+	{
+		padding: 0%;
+		padding-bottom:3%!important;
+	}
+	#smallcrosssell
+	{
+		margin-top: 6%;
+	}
+	.container
+	{
+		max-width:100%!important;
+	}
+	.nav-secondary-wrapper
+	{
+		margin-top:10%;
+	}
+	.newevpreviewcls .nav-secondary-wrapper
+	{
+		margin-top:1%;
+	}
+	.rightdescsec
+	{
+		margin-top: 2%;
+	}
+	.priceleftsec img
+	{
+		float: left;
+		margin-right: 1%;
+	}
+	.pricerightsec
+	{
+		margin-left: 0!important;
+		margin-bottom: 2%;
+	}
+	.priceleftsec h4,.videosec h3,.carreviewsec h3,.carreviewsec h4
+	{
+		font-size:14px!important;
+	}
+	.priceleftsec
+	{
+		margin-right: 1%;
+		margin-left: 1%;
+	}
+	.totalrupee
+	{
+		font-size: 21px;
+	}
+	#popular img, #upcome img, #allveh img
+	{
+		width: 180;
+		max-width: 100%;
+		height: 100%;
+		min-height: 70px;
+	}
+	.addevcompare
+	{
+		margin:auto;
+		display:block;
+	}
+	#getprosellerdetail
+	{
+		font-size: 10px;
+		margin-bottom: 5%;
+	}
+	
+	.sellevverifyinput
+	{
+		height: 34px;
+	}
+	.paddingzero
+	{
+		margin-top: 5%;
+	}
+	.compareAddpopup .compare_With_Similar > li
+	{
+		width:48%;
+	}
+	.compareAddpopup {
+		height: 330px !important;
+		overflow: scroll;
+	}
+}
+@media screen and (max-width: 960px) {
+	.vehicledetail
+	{
+		width:47.33%;
+	}
+	.vehicledetail:hover
+	{
+	-ms-transform: scale(1.05); /* IE 9 */
+	  -webkit-transform: scale(1.05); /* Safari 3-8 */
+	  transform: scale(1.05); 
+	}
+	.reviewsecion a
+	{
+		font-size: 10px;
+	}
+	.usedvehtypelink li
+	{
+		width: 18.66%!important;
+	}
+	.compareimg img
+	{
+		height:160px;
+	}
+	.comparevehtitle
+	{
+		font-size:12px;
+		height: 15%;
+	}
+	.comparepricecls
+	{
+		font-size:14px;
+	}
+	.imgPanelleft img {
+		width: 150px;
+		max-width: 100%;
+		height: 100%;
+	}
+	.compareAddpopup
+	{
+		height:250px;
+		overflow:scroll;
+	}
+	.retroaddresscls span
+	{
+		width: 130px;
+	}
+	.bestdealbtn .btn-success
+	{
+		padding:4%;
+		font-size: 14px;
+	}
+	.retrofitcoverimg img
+	{
+		height:150px;
+	}
+	.keycompocls
+	{
+		height: 350px;
+	}
+}
+@media screen and (max-width: 900px) {
+	.tabbable-responsive {
+		display: block;
+		min-width: 100%;
+		overflow-x: auto;
+		overflow-y:hidden;
+		margin: 0px -20px -13px -20px;
+		scrollbar-width: none;
+		-ms-overflow-style: none;
+		background: transparent;
+	}
+	.tabbable {
+		min-width: 100%;
+	}
+	#allbrandscls {
+		white-space: nowrap;
+		display: inline-block;
+		min-width: 100%;
+		padding: 0px 21px;
+	}
+	.tabbable-responsive::-webkit-scrollbar{
+		width: 0px!important;
+		display:none;
+		background: transparent; /* make scrollbar transparent */
+	}
+	#allbrandscls .nav-item {
+		display: inline-block;
+		width: 15%;
+	}
+	.filterveh .nav-secondary-wrapper li
+	{
+		font-size: 12px;
+	}
+	#configuration_sidebar_content i
+	{
+		font-size: 16px;
+	}
+	.categorySortingFilters .sortByFilter
+	{
+		width: 160px;
+	}
+	.pricedet span
+	{
+		font-size: 10px;
+	}
+	.usedvehtypelink li
+	{
+		width: 20.66%!important;
+	}
+	.sortbyresult
+	{
+		display:none;
+	}
+}
+@media screen and (max-width: 848px)
+{
+	.startuptab
+	{
+		width:100%;
+	}
+	#trainingposition img,#trainingposition
+	{
+		height: 30vh !important;
+	}
+	.courseserachbox
+	{
+		width: 50%;
+		top: 25%;
+	}
+	.retrofittingcls
+	{
+		margin-top:7%;
+	}
+	.worldevpreviewcls .carousel-item {
+		height: 400px;
+	}
+	.removeoverflow .carousel-item {
+		height: 370px;
+	}
+	.mobmtcls .btn
+	{
+		font-size: 12px;
+	}
+	.imagecls label,.addretroficationimage
+	{
+		width: 100%;
+		font-size: 12px;
+		margin-right:1%;
+		padding: 2%!important;
+	}
+	.deleteusersellimage,.deleteretroficationimage
+	{
+		font-size: 12px;
+		padding: 2%;
+		width: 43%;
+	}
+	.updateretroficationimage,.updateimage
+	{
+		width: 48%;
+		font-size: 12px;
+		margin-right:1%;
+		padding: 2%!important;
+	}
+ 	.modal-lg
+	{
+		max-width: 750px !important;
+	}
+	.paddingranger p label,.paddingranger p
+	{
+		text-align:left;
+	}
+	#maxfilamount, #maxfilkm, #maxfilyr, #maxtscore, #maxtrating,#minfilamount,#minfilkm, #minfilyr, #mintscore, #mintrating
+	{
+		font-size: 10px;
+	}
+	#minfilamount
+	{
+		max-width: 32%;
+	}
+	.changerow .col-md-2
+	{
+		flex: 0 0 23.667%;
+		max-width: 23.667%;
+	}
+	.changerow .col-md-10
+	{
+		flex: 0 0 76.333%;
+		max-width: 76.333%;
+	}
+	.categorySortingFilters .sortByFilter
+	{
+		width: 130px;
+	}
+	.newevpreview li a,.newevpreview li
+	{
+		font-size:11px;
+	}
+	#smallcrosssell
+	{
+		margin-top: 8%;
+	}
+	.usedvehtypelink li
+	{
+		width: 21.66%!important;
+	}
+	.dealeropen
+	{
+		font-size:12px;
+	}
+	.mobmtcls
+	{
+		margin-top: 8%;
+	}
+	#scooterSlider .MS-content .item,#carSlider .MS-content .item,#cargoSlider .MS-content .item,#ecycleSlider .MS-content .item,#autoSlider .MS-content .item,#truckSlider .MS-content .item,#busSlider .MS-content .item,#vanSlider .MS-content .item,#motorcyclepopSlider .MS-content .item,#scooterpopSlider .MS-content .item,#carpopSlider .MS-content .item,#cargopopSlider .MS-content .item,#ecyclepopSlider .MS-content .item,#autopopSlider .MS-content .item,#truckpopSlider .MS-content .item,#buspopSlider .MS-content .item,#vanpopSlider .MS-content .item,#motorcycleexpSlider .MS-content .item,#scooterexpSlider .MS-content .item,#carexpSlider .MS-content .item,#cargoexpSlider .MS-content .item,#ecycleexpSlider .MS-content .item,#autoexpSlider .MS-content .item,#truckexpSlider .MS-content .item,#busexpSlider .MS-content .item,#vanexpSlider .MS-content .item,#motorcycleworldevSlider .MS-content .item,#scooterworldevSlider .MS-content .item,#carworldevSlider .MS-content .item,#cargoworldevSlider .MS-content .item,#ecycleworldevSlider .MS-content .item,#autoworldevSlider .MS-content .item,#truckworldevSlider .MS-content .item,#busworldevSlider .MS-content .item,#vanworldevSlider .MS-content .item,#usedmotorcycleSlider .MS-content .item,#usedscooterSlider .MS-content .item,#brandSlider .MS-content .item,#motorcycleupSlider .MS-content .item,#motorcyclebestSlider .MS-content .item,#vanupSlider .MS-content .item,#scooterupSlider .MS-content .item,#scooterbestSlider .MS-content .item,#vanbestSlider .MS-content .item,#scooterbest .MS-content .item,#scooterlatest .MS-content .item,#scooterupcomimg .MS-content .item,#motorcyclebest .MS-content .item,#motorcyclelatest .MS-content .item,#motorcycleupcoming .MS-content .item,#nonregmotorcycle .MS-content .item,#nonregscooter .MS-content .item,#retrofittedev .MS-content .item,#convertedev .MS-content .item
+	{
+		width: 31.11% !important;
+	}
+	.MS-left, .MS-right {
+		width: 30px;
+		height: 30px;
+	}
+	 .MS-controls button
+	{
+		font-size:23px!important;
+	}
+	.mobile-nav li > img {
+    width: 6%;
+    height: 23px;
+	}
+	.keycompocls
+	{
+		height: 390px;
+	}
+	.sparetab-content
+	{
+		margin-top: 0%!important;
+	}
+	#sparecomparelist #carpopSlider .MS-content .item, .proddescription #scooterpopSlider .MS-content .item
+	{
+		width: 30% !important;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.evnewscls #motorcycleexpSlider .item, .evnewscls #vanexpSlider .item
+	{
+		    width: 44.11% !important;
+	}
+	#scooterSlider .MS-controls button, #carSlider .MS-controls button, #cargoSlider .MS-controls button, #ecycleSlider .MS-controls button, #autoSlider .MS-controls button, #truckSlider .MS-controls button, #busSlider .MS-controls button, #vanSlider .MS-controls button, #motorcyclepopSlider .MS-controls button, #scooterpopSlider .MS-controls button, #carpopSlider .MS-controls button, #cargopopSlider .MS-controls button, #ecyclepopSlider .MS-controls button, #autopopSlider .MS-controls button, #truckpopSlider .MS-controls button, #buspopSlider .MS-controls button, #vanpopSlider .MS-controls button, #motorcycleexpSlider .MS-controls button, #scooterexpSlider .MS-controls button, #carexpSlider .MS-controls button, #cargoexpSlider .MS-controls button, #ecycleexpSlider .MS-controls button, #autoexpSlider .MS-controls button, #truckexpSlider .MS-controls button, #busexpSlider .MS-controls button, #vanexpSlider .MS-controls button, #motorcycleworldevSlider .MS-controls button, #scooterworldevSlider .MS-controls button, #carworldevSlider .MS-controls button, #cargoworldevSlider .MS-controls button, #ecycleworldevSlider .MS-controls button, #autoworldevSlider .MS-controls button, #truckworldevSlider .MS-controls button, #busworldevSlider .MS-controls button, #vanworldevSlider .MS-controls button, #scooterbest .MS-controls button, #scooterlatest .MS-controls button, #scooterupcomimg .MS-controls button, #motorcyclebest .MS-controls button, #motorcyclelatest .MS-controls button, #motorcycleupcoming .MS-controls button, #nonregscooter .MS-controls button, #nonregmotorcycle .MS-controls button, #retrofittedev .MS-controls button,#convertedev .MS-controls button
+	{
+		top: -8%!important;
+	}
+	.contactseller
+	{
+		padding-left: 0px!important;
+		padding-right: 0px!important;
+	}
+	.evimageslider .carousel-indicators
+	{
+		display: none;
+	}
+	.scootersparepart #brandSlider .MS-content .item,.evmechsparepart #brandSlider .MS-content .item
+	{
+		width: 28.35% !important;
+		height: 140px !important;
+	}
+	.scootersparepart #brandSlider .MS-content img,.evmechsparepart #brandSlider .MS-content img
+	{
+		width: 60%;
+		height: 110px;
+	}
+	#brandSlider h4
+	{
+		font-size: 14px!important;
+	}
+	.mobile-nav a
+	{
+		font-size: 18px!important;
+	}
+	.startupserachbox
+	{
+		left: 2%;
+		right: 2%;
+		width: 96%;
+	}
+	.mobile-nav
+	{
+		right: 40%;
+	}
+	.showhidelogin .icofont-login, .showhideservice .icofont-engineer, .evstartupmobmenu
+	{
+		color: #b8b6b6;
+		font-size: 24px;
+		width: 6%;
+		float: left;
+	}
+	.spareli .spareavailtitles
+	{
+		opacity: 1;
+	}
+	.mobpopulartitle
+	{
+		display:block;
+	}
+	.mobpopulartitle li
+	{
+		line-height:1rem;
+		clear: both;
+		list-style: none;
+	}
+	.mobpopulartitle a
+	{
+		color:black;
+	}
+	.mobpopulartitle .card-body
+	{
+		background: #faf8f7;
+	}
+	.webpopulartitle
+	{
+		display:none!important;
+	}
+	.couseslider #carexpSlider .MS-content .item,.couseslider #cargoexpSlider .MS-content .item,.couseslider #ecycleexpSlider .MS-content .item,.couseslider #truckexpSlider .MS-content .item,.couseslider #busexpSlider .MS-content .item,.couseslider #vanexpSlider .MS-content .item,.couseslider #motorcycleworldevSlider .MS-content .item,.couseslider #scooterworldevSlider .MS-content .item
+	{
+		width: 38.11% !important;
+	}
+	.mobpaymentcls li
+	{
+		font-size:12px;
+		color:gray;
+	}
+	.mobpaymentcls
+	{
+		margin-bottom: 0!important;
+	}
+	.mob_retro_preview h5
+	{
+		font-size:16px;
+	}
+	.mobbusiinfo p
+	{
+		text-align: left!important;
+		font-size: 14px;
+		margin-top: 2%;
+	}
+	.mobbusiinfo .faq_que
+	{
+		font-size: 14px;
+	}
+	.mobbusiinfo tbody,.mob_retro_preview #accordionExample tbody
+	{
+		font-size: 14px;
+	}
+	#allbrandsclsdetail .brandlists
+	{
+		margin-right: 1%;
+		margin-left: 1%;
+	}
+	.mob_retro_preview .writereview p,.mobaddresscls p
+	{
+		font-size: 13px;
+		margin-bottom: 0!important;
+	}
+	.keycompocls
+	{
+		height: 430px;
+	}
+	.mob_retro_preview .carousel-indicators li
+	{
+		width:10px!important;
+	}
+	#cargobestSlider .MS-content .item,#ecyclebestSlider .MS-content .item
+	{
+		width:48%!important;
+	}
+	#scooterSlider .MS-controls .MS-left, #carSlider .MS-controls .MS-left, #cargoSlider .MS-controls .MS-left, #ecycleSlider .MS-controls .MS-left, #autoSlider .MS-controls .MS-left, #truckSlider .MS-controls .MS-left, #busSlider .MS-controls .MS-left, #vanSlider .MS-controls .MS-left,#brandSlider .MS-controls .MS-left,#motorcycleupSlider .MS-content .item,#motorcyclebestSlider .MS-content .item,#vanupSlider .MS-content .item,#scooterupSlider .MS-content .item,#scooterbestSlider .MS-content .item,#vanbestSlider .MS-content .item
+	{
+		/*left:-10px!important;*/
+	}
+	.retrofitservicecls
+	{
+		width:50%;
+		left: 27%;
+	}
+	.collapse .form-row {
+    	width: 100%!important;
+	}
+	.modal-lg
+	{
+		max-width: 700px !important;
+	}
+	.dropdownworld li img {
+    width: 3% !important;
+	}
+	.retronav
+	{
+		float:none;
+		
+	}
+	.searchFilter .input-group
+	{
+		float:none;
+		text-align: center;
+		margin:auto;
+		margin-top:2%;
+	}
+	.fixheaderinmob a
+	{
+		width: 31.88%;
+		padding: 0.8%!important;
+	}
+	.openratemodal
+	{
+		font-size: 30px;
+	}
+	
+	.mob_retro_preview
+	{
+		padding: 2%;
+		background:white;
+	}
+	.mob_retro_preview .btn-link i
+	{
+		float:none;
+	}
+	.mob_retro_preview .accordion
+	{
+		margin-top:0px!important;
+	}
+	.mob_retro_preview .accordion .btn
+	{
+		padding:0!important;
+	}
+	.mob_retro_preview .opennowcls
+	{
+		font-size: 15px;
+		color: #363332;
+	}
+	.mob_retro_preview .icofont-curved-down
+	{
+		font-size: 25px;
+	}
+	.mobileratingrev
+	{
+		width: 80%;
+		border: 1px solid #34eb6e;
+		padding: 10%;
+		color: white;
+		background: #25D366;
+		border-radius: 5px;
+		text-align: center;
+	}
+	.recentratecls
+	{
+		padding-left: 0;
+		width:100%;
+	}
+	.recentratecls li
+	{
+		list-style: none;
+		float: left;
+		width: 18%;
+		margin-right: 1%;
+		border: 1px solid lightgray;
+		border-radius: 21px;
+		text-align: center;
+	}
+	.mob_retro_preview .openratemodal
+	{
+		border: 1px solid lightgray;
+		padding: 1%;
+	}
+	.mobrating .col-lg-12,.mobsocial .col-sm-3
+	{
+		padding-left:0!important;
+		padding-right:0!important;
+	}
+	.mob_retro_preview .retrofitpreviewimg img
+	{
+		width: 15%;
+	}
+	.mob_retro_preview .callicon
+	{
+		width: 50%;
+		border: 1px solid #ebedeb;
+		padding: 9%;
+		border-radius: 49%;
+		font-size: 20px;
+		text-align: center;
+		margin:auto;
+	}
+	.callicon i
+	{
+		color:#25D366;
+	}
+	.mob_retro_preview .retrolistwishlistcls
+	{
+		position: inherit;
+		top:0!important;
+		left:0!important;
+		visibility: visible;
+	}
+	.mob_retro_preview p
+	{
+		text-align: center;
+		font-size: 11px;
+		margin-top: 5%;
+		font-family: 'Roboto',sans-serif;
+	}
+	.mobsocial a
+	{
+		color: #363332!important;
+	}
+	.mobbestdealbtn
+	{
+		width: 100%!important;
+		border-radius: 2px;
+	}
+	.carousel-inner
+	{
+		border-radius: 14px;
+	}
+	.carousel-indicators li
+	{
+		background-clip: border-box;
+		border-radius: 50%;
+		/*width: 10px!important;*/
+		border-top:none!important;
+	}
+	.writereview .btn
+	{
+		width:100%;
+	}
+	.mobretroportfoliocls img,.video_infocls iframe
+	{
+		width: 100%;
+		height: 100px;
+		border-radius: 8px;
+		margin-top: 2%;
+		margin-left: 1%;
+		object-fit: cover;
+	}
+	.det_rating-stars ul > li.star > i.fa,.openratemodal
+	{
+		font-size: 30px;
+	}
+	.mobretrophotos li
+	{
+		list-style:none;
+		width:40%;
+	}
+	.mobretrophotos
+	{
+		white-space: nowrap;
+		overflow-x: auto;
+		overflow-y: hidden;
+		display: block;
+		padding-left:0!important;
+	}
+	.mobretrophotos li
+	{
+		float: none!important;
+		display: inline-block;
+		margin-right:2%;
+	}
+	#worldscourse #newevtab
+	{
+		white-space: nowrap;
+		overflow-x: auto;
+		overflow-y: hidden;
+		display: block;
+	}
+	#worldscourse #newevtab .nav-item
+	{
+		float: none !important;
+		display: inline-block;
+		width: auto;
+		margin-left: 1%;
+		margin-right: 2%;
+	}
+	#worldscourse #newevtab .nav-link.active
+	{
+		border-bottom:4px solid gray!important;
+	}
+	.coursecontentcls .card .btn-link
+	{
+		font-size: 16px !important;
+	}
+	.coursecontentcls .card-body ul li
+	{
+		height: 25px;
+	}
+	.ekko-lightbox .modal-dialog
+	{
+		min-width: 95% !important;
+	}
+	.modalretrophotos img
+	{
+		box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+	}
+	.ekko-lightbox .modal-content {
+    height: 300px;
+	}
+	.modalretrophotos a
+	{
+		margin-right: 3%;
+		margin-top: 3%;
+		width: 30%;
+	}
+	.openphotomodal
+	{
+		cursor:pointer;
+	}
+	
+	.mobretrophotos::-webkit-scrollbar
+	{ 
+		display: none;
+		overflow: -moz-scrollbars-none;
+		-ms-overflow-style: none;
+	}
+	.web_retro_preview
+	{
+		display:none;
+	}
+	.mob_retro_preview
+	{
+		display:block;
+	}
+	.addevcompare
+	{
+		text-align:left;
+	}
+	.ratingimg img
+	{
+		height: 350px;
+	}
+ 	.drop-down,.drop-downev
+	{
+		display:none;
+	}
+	.mobnav,.mobnewevnav
+	{
+		display:block;
+	}
+	.sellcls
+	{
+		margin-top:7%;
+	}
+	/*.vehicledetail
+	{
+		width:100%;
+		display:block;
+		margin:auto;
+	}*/
+	.container-fluid,.col-sm-12
+	{
+		/*padding-left:0px;*/
+	}
+	.buyseller
+	{
+		margin-top:23%;
+		margin-bottom:5%;
+	}
+	.buyseller h5
+	{
+		font-weight:normal;
+		margin-top: 31%;
+		margin-left: 5%;
+	}
+	.buyfil .vehicledetail {
+	  -webkit-transition: none !important;
+	  -moz-transition: none !important;
+	  -o-transition: none !important;
+	  transition: none !important;
+		margin-bottom:6%;
+	}
+	.buyfil .vehicledetail:hover {
+	  -webkit-transform: none;
+	  transform: none;
+	}
+	.buyfil ul
+	{
+		padding:0px;
+	}
+	#header
+	{
+		position: fixed;
+    width: 100%;
+    top: 0;
+	}
+	#smallcrosssell
+	{
+		margin-top: 10%;
+	}
+	.firstfix
+	{
+		margin-top: 15%;
+	}
+	.rightfilter,.leftfilter
+	{
+	font-size: 12px;
+	}
+	.filterssection li
+	{
+		padding: 5px!important;
+	}
+	.fillocas label
+	{
+		margin-bottom: .2rem;
+	}
+	.vehpricedsc .col-sm-6
+	{
+		width:50%;
+	}
+	.buyseller
+	{
+		padding-right: 0px;
+		padding-left: 0px;
+	}
+	.askbudget li
+	{
+		background: #fff;
+		font-size: 12px;
+		margin-bottom: 2%;
+		width: 47%;
+		float: left;
+		text-align:center;
+	}
+	.middlebox h5
+	{
+		font-size:16px;
+	}
+	#loaddiv
+	{
+		margin-top:13%;
+	}
+	.sorttit
+	{
+		display: block;
+		font-size: 10px;
+		padding: 0px;
+		margin: 0px;
+	}
+	.vehfeature img
+	{
+		width:29%;
+	}
+	#mixedSlider .MS-content .item .imgTitle img
+	{
+		height: 310px;
+	}
+	 #compareslider #mixedSlider .MS-content .item
+	{
+		width: 90%;
+	}
+	.compareleft img, .compareright img
+	{
+		height: 100px !important;
+	}
+	.cartitle, .carprice
+	{
+		font-size: 11px;
+	}
+	#mixedSlider .MS-content .item, #newevimgslider .MS-content .item, #dealerSlider .MS-content .item
+	{
+		height: 260px!important;
+	}
+	#prices h3, #colors h3, #varianties h3, #videoes h3, #reviewi h3, #speci h3, #images h3
+	{
+		font-size: 1rem;
+	}
+	.ex_in_imgcls li img
+	{
+		height: 170px;
+		width: 100%;
+	}
+	#imgCarousel, #colorimgCarousel
+	{
+		height: 500px;
+	}
+	.condealerbtn
+	{
+		    margin: auto;
+	}
+	#speci table tr
+	{
+		width:100%;
+	}
+	#speci table td
+	{
+		font-size: 12px;
+		width:100%;
+	}
+	.table td, .table th
+	{
+		padding: .45rem;
+	}
+	.carkeyspec .col-md-12
+	{
+		padding-right: 1px;
+    padding-left: 1px;
+	}
+	.usedvehtypelink li
+	{
+		width: 22.66%!important;
+	}
+	.prodsummary input[type="text"],.prodsummary input[type="number"]
+	{
+		font-size:12px;
+	}
+	.comapretablecls table td:first-child
+	{
+		width: 100%!important;
+		display: block!important;
+		text-align: center;
+		font-size: 10px;
+		color:gray;
+	}
+	.comapretablecls table td
+	{
+		width: 24%;
+		font-size: 13px;
+		display: inline-block;
+		text-align: center;
+	}
+	.comapretablecls table td, .comapretablecls table th
+	{
+		padding:2%;
+	}
+	.hidden-sm {
+    display: none !important;
+	}
+	.colcomcls
+	{
+		width: 24%;
+	}
+	.colcomcls:first-child
+	{
+		display:none;
+	}
+	#comparepopscroll
+	{
+		position: fixed;
+		top: -50px;
+		width: 100%;
+		display: block;
+		transition: top 0.3s;
+		background: #fff;
+		box-shadow: 0 4px 8px 0 rgba(36,39,44,.15);
+	}
+	#comparepopscroll .colcomcls
+	{
+		float:left;
+	}
+	#comparepopscroll .closecomp .icofont-close
+	{
+		background: none;
+		color:black;
+		position:static;
+	}
+	#comparepopscroll .closecomp
+	{
+		display: inline-block;
+    	float: right;
+	}
+	#comparepopscroll .comparevehtitle
+	{
+		padding-right:0px!important;
+	}
+	.maincompareseccls
+	{
+		display:none;
+	}
+	#opendealerdetail .col-md-5,#opensellerdetail .col-md-5
+	{
+		display:none;
+	}
+	#loaddiv > h3
+	{
+		margin-top: 0%;
+	}
+	#truckexpSlider .MS-content .item
+	{
+		width:48%!important;
+	}
+	#sparecomparelist #carpopSlider .MS-content .item, .proddescription #scooterpopSlider .MS-content .item
+	{
+		width: 32% !important;
+	}
+	.courseserachbox
+	{
+		width: 60%;
+		top: 25%;
+	}
+}
+@media screen and (max-width: 720px) {
+	.keycompocls
+	{
+		height: 460px;
+	}
+	.modal-lg
+	{
+		max-width: 650px !important;
+	}
+	.dropdownworld li img {
+    width: 3.2% !important;
+	}
+.changerow>.col-md-2
+	{
+		flex: 0 0 25.667%;
+		max-width: 25.667%;
+	}
+	.changerow .col-md-10
+	{
+		flex: 0 0 74.333%;
+		max-width: 74.333%;
+	}
+	.paddingzero
+	{
+		margin-top: 8%;
+	}
+	.listing .grid
+	{
+		width:23%;
+		margin-right: 1%;
+	}
+}
+@media screen and (max-width: 792px) {
+ .leftsidebox span 
+	{
+    	font-size: 0.70714rem;
+	}
+	#myTabContent
+	{
+		margin-top: 6%;
+	}
+	.removeoverflow .carousel-item {
+    height: 350px;
+	}
+	#allbrandsclsdetail
+	{
+		margin-top:5%;
+	}
+	#sparecomparelist #carpopSlider .MS-content .item, .proddescription #scooterpopSlider .MS-content .item
+	{
+		width: 33% !important;
+	}
+}
+@media screen and (max-width: 668px)
+{
+	#sparecomparelist #carpopSlider .MS-content .item, .proddescription #scooterpopSlider .MS-content .item
+	{
+		width: 34% !important;
+	}
+	#allbrandscls .nav-item
+	{
+		width:20%;
+	}
+	.explore_ev li
+	{
+		width: auto;
+    margin-right: 2%;
+	}
+	#popularev .nav-item,#brandsev .nav-item,#usedevtab .nav-item,#newevtab .nav-item,#popularscooter .nav-item,#bestmotorev .nav-item,#bestscooterev .nav-item,#latestmotorev .nav-item,#latestescooter .nav-item,#upcomeemotor .nav-item,#upcomevscoo .nav-item,#usedevmotorcycle .nav-item,#usedescooter .nav-item,#usedevindia .nav-item,#usedevbyprice .nav-item,#usedscooterbyprice .nav-item,#latestreview .nav-item,#retrofitterworkshop .nav-item,#retrofitterinindia .nav-item,#worldecar .nav-item,#keycomponentev .nav-item,#evcomparison .nav-item,#escoocomparison .nav-item
+	{
+		width: 18%;
+	}
+	#bestnewscooevtab .nav-item
+	{
+		width: 27%;
+	}
+	.mobmtcls
+	{
+		margin-top: 10%;
+	}
+	.modal-lg
+	{
+		max-width: 600px !important;
+	}
+	.dropdownworld li img {
+    width: 3.4% !important;
+	}
+	.ourretrofitservice ul li img
+	{
+		height:70px;
+	}
+}
+@media screen and (max-width: 626px)
+	{
+		.mobmargin
+		{
+			margin-top:6%;
+		}
+		.worldevpreviewcls .carousel-item
+		{
+			height: 350px;
+		}
+		.worldevpreviewcls #carouselExampleControls
+		{
+			width:100%;
+		}
+		#brandsev .item h4 {
+    		/*padding: 8%;*/
+}
+		#scooterSlider .MS-content .item,#carSlider .MS-content .item,#cargoSlider .MS-content .item,#ecycleSlider .MS-content .item,#autoSlider .MS-content .item,#truckSlider .MS-content .item,#busSlider .MS-content .item,#vanSlider .MS-content .item,#motorcyclepopSlider .MS-content .item,#scooterpopSlider .MS-content .item,#carpopSlider .MS-content .item,#cargopopSlider .MS-content .item,#ecyclepopSlider .MS-content .item,#autopopSlider .MS-content .item,#truckpopSlider .MS-content .item,#buspopSlider .MS-content .item,#vanpopSlider .MS-content .item,#motorcycleexpSlider .MS-content .item,#scooterexpSlider .MS-content .item,#carexpSlider .MS-content .item,#cargoexpSlider .MS-content .item,#ecycleexpSlider .MS-content .item,#autoexpSlider .MS-content .item,#truckexpSlider .MS-content .item,#busexpSlider .MS-content .item,#vanexpSlider .MS-content .item,#motorcycleworldevSlider .MS-content .item,#scooterworldevSlider .MS-content .item,#carworldevSlider .MS-content .item,#cargoworldevSlider .MS-content .item,#ecycleworldevSlider .MS-content .item,#autoworldevSlider .MS-content .item,#truckworldevSlider .MS-content .item,#busworldevSlider .MS-content .item,#vanworldevSlider .MS-content .item,#usedmotorcycleSlider .MS-content .item,#usedscooterSlider .MS-content .item,#brandSlider .MS-content .item,#motorcycleupSlider .MS-content .item,#motorcyclebestSlider .MS-content .item,#vanupSlider .MS-content .item,#scooterupSlider .MS-content .item,#scooterbestSlider .MS-content .item,#vanbestSlider .MS-content .item,#scooterbest .MS-content .item,#scooterlatest .MS-content .item,#scooterupcomimg .MS-content .item,#motorcyclebest .MS-content .item,#motorcyclelatest .MS-content .item,#motorcycleupcoming .MS-content .item,#nonregmotorcycle .MS-content .item,#nonregscooter .MS-content .item,#retrofittedev .MS-content .item,#convertedev .MS-content .item
+		{
+    width: 48% !important;
+	}
+	.dropdownworld li img {
+    width: 3.8% !important;
+	}
+}
+@media screen and (max-width: 615px) {
+	.retrofittingcls
+	{
+		margin-top:8%;
+	}
+	.dropdownworld li img {
+    width: 4% !important;
+	}
+	.addvehiclecls
+	{
+		padding:10%!important;
+	}
+	
+}
+@media screen and (max-width: 684px) {
+	.retrofittingcls .container
+	{
+		/*margin-top:8%;*/
+	}
+	.dropdown-content
+	{
+		position: fixed;
+		top: 14%;
+		right: 10%;
+	}
+	.dropdown-content::after, .dropdown-content::before
+	{
+		right: 0!important;
+		left: auto!important;
+	}
+	#configuration_sidebar_content
+	{
+		white-space: nowrap;
+		overflow-x: auto;
+		overflow-y: hidden;
+		padding-left:2%;
+	}
+.changerow>.col-md-2
+	{
+		flex: 0 0 27.667%;
+		max-width: 27.667%;
+	}
+	.changerow .col-md-10
+	{
+		flex: 0 0 72.333%;
+		max-width: 72.333%;
+	}
+	.vehicledetail
+	{
+		width:48%;
+		margin-top:3%;
+	}
+	.item ul li
+	{
+		margin-right: 2%;
+		text-align: center;
+	}
+	.newevoversec li span
+	{
+		font-size: 10px!important;
+	}
+	.sellersec .col-auto
+	{
+		padding-left: 2px;
+	}
+	.newevpreview li a, .newevpreview li
+	{
+		font-size: 10px;
+	}
+	.priceleftsec img
+	{
+		float:none;
+		display:block;
+		margin:auto;
+		margin-bottom:2%;
+	}
+	
+	.compare_With_Similar::-webkit-scrollbar {
+    	display: none;
+		width:1px;
+	}
+	.circlesec, .variantcirclesec
+	{
+		width: 40px;
+   		 height: 40px;
+	}
+	.addevcompare
+	{
+		font-size:12px;
+	}
+	#comparelinkid
+	{
+		position: static;
+    width: 100%;
+	}
+	.compareimg img
+	{
+		    height: 120px;
+	}
+	#getprosellerdetail
+	{
+		width: 100%;
+    height: 25px;
+    text-align: center;
+    font-size: 10px;
+    padding: 1px;
+		margin-left:1%;
+		margin-right:1%;
+	}
+	.compare_With_Similar li
+	{
+		height:100px!important;
+	}
+}
+@media screen and (max-width: 625px) {
+	.newevspecification .form-group
+	{
+		margin-bottom: 2rem;
+	}
+	/*#Imagesli,#Specli,#reviewli,#Variantsli,#Videosli,#Coloursli,#Priceli
+	{
+		display:none;
+	}*/
+	.newevpreview li
+	{
+		    width: auto;
+		text-align:center;
+	}
+	/*.dropdown-content>ul>.showinmobcls 
+	{
+		display:block;
+	}*/
+	.dropdown-content::after, .dropdown-content::before
+	{
+		left:53%;
+	}
+	.contactseller
+	{
+		margin-top:2%;
+	}
+	.newevspecification a.active,.newevspecification a
+	{
+		padding: 6%;
+	}
+	.newevspecification a.active::after
+	{
+		margin-top: -30px;
+	}
+	.verticletabsec label
+	{
+		color:gray;
+	}
+	.newevspecification a.active::after
+	{
+		margin-top: 3.02%;
+	}
+	.newevspecification a.active::after
+	{
+		border-bottom: 10px solid transparent;
+    border-top: 10px solid transparent;
+	}
+	#speci .newevspecification label
+	{
+		    display: inline;
+    margin-bottom: 0;
+    width: 100%;
+    font-size: 11px;
+    text-align: left;
+    float: left;
+	}
+	#speci .newevspecification span,.newevspecification span
+	{
+		    display: block;
+		float:left;
+		width: 100%;
+		font-size: 11px;
+	}
+	.usedevspecs label
+	{
+		width: 100%;
+	}
+	.wrtrvwspan
+	{
+		text-align: center;
+    margin: auto;
+    display: block;
+	}
+	.newevspecification
+	{
+		padding: 1%;
+	}
+	.usedvehtypelink li
+	{
+		width: 30.66%!important;
+	}
+	.card-body ul li
+	{
+		    height: 50px;
+	}
+	.modal-lg
+	{
+		max-width: 550px !important;
+	}
+	.courseserachbox
+	{
+		width: 70%;
+		top: 25%;
+	}
+}
+@media screen and (max-width: 576px) {
+	#startupjobs #motorcyclelatest .MS-content .item {
+		width: 80% !important;
+	}
+	.treandingsearch
+	{
+		display:none!important;
+	}
+	.rv-jobdesc.coursesimilar #carexpSlider .MS-content .item 
+	{
+		width: 55%!important;
+	}
+	#mobserviceclosefilter
+	{
+		display:block;
+	}
+	.closeservicepopup
+	{
+		margin-right: 0;
+		margin-left: auto;
+		line-height: 0;
+	}
+	.servicenm
+	{
+		color: darksalmon;
+	}
+	.subservicelist .btn-outline-success
+	{
+		font-size:12px;
+	}
+	#mobserviceModal .form-group
+	{
+		margin-bottom:1%!important;
+	}
+	#sendretrofitotp,#showcarservicemobile
+	{
+		font-size:10px;
+	}
+	#sendmobretrofitotp
+	{
+		height: 33px;
+	}
+	.addmobfourservice
+	{
+		display:block;
+	}
+	ul.bookservmodel
+	{
+		padding-left: 5%;
+	}
+	#servicehighlight,.addfourservice
+	{
+		display:none;
+	}
+	.insurance_content h3
+	{
+		font-size: 16px;
+	}
+	.insurance_content
+	{
+		margin-top: 10%;
+	}
+	.insurance_content .col-lg-4
+	{
+		display:none;
+	}
+	.dealerregister-box
+	{
+    	width: 100%;
+		margin-top: 12%;
+	}
+	.retrofiterclasnm .form-group
+	{
+		margin-bottom: 1rem;
+		font-size: 13px;
+	}
+	.stepcls1 h1
+	{
+		font-size: 20px;
+	}
+	.insurance-vtype li
+	{
+		width: 48%;
+		height:30px;
+		margin-bottom: 10%;
+	}
+	.insurance-vtype img
+	{
+		width: 85%;
+		height: 40px;
+	}
+	.insurance_content
+	{
+		height: auto!important;
+	}
+	.insurance_content .bikelist ul
+	{
+		padding-left: 0;
+		padding-top:3%;
+	}
+	.insurance_content .bikelist ul li
+	{
+		height: 40px;
+	}
+	.insurance_content #customerName
+	{
+		margin-top: 1rem!important;
+	}
+	.insurance_content #insurelocation
+	{
+		font-size: 12px;
+		color: gray;
+	}
+	.insurance_content #submitquote
+	{
+		font-size: 13px;
+    width: 100%;
+    margin-top: 2%;
+	}
+	.sparecategorycls li img
+	{
+		width: 100%;
+	}
+	#worldevbrandscroll .sparebrands li span
+	{
+		font-size:14px!important;
+	}
+	.dropdown-content
+	{
+		top: 40%;
+	}
+	.alldealercls
+	{
+		width: 100%;
+	}
+	.sellersummary .sellerbtn
+	{
+		padding-left: 3%;
+		padding-right: 7%;
+	}
+	.register-box
+	{
+		width: 100%;
+		margin-top: 16%;
+	}
+	.shownewssubmenu .opencomingsoonmodal {
+    padding-left: 3%;
+}
+	#chargingpointfront .normalsearch
+	{
+		display:block;
+	}
+	#chargingpointfront .webnormalsearch
+	{
+		display:none;
+	}
+	#checkpoints span
+	{
+		display:none;
+	}
+	#chargingpointfront #newevsearchbtn
+	{
+		top: 31%;
+	}
+	.explore_station
+	{
+		padding: 10px 10px;
+	}
+	.image_exp img
+	{
+		width: 31.23%;
+	}
+	.plug_exp img
+	{
+		width: 70%;
+		height: 30px!important;
+	}
+	.plugname
+	{
+		font-weight:700;
+	}
+	.plugclass
+	{
+    	width: 48%;
+		font-size: 12px;
+	}
+	.plugclass p,.comev_exp
+	{
+		font-size: 11px;
+	}
+	.chargebreadcrump
+	{
+		margin-top: 30%;
+		padding-left: 2%;
+	}
+
+	.map_exp iframe
+	{
+		width:100%;
+	}
+	.plugclass span
+	{
+		font-size: 14px;
+		font-weight: 500;
+	}
+	.stationamenities img
+	{
+		height:30px!important;
+	}
+	.stationamenities p
+	{
+		font-size: 12px;
+	}
+	.jobadvancesearch,.maprightdiv
+	{
+		display:none;
+	}
+	.stationli .imgcls img
+	{
+		height: 60px;
+	}
+	.stationdesc span
+	{
+		font-size: 11px;
+	}
+	.stationtab li
+	{
+		padding: 0 5px;
+		font-size: 12px;
+	}
+	.sparessection .normalsearch
+	{
+    	display:block;
+		left: 1%;
+		right: 1%;
+	}
+	.normalsearch .coursessearchslist
+	{
+		width: 94%;
+		height: 200px;
+	}
+	.worldevsearch .coursessearchslist {
+   	 top: 53% !important;
+	}
+	.autoli li
+	{
+		width: auto !important;
+		margin-bottom: 1%;
+	}
+	.startuptab
+	{
+		display:none;
+	}
+	#evstartupfront #startupsource
+	{
+		margin-top: 0%!important;
+	}
+	.investorcls li
+	{
+		width: 100% !important;
+	}
+	.investorcls
+	{
+		left: 0;
+	}
+	.startupempdetail
+	{
+		padding-left: 4%;
+	}
+	.mobmargin
+	{
+		margin-top:8%;
+	}
+	.filterveh h3
+	{
+		font-size: 18px !important;
+	}
+	.evstrt_header
+	{
+		width: 80%;
+		margin: 20% auto 0%;
+		height: 120px;
+	}
+	.startuppreviewsec h4
+	{
+		margin-top:2%;
+	}
+	.evstrt_header img
+	{
+		height: 100%;
+		object-fit: contain;
+	}
+	.startupmodal #filprice,.startupmodal #filkm, .startupmodal #filyear
+	{
+		padding:2px;
+	}
+	.startuplist img
+	{
+		height: 80px;
+	}
+	.startuplist .startupdesc
+	{
+		display:none;
+	}
+	.startuplist h4
+	{
+		font-size: 13px;
+	}
+	.companydesc span
+	{
+		font-size: 12px;
+	}
+	.searchboxtab
+	{
+		display:none;
+	}
+	.startupserachbox
+	{
+		width:98%;
+		left:1%;
+		right:1%;
+		background:transparent;
+	}
+	.startupserachbox .has-search .form-control
+	{
+		width:84%;
+	}
+	.startupserachboxtop
+	{
+		margin-top: 14%;
+	}
+	.searchtab li
+	{
+		width: 44%;
+		margin-bottom: 4%;
+		text-align: center;
+	}
+	.evstartupbck .searchboxesexplore li
+	{
+		white-space:nowrap;
+		font-size: 14px;
+	}
+	.fundingroundclass
+	{
+		width: 280px;
+	}
+	.fundingroundclass li
+	{
+		width:100%;
+	}
+	.keyskillcls li, .jobloccls li
+	{
+		position: relative;
+	}
+	.keyskillcls li::before
+	{
+		margin-left: -3%;
+		top: 11px;
+	}
+	.jobloccls li::before
+	{
+		top: 10px;
+		margin-left: -6%;
+	}
+	.keyskillclass
+	{
+		padding:0;
+	}
+	.joblist
+	{
+		padding: 10px 10px 5px;
+	}
+	.joblist .requiredprofile
+	{
+		display:none!important;
+	}
+	.select2-container--default .select2-selection--multiple
+	{
+		padding-left:0!important;
+	}
+	.mobjobsearch
+	{
+		display:block;
+	}
+	#jobsimplesearch,.jobfrontpage .jobnavigation
+	{
+		display:none;
+	}
+	
+	.searchmenu
+	{
+		white-space: nowrap;
+		overflow-x:auto;
+		overflow-y:hidden;
+		display: block;
+	}
+	.searchmenu li
+	{
+		float: none !important;
+		display: inline-block;
+	}
+	.searchmenu::-webkit-scrollbar{
+		width: 0px!important;
+		display:none;
+		background: transparent; /* make scrollbar transparent */
+	}
+	.treandingsearch
+	{
+		display:none;
+	}
+	.aboutevmech h3 {
+    	font-size: 16px !important;
+	}
+	.aboutevmech p,.aboutevmech li {
+    	font-size: 13px;
+		line-height: 1.5rem;
+	}
+	.retroaccordian .card .btn-link
+	{
+		font-size:14px!important;
+	}
+	.normalsearch
+	{
+		display:none;
+	}
+	.carousel-control-next, .carousel-control-prev
+	{
+		height: 100px;
+		margin: auto;
+	}
+	 #mobminfilamount
+	{
+		max-width: 35%;
+	}
+	.Topheader .gsc_container,.descgsc_container
+	{
+		max-width: 100% !important;
+	}
+	.Topheader .nav-tabs .nav-link
+	{
+		font-size:14px;
+	}
+	.previmgdis img
+	{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 1%;
+    object-fit: contain;
+	}
+	.whatyoulearn table
+	{
+		width: 100%!important;
+	}
+	.whatyoulearn table td
+	{
+		display: block;
+	}
+	.mobinstructor
+	{
+		display:block;
+	}
+	.mobinstructor.instructorimg img
+	{
+		width: 120px;
+		height: 120px;
+		margin:auto;
+		display:block;
+	}
+	.instructoroverview h2
+	{
+		font-size: 21px;
+	}
+	.instructortitle p
+	{
+		font-size: 14px;
+	}
+	.instrcourserlist .item .coursereview span
+	{
+		font-size: 11px;
+	}
+	.webinstructor
+	{
+		display:none;
+	}
+	.mobcoursepreview
+	{
+		display:block;
+		margin-top: 15%;
+	}
+	.mobcoursepreview .previewimg img
+	{
+		width:100%;
+		opacity: 0.9;
+		height:180px;
+	}
+	.trainingcoursebg
+	{
+		background-color:white;
+		color:black;
+	}
+	.whitefontcls
+	{
+		color:black!important;
+	}
+	.mobcoursepreview .coursename
+	{
+		font-size:20px;
+	}
+	.mobcoursepreview .courseshortdesc
+	{
+		font-size:14px;
+		margin-bottom:1%;
+	}
+	.mobcoursepreview .coursepreviewprice span,.mobcoursepreview .coursepreviewprice strike
+	{
+		font-size:16px;
+	}
+	.mobcoursepreview .coursepreviewprice strike
+	{
+		display: inline;
+	}
+	.coursecontainer>.container
+	{
+		margin-top: 1rem !important;
+	}
+	.mobpadding,.instrcourserlist
+	{
+		padding-left:0!important;
+		padding-right:0!important;
+	}
+	.instrcourserlist .imgTitle
+	{
+		border:0;
+	}
+	.instrcourserlist
+	{
+		height:auto;
+		margin-bottom:5%;
+	}
+	.instrcourserlist .spanrupee span,.instrcourserlist strike
+	{
+		font-size: 14px;
+		line-height: 1;
+	}
+	.instrcourserlist .item h4
+	{
+		font-size: 13px;
+		line-height: 1.2;
+		margin-top:0%!important;
+		margin-bottom:1%!important;
+	}
+	.instructortime
+	{
+		font-size: 10px;
+		line-height: 1.2;
+	}
+	.coursemoredesc
+	{
+		padding-left:2%!important;
+		line-height: 1.4!important;
+	}
+	.instrcourserlist a
+	{
+		color:#363332!important;
+	}
+	.coursereviewrate {
+    	font-size: 11px !important;
+	}
+	.instrnamepara
+	{
+		margin-top:0!important;
+	}
+	.instrname
+	{
+		font-weight: 500;
+	}
+	.instrcourserlist strike
+	{
+		display:inline;
+	}
+	.instrname,.coursereview
+	{
+		font-size: 11px;
+	}
+	.instrcourserlist img
+	{
+    	height: 80px;
+	}
+	.whatyoulearn ul
+	{
+		padding-left:2%!important;
+	}
+	.whatyoulearn h4
+	{
+		font-size: 18px;
+	}
+	.mobcoursepreview .transparentbtn
+	{
+		border-color: gray;
+		color: gray;
+		margin-top:2%;
+		display:block;
+		width:100%;
+	}
+	#showaccordian
+	{
+		float:left!important;
+	}
+	.contentlectime
+	{
+		display:none;
+	}
+	.coursecontentcls .card .btn-link {
+    	font-size: 14px !important;
+	}
+	.coursecontentcls ul
+	{
+		padding-left: 9%;
+	}
+	.mobpadding .row
+	{
+		margin-top: 1rem !important;
+	}
+	.mobpadding .card-header .row,.mobpadding .instdesg,.instdesccls .row
+	{
+		margin-top: 0rem !important;
+	}
+	.mobpadding .card-header .row i
+	{
+		font-size: 16px;
+		margin-top: 17%;
+		margin-right: 18%;
+		float: left!important;
+	}
+	.instructorcls img
+	{
+		height: 80px;
+	}
+	.mobpadding h4
+	{
+		font-size:18px;
+	}
+	.courserequire p,.descriptioninpreview p,.descriptioninpreview li,.mobpadding li
+	{
+		font-size: 14px;
+	}
+	.coursepreview
+	{
+		overflow:hidden;
+	}
+	.sticky
+	{
+		background: white;	
+		color:black;
+	}
+	.scolldowntrainingdown
+	{
+		margin-top: 0%!important;
+		padding:3%
+	}
+	.scolldowntrainingdown li
+	{
+		list-style:none;
+		float:left;
+		cursor:pointer;
+		width: auto;
+		margin: auto;
+		margin-right: 3%;
+		display: block;
+		margin-left: 3%;
+	}
+	#fixeddealerbtn h4
+	{
+		font-size: 16px;
+		float: left;
+		margin-right: 3%;
+	}
+	.mobcoursepreview p
+	{
+		margin-bottom:1%;
+	}
+	.whitefontcls
+	{
+		padding-left:0;
+		padding-right:0;
+	}
+	.webcoursepreview
+	{
+		display:none;
+	}
+	.mobheadshadow
+	{
+		display:block;
+	}
+	.trainingfiltercls h4
+	{
+		margin-bottom: 4%;
+	}
+	.paddingranger {
+    	margin-bottom: 1%;
+	}
+	.mobheadshadow
+	{
+		padding-top: 3%;
+		padding-bottom: 3%;
+		box-shadow: 0 2px 4px rgba(0,0,0,.08),0 4px 12px rgba(0,0,0,.16);
+		height:50px;
+	}
+	.mobheadshadow i
+	{
+		font-size: 25px;
+	}
+	#mobclosefilter
+	{
+		width: 100%;
+		display: block;
+	}
+	.trainingsort,.servicesort,.youtubersort
+	{
+		padding-right: 0px;
+		padding-left: 0px;
+	}
+	.filterclass > ul > li
+	{
+		padding-left:5%;
+		padding-right:5%;
+		padding-top: 3%;
+		padding-bottom: 3%;
+	}
+	.paddingranger p
+	{
+		text-align: center;
+		margin-bottom: 2%;
+	}
+	#mobcoursefilter,#mobservicefilter
+	{
+		margin-bottom:3%;
+		display:block;
+		width:100px;
+		float:left;
+		margin-right:1%;
+		height:2.8rem;
+	}
+	.select-arrow
+	{
+		height: 2.8rem;
+		border-bottom: 1px solid #989586;
+	}
+	.rev_select
+	{
+		padding: 0 3rem 0 0.8rem;
+	}
+	#mobcoursefilter:hover,#mobservicefilter:hover
+	{
+		color: #449d9e;
+	}
+	.trainingsort,.servicesort
+	{
+		position: fixed;
+		top: 0px;
+		right: -402px;
+		height: 100%;
+		bottom: 15px;
+		z-index: 99999999;
+		overflow-y: auto;
+		background: #fff;
+		transition: ease-in-out 0.2s;
+		max-width:100%!important;
+		box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+		transition:right 1s;
+		-webkit-transition:1s;
+    	-moz-transition:1s;
+	}
+	.youtubersort
+	{	
+		position: fixed;
+		top: 0px;
+		right: -402px;
+		height: 100%;
+		bottom: 15px;
+		z-index: 99999999;
+		overflow-y: auto;
+		background: #fff;
+		transition: ease-in-out 0.2s;
+		max-width:96%!important;
+		box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+		transition:right 1s;
+		-webkit-transition:1s;
+    	-moz-transition:1s;
+	}
+	.post_box
+	{
+		width: 100%;
+	}
+	.couseslider .spanrupee, .courselist .spanrupee
+	{
+		font-weight: 900 !important;
+	}
+	.courselistdesc h4
+	{
+		margin-bottom: 0;
+		font-size: 14px;
+	}
+	.courselevelcls
+	{
+    	font-size: 12px;
+	}
+	.resulthideinmob
+	{
+		display:none;
+	}
+	.sortleftcontainer
+	{
+		width: 100%;
+	}
+	.courselist img
+	{
+		height: 100px;
+	}
+	.courselistdesc .courseshort
+	{
+		display:none;
+	}
+	.moblistingprice
+	{
+		display:block;
+		margin-bottom:1%;
+	}
+	.listingprice
+	{
+		display:none;
+	}
+	.couseslider #carexpSlider .MS-content .item,.couseslider #cargoexpSlider .MS-content .item,.couseslider #ecycleexpSlider .MS-content .item,.couseslider #truckexpSlider .MS-content .item,.couseslider #busexpSlider .MS-content .item,.couseslider #vanexpSlider .MS-content .item,.couseslider #motorcycleworldevSlider .MS-content .item,.couseslider #scooterworldevSlider .MS-content .item
+	{
+		width: 48.11% !important;
+	}
+	.traningssection
+	{
+		margin-top: 5%;
+	}
+	.traningssection .breadcrumb
+	{
+		padding: .75rem 1rem!important;
+		margin-bottom: 0;
+	}
+	.traningssection .coursestartedcls
+	{
+		margin-top:2%!important;
+	}
+	.traningssection #newevtab .nav-item
+	{
+		width:40%;
+	}
+	.dealerlocation
+	{
+		top: 34.2%;
+		width: 91%;
+	}
+	.sparessection #newevtab .nav-item
+	{
+		width: 20%;
+	}
+	.proddescription li
+	{
+		font-size:14px;
+	}
+	.vehicledetail .sparewishlist
+	{
+		top: 3px;
+	}
+	.newevtab::-webkit-scrollbar{
+		width: 0px!important;
+		display:none;
+		background: transparent; /* make scrollbar transparent */
+	}
+	.sparewishlist
+	{
+		top: -111%;
+		right: 10px;
+	}
+	.sharelst
+	{
+		top: -103%;
+		right: 10px;
+	}
+	.merchantprices .sparetitle
+	{
+		display:none;
+	}
+	.sparerightimg
+	{
+		display:none;
+	}
+	#sparecomparelist #carpopSlider .MS-content .item, .proddescription #scooterpopSlider .MS-content .item
+	{
+		width: 50% !important;
+	}
+	.newssubtitle p
+	{
+		height: 100px!important;
+	}
+	.rsl li
+	{
+		padding: 0px!important;
+	}
+	.retrofitcoverimg img
+	{
+		height:100%;
+		border-radius:0;
+	}
+	.retrofitcoverimg
+	{
+		padding-right:0!important;
+	}
+	.retrofit_detail h4
+	{
+		margin-bottom: 0;
+	}
+	.retrofitreview .ratingspan
+	{
+		padding-left: 4px;
+		font-size: 10px;
+		padding-right: 6px;
+	}
+	.retrofitclosecls,.moreaddress
+	{
+		margin-bottom: 0rem !important;
+		font-size: 10px;
+	}
+	.retroareaname
+	{
+		font-size: 10px;
+	}
+	.rightfixed
+	{
+		display:none;
+	}
+	.moreaddress
+	{
+		font-size: 11px;
+	}
+	.retrofitcallnow .btn
+	{
+		padding-left: 3%;
+		padding-right: 3%;
+		width: 100%;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		font-size: 12px;
+	}
+	.retrofitreview .startingcls .fa
+	{
+		font-size: 10px;
+	}
+	.retrofittingcls
+	{
+		margin-top:13%;
+	}
+	.retrofitedlist img
+	{
+		height: 240px;
+	}
+	.retrofitedlist
+	{
+		height: 380px;
+    	margin-bottom: 5%;
+	}
+	.retrofittedmaincls
+	{
+		margin-top:12%;
+	}
+	.retrofittedmaincls h4
+	{
+		padding-left: 15px;
+	}
+	.convertedevlist,.portfolios .container
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.retrofittedspec li
+	{
+		width: 48%;
+	}
+	.worldrupeecls p
+	{
+		font-size: 13px;
+	}
+	.portfolios .container>h4 {
+		font-size: 15px!important;
+	}
+	.worldevpreviewcls
+	{
+		margin-top: 12%;
+	}
+	.worldevpreviewcls>h5
+	{
+		font-size: 18px;
+	}
+	.retrofittingcls .web_retro_preview
+	{
+		margin-top: 14%;
+	}
+	.workshopnmcls p
+	{
+		font-size: 18px;
+	}
+	.evmechanicpreview .retrofitterbg img, .evmechanicpreview.postionrelcls
+	{
+		height: 180px;
+	}
+	.basicinfocls .retrofitaddresscls {
+		font-size: 11px;
+		line-height: 1;
+	}
+	.postionrelcls .retrofitpreviewimg img {
+		width: 19%;
+	}
+	.basicinfocls .retrofitaddresscls,.basicinfocls .retrofitpreviewimg
+	{
+		margin-top:0.7rem!important;
+	}
+	.retrofitterbg img,.postionrelcls
+	{
+		height: 180px;
+	}
+	.socialnetworkcls i {
+    font-size: 20px;
+	}
+	.socialnetworkcls p
+	{
+		font-size: 10px;
+	}
+	.web_retro_preview .searchFilter {
+		margin-top: 1%;
+		order: -1;
+	}
+	.retrohomevideos p
+	{
+		font-size: 14px;
+	}
+	.row.video_cls .col-sm-12
+	{
+		padding-left: 15px !important;
+	}
+	.videocontainer h3
+	{
+		padding-left: 15px;
+	}
+	
+	.web_retro_preview .retrofitterimgaes,.faqs_infocls .col-12,.faqs_infocls h5
+	{
+		padding-left: 5px!important;
+	}
+	.web_retro_preview .evconversioniframe
+	{
+		padding-left: 15px!important;
+	}
+	.retrofitted_list .marginautocls
+	{
+		margin-bottom: 5%;
+		padding-right: 0px;
+		padding-left: 0px;
+	}
+	.adpt_img
+	{
+		width: 76%;
+	}
+	.eviframe
+	{
+		height: auto;
+	}
+	#retrofitterinindia .retrovideocls
+	{
+		height: auto;
+		margin-bottom: 2%;
+	}
+	#retrofitterinindia .newsli,#retrofittervideoid .newsli 
+	{
+    	height: auto !important;
+	}
+	.newsli .newsdesc
+	{
+		
+	}
+	.newsheightcls
+	{
+		height:170px;
+	}
+	.keycompocls
+	{
+		height: auto;
+	}
+	
+	#cargobestSlider .MS-content .item, #ecyclebestSlider .MS-content .item {
+		width: 98% !important;
+	}
+	.compareleft img, .compareright img {
+		height: 130px !important;
+		width: 100% !important;
+	}
+	.worldevpreviewcls h4
+	{
+		font-size: 16px;
+	}
+	.worldevpreviewcls .carousel-item
+		{
+			height: 300px;
+		}
+	.citylisting img {
+		width: 100%;
+		margin: auto;
+		display: block;
+		height: 120px;
+	}
+	.citylisting
+	{
+		padding-left: 0;
+		margin: 20px 0;
+		display:flex;
+		/*flex-direction: row;
+		flex-wrap: nowrap;*/
+		overflow-x: auto;
+		padding:1%;
+		
+	}
+	.viewmorehomecls a {
+    font-size: 16px;
+}
+	.citylisting li
+	{
+		flex-basis: 33%;/* set width with below two css 1)flex-grow 2) flex-shrink */
+		/*flex-grow: 0;
+		flex-shrink: 0;*/
+	}
+	#scooterSlider .MS-content .item,#carSlider .MS-content .item,#cargoSlider .MS-content .item,#ecycleSlider .MS-content .item,#autoSlider .MS-content .item,#truckSlider .MS-content .item,#busSlider .MS-content .item,#vanSlider .MS-content .item,#motorcyclepopSlider .MS-content .item,#scooterpopSlider .MS-content .item,#carpopSlider .MS-content .item,#cargopopSlider .MS-content .item,#ecyclepopSlider .MS-content .item,#autopopSlider .MS-content .item,#truckpopSlider .MS-content .item,#buspopSlider .MS-content .item,#vanpopSlider .MS-content .item,#motorcycleexpSlider .MS-content .item,#scooterexpSlider .MS-content .item,#carexpSlider .MS-content .item,#cargoexpSlider .MS-content .item,#ecycleexpSlider .MS-content .item,#autoexpSlider .MS-content .item,#truckexpSlider .MS-content .item,#busexpSlider .MS-content .item,#vanexpSlider .MS-content .item,#motorcycleworldevSlider .MS-content .item,#scooterworldevSlider .MS-content .item,#carworldevSlider .MS-content .item,#cargoworldevSlider .MS-content .item,#ecycleworldevSlider .MS-content .item,#autoworldevSlider .MS-content .item,#truckworldevSlider .MS-content .item,#busworldevSlider .MS-content .item,#vanworldevSlider .MS-content .item,#usedmotorcycleSlider .MS-content .item,#usedscooterSlider .MS-content .item,#brandSlider .MS-content .item,#motorcycleupSlider .MS-content .item,#motorcyclebestSlider .MS-content .item,#vanupSlider .MS-content .item,#scooterupSlider .MS-content .item,#scooterbestSlider .MS-content .item,#vanbestSlider .MS-content .item,#scooterbest .MS-content .item,#scooterlatest .MS-content .item,#scooterupcomimg .MS-content .item,#motorcyclebest .MS-content .item,#motorcyclelatest .MS-content .item,#motorcycleupcoming .MS-content .item,#nonregmotorcycle .MS-content .item,#nonregscooter .MS-content .item,#retrofittedev .MS-content .item,#convertedev .MS-content .item
+		{
+    width: 90% !important;
+	}
+	.MS-left, .MS-right {
+    width: 30px;
+    height: 30px;
+	}
+	.removeoverflow .carousel-item {
+    height: 320px;
+}
+	.imagecls label
+	{
+		width:100%!important;
+		bottom: 25px;
+	}
+	.updateimage, .deleteimage
+	{
+		margin-left:0%;
+		margin-top: 1%;
+	}
+	.updateretroficationimage, .updateimage,.deleteretroficationimage
+	{
+		margin-top: 0%!important;
+		width:47%!important;
+	}
+	.sellform .col-sm-6
+	{
+		padding-right: 0px;
+	}
+	.deleteusersellimage,.deleteretroficationimage
+	{
+		margin-top: 3%;
+		width: 100%;
+	}
+	.dropdownworld li img {
+    width: 4.4% !important;
+	}
+	.retrofittingcls .container
+	{
+		/*margin-top:9%;*/
+	}
+	.retroareaname
+	{
+		display:block;
+		color:#788898 !important;
+	}
+	.retrofitopentime .icofont-simple-right
+	{
+		font-size: 12px;
+		color: #788898;
+	}
+	.retrolistwishlistcls
+	{
+    left: 26%;
+	}
+	.hideretrodetail
+	{
+		display:none;
+	}
+	.brdUL li
+	{
+		width: 100px;
+		margin-right: 1%!important;
+		background: white!important;
+		border-radius: 10px;
+	}
+	.bread_crumb ul.brdUL
+	{
+		background-color:transparent;
+	}
+	.retrofittingcls .bread_crumb
+	{
+		white-space: nowrap;
+		overflow-x: auto;
+		overflow-y: hidden;
+		display: block;
+	}
+	.retrofittingcls .bread_crumb::-webkit-scrollbar
+	{ 
+		display: none;
+		overflow: -moz-scrollbars-none;
+		-ms-overflow-style: none;
+	}
+	.bread_crumb ul.brdUL li a
+	{
+		font-size: 12px;
+	}
+	.retrofittingcls .container
+	{
+		padding-right: 0px!important;
+		padding-left: 0px!important;
+	}
+	#localcity
+	{
+		width:300px;
+	}
+	.dealeropen
+	{
+		font-size: 12px;
+   		padding: 5px;
+	}
+ .changerow>.col-md-2
+	{
+		flex: 0 0 33.667%;
+		max-width: 33.667%;
+	}
+	.changerow .col-md-10
+	{
+		flex: 0 0 66.333%;
+		max-width: 66.333%;
+	}
+	#loaddiv>h3
+	{
+		margin-top:11%;
+	}
+	.newevpreview li a,.newevpreview li
+	{
+		font-size:10px;
+	}
+	.dropdown-content::after, .dropdown-content::before
+	{
+		left:63%;
+	}
+	/*.variantheadrow
+	{
+		display:none;
+	}*/
+	.variantheadrow .col-5,.variantheadrow .col-2
+	{
+		padding-left:2px;
+		padding-right:2px;
+	}
+	.variantheadrow h5
+	{
+		font-size:12px;
+	}
+	.variantdetail:first-child
+	{
+		border-top: 1px solid rgba(0,0,0,.1);
+	}
+	.variantdetail h5
+	{
+		font-size:13px;
+	}
+	.variantdetail span {
+		font-size: 10px;
+	}
+	.sellcls
+	{
+		margin-top:9%;
+	}
+	.compare_With_Similar li
+	{
+		height: 24%;
+	}
+	.compareAddpopup .compare_With_Similar > li
+	{
+		width:100%;
+	}
+	.postcomcls .btn
+	{
+		margin: auto;
+		display: block;
+		font-size: 12px;
+	}
+	.postcomcls input[type="text"]
+	{
+		width: 100%;
+		font-size: 12px;
+	}
+	.carreviewsec
+	{
+		padding:2% !important;
+	}
+	.compareAddpopup .compare_With_Similar > li
+	{
+		height: 60px;
+	}
+	.imgPanelleft img
+	{
+		height: 60px;
+		width:100%;
+	}
+	.imgPanelleft
+	{
+		width:25%;
+	}
+	.textpanelRight
+	{
+		width:75%;
+	}
+	.textpanelRight .title,.textpanelRight .linkHolder
+	{
+		font-size: 10px;
+	}
+	.removepadding .wishlistscls,.priceleftsec .wishlistscls
+	{
+		top: -170px;
+	}
+	.removepadding .sharelst,.priceleftsec .sharelst
+	{
+		top: -135px;
+	}
+	.breadcrumb
+	{
+		padding: 0!important;
+		margin-top:3%;
+	}
+	#smallcrosssell
+	{
+		margin-top: 13%;
+	}
+	.sellerdetbtn
+	{
+		font-size: 12px;
+	}
+	.newevspecification .col-md-12
+	{
+		padding-left:2px;
+		padding-right:2px;
+	}
+	.newevspecification span
+	{
+	}
+	.comparevehtitle
+	{
+		font-size: 10px;
+	}
+	.comparepricecls
+	{
+		font-size: 11px;
+	}
+	#getprosellerdetail
+	{
+		font-size: 8px;
+	}
+	
+	.paddingzero
+	{
+		margin-top: 10%;
+	}
+	.compareimg img
+	{
+    height: 88px;
+    width: 100%;
+    min-width: 100%;
+	}
+	.compareanchor a
+	{
+		width: 40%;
+	}
+	.sellcls .modal-body
+	{
+		padding-left: 10%;
+		padding-right: 10%;
+	}
+	.addvehiclecls {
+    	padding: 0!important;
+	}
+	.compare_With_Similar li {
+    	height: 90px!important;
+	}
+	.comparevehtitle 
+	{
+		height:auto;
+	}
+	.bestdealbtn .btn-success
+	{
+		width:100%;
+		padding: 1%;
+		border-radius: 18px;
+		margin-top: 1%;
+	}
+	.bestdealbtn
+	{
+		display:none;
+	}
+	.retrofitcallnow
+	{
+		display:block;
+	}
+	.retrofittingcls .container
+	{
+		/*margin-top:10%;*/
+	}
+	.retronav .btn
+	{
+		font-size: 12px;
+		border-radius:0;
+	}
+	.col-auto label
+	{
+   		 font-size: 10px;
+	}
+	.filterveh
+	{
+		padding-left: 0px!important;
+	}
+	.worldevspec li
+	{
+		font-size: 11px;
+	}
+	 .updateretroficationimage,.updateimage
+	{
+		margin-top:10%;
+	}
+	.courseserachbox
+	{
+		width: 80%;
+		top: 25%;
+	}
+}
+@media screen and (max-width: 510px) {
+	.dealerlocation
+	{
+		top: 33%;
+		width: 90%;
+	}
+	.closedealermodel i
+	{
+		font-weight: 900;
+		font-size: 19px;
+		margin-top: 20%;
+		margin-left: 19%;
+	}
+	.ourretrofitservice ul li img {
+    	height: 50px;
+	}
+	.retrofitservicecls
+	{
+		top:20%;
+	}
+	.width-75 img
+	{
+		width:75%!important;
+	}
+	.viewmorelessbtn
+	{
+		display:block;
+	}
+	#videmorebtn
+	{
+		cursor:pointer;
+		font-size:12px;
+		width:100%;
+		padding:1%;
+		background:#f2f5f4;
+		text-align:center;
+		display: block;
+		border-radius:5px;
+		margin-bottom:4%;
+	}
+	.showhidebtn
+	{
+		padding-left:3%;
+	}
+	.colorboxcls p
+	{
+		font-weight:600;
+		margin-bottom:1%!important;
+	}
+	.showhidebtn li
+	{
+		list-style: none;
+		width:31%;
+		display:inline;
+		float:left;
+		height:80px;
+		text-align:center;
+		margin-right:2%;
+		margin-bottom:2%;
+		border-radius:10px;
+	}
+	.showhidebtn li a
+	{
+		font-size: 14px;
+		color: white;
+		font-weight: 600;
+		margin-top: 9%;
+	}
+	.removeoverflow #carouselExampleControls .carousel-control-next,.removeoverflow #carouselExampleControls .carousel-control-prev
+	{
+		display:none;
+	}
+	.fixedindexbtn
+	{
+		width:100%;
+		padding-top:1%;
+		padding-left: 0;
+	}
+	.fixedindexbtn li
+	{
+		list-style:none;
+		width:25%;
+		display:inline;
+		float:left;
+		margin: auto;
+		text-align: center;
+	}
+	.fixedindexbtn li img
+	{
+		width: 34%;
+		display: block;
+		margin: auto;
+		text-align: center;
+		height: 25px;
+	}
+	.fixedindexbtn li i
+	{
+		display: block;
+		line-height:0.8!important;
+		margin: auto;
+		text-align: center;
+		font-size: 25px;
+	}
+	.fixedindexbtn li span
+	{
+		font-size:10px;
+	}
+	.fixedindexbtn li a
+	{
+		color:black;
+	}
+	#scooterSlider .MS-content .item, #carSlider .MS-content .item
+	{
+		width: 31.33% !important;
+		display: inline!important;
+		float: left;
+	}
+	.scootersparepart #brandSlider .MS-content .item,.evmechsparepart #brandSlider .MS-content .item
+	{
+		width: 31.33% !important;
+	}
+	.scootersparepart #brandSlider .MS-content img,.evmechsparepart #brandSlider .MS-content img
+	{
+		height: 85px !important;
+    	object-fit: contain;
+	}
+	#scooterSlider .MS-controls button, #brandSlider .MS-controls button, #carSlider .MS-controls button
+	{
+		display:none;
+	}
+	#scooterSlider .MS-content img, #brandSlider .MS-content img, #carSlider .MS-content img
+	{
+		height: 65px !important;
+		width: 100% !important;
+	}
+	#scooterSlider .item h4, #brandSlider .item h4, #carSlider .item h4
+	{
+		font-size: 12px !important;
+	}
+	.colorboxhidden
+	{
+		display:block;
+	}
+	.colorboxcls
+	{
+		padding-left: 10px;
+	}
+	.colorboxcls li
+	{
+		list-style: none;
+		width: 48%;
+		float: left;
+		height: 150px;
+		border-radius:5px;
+		text-align:center;
+		padding:7%;
+		margin-bottom:2%;
+		margin-right:2%;
+	}
+	.retronav
+	{
+		padding-left: 8px;
+	}
+	#opennewevcategory,#openusedevcategory
+	{
+		cursor:pointer;
+	}
+	.colorboxcls a,.colorboxcls li
+	{
+		color:white;
+	}
+	.categorycls
+	{
+		padding-left:1%;
+	}
+	.categorycls li
+	{
+		list-style: none;
+		padding: 2%;
+		border-bottom: 1px solid lightgray;
+	}
+	.colorboxcls img
+	{
+		width: 45%;
+		display:block;
+		margin: auto;
+		text-align: center;
+		margin-top: 20%;
+	}
+	.colorboxcls span
+	{
+		display:block;
+		font-size:10px;
+	}
+	.explore_ev li
+	{
+		width: 31%!important;
+	}
+	.explore_ev li a
+	{
+		width: 100%;
+		margin-bottom: 5%;
+	}
+	#truckexpSlider .MS-content .item img
+	{
+		height:60px!important;
+	}
+	.mobile-nav li > img {
+    width: 7%;
+    height: 25px;
+}
+	.citylisting img {
+		height: 100px;
+	}
+	.explore_ev li {
+    width: auto;
+    margin-right: 2%;
+}
+	#brandsev .item h4 {
+    /*padding: 6%;*/
+}
+	#cargoSlider .MS-content .item,#ecycleSlider .MS-content .item,#autoSlider .MS-content .item,#truckSlider .MS-content .item,#busSlider .MS-content .item,#vanSlider .MS-content .item,#motorcyclepopSlider .MS-content .item,#scooterpopSlider .MS-content .item,#carpopSlider .MS-content .item,#cargopopSlider .MS-content .item,#ecyclepopSlider .MS-content .item,#autopopSlider .MS-content .item,#truckpopSlider .MS-content .item,#buspopSlider .MS-content .item,#vanpopSlider .MS-content .item,#motorcycleexpSlider .MS-content .item,#scooterexpSlider .MS-content .item,#carexpSlider .MS-content .item,#cargoexpSlider .MS-content .item,#ecycleexpSlider .MS-content .item,#autoexpSlider .MS-content .item,#truckexpSlider .MS-content .item,#busexpSlider .MS-content .item,#vanexpSlider .MS-content .item,#motorcycleworldevSlider .MS-content .item,#scooterworldevSlider .MS-content .item,#carworldevSlider .MS-content .item,#cargoworldevSlider .MS-content .item,#ecycleworldevSlider .MS-content .item,#autoworldevSlider .MS-content .item,#truckworldevSlider .MS-content .item,#busworldevSlider .MS-content .item,#vanworldevSlider .MS-content .item,#usedmotorcycleSlider .MS-content .item,#usedscooterSlider .MS-content .item,#motorcycleupSlider .MS-content .item,#motorcyclebestSlider .MS-content .item,#vanupSlider .MS-content .item,#scooterupSlider .MS-content .item,#scooterbestSlider .MS-content .item,#vanbestSlider .MS-content .item
+	{
+    	/*width: 98% !important;*/
+		width: 90% !important;
+		}
+	#scooterSlider .MS-content .item img, #carSlider .MS-content .item img, #cargoSlider .MS-content .item img, #ecycleSlider .MS-content .item img, #autoSlider .MS-content .item img, #truckSlider .MS-content .item img, #busSlider .MS-content .item img, #vanSlider .MS-content .item img, #motorcyclepopSlider .MS-content .item img, #scooterpopSlider .MS-content .item img, #carpopSlider .MS-content .item img, #cargopopSlider .MS-content .item img, #ecyclepopSlider .MS-content .item img, #autopopSlider .MS-content .item img, #truckpopSlider .MS-content .item img, #buspopSlider .MS-content .item img, #vanpopSlider .MS-content .item img, #motorcycleexpSlider .MS-content .item img, #scooterexpSlider .MS-content .item img, #carexpSlider .MS-content .item img, #cargoexpSlider .MS-content .item img, #ecycleexpSlider .MS-content .item img, #autoexpSlider .MS-content .item img, #truckexpSlider .MS-content .item img, #busexpSlider .MS-content .item img, #vanexpSlider .MS-content .item img, #motorcycleworldevSlider .MS-content .item img, #scooterworldevSlider .MS-content .item img, #carworldevSlider .MS-content .item img, #cargoworldevSlider .MS-content .item img, #ecycleworldevSlider .MS-content .item img, #autoworldevSlider .MS-content .item img, #truckworldevSlider .MS-content .item img, #busworldevSlider .MS-content .item img, #vanworldevSlider .MS-content .item img,#usedmotorcycleSlider .MS-content .item img,#usedscooterSlider .MS-content .item img,#brandSlider .MS-content .item,#motorcycleupSlider .MS-content .item,#motorcyclebestSlider .MS-content .item,#vanupSlider .MS-content .item,#scooterupSlider .MS-content .item,#scooterbestSlider .MS-content .item,#vanbestSlider .MS-content .item
+	{
+		width: 100%;
+		max-width: 100%;
+		height: 180px;
+	}
+	#scooterSlider .MS-content .item, #carSlider .MS-content .item, #cargoSlider .MS-content .item, #ecycleSlider .MS-content .item, #autoSlider .MS-content .item, #truckSlider .MS-content .item, #busSlider .MS-content .item, #vanSlider .MS-content .item, #motorcyclepopSlider .MS-content .item, #scooterpopSlider .MS-content .item, #carpopSlider .MS-content .item, #cargopopSlider .MS-content .item, #ecyclepopSlider .MS-content .item, #autopopSlider .MS-content .item, #truckpopSlider .MS-content .item, #buspopSlider .MS-content .item, #vanpopSlider .MS-content .item, #motorcycleexpSlider .MS-content .item, #scooterexpSlider .MS-content .item, #carexpSlider .MS-content .item, #cargoexpSlider .MS-content .item, #ecycleexpSlider .MS-content .item, #autoexpSlider .MS-content .item, #truckexpSlider .MS-content .item, #busexpSlider .MS-content .item, #vanexpSlider .MS-content .item, #motorcycleworldevSlider .MS-content .item, #scooterworldevSlider .MS-content .item, #carworldevSlider .MS-content .item, #cargoworldevSlider .MS-content .item, #ecycleworldevSlider .MS-content .item, #autoworldevSlider .MS-content .item, #truckworldevSlider .MS-content .item, #busworldevSlider .MS-content .item, #vanworldevSlider .MS-content .item,#usedmotorcycleSlider .MS-content .item,#usedscooterSlider .MS-content .item,#brandSlider .MS-content .item,#motorcycleupSlider .MS-content .item,#motorcyclebestSlider .MS-content .item,#vanupSlider .MS-content .item,#scooterupSlider .MS-content .item,#scooterbestSlider .MS-content .item,#vanbestSlider .MS-content .item
+	{
+		height:280px;
+	}
+	#popularev .nav-item,#brandsev .nav-item,#usedevtab .nav-item,#newevtab .nav-item
+	{
+		width: 22%;
+	}
+	#bestnewscooevtab .nav-item
+	{
+		width: 31%;
+	}
+	.imagecls img,.multiphotos .addretroimg
+	{
+		height: 130px!important;
+	}
+	.worldevdetail .modal-body
+	{
+		padding: 1rem;
+	}
+	.worldevdetail h4
+	{
+		font-size:14px;
+	}
+	.worldrupeecls h5
+	{
+		font-size:13px;
+	}
+	.gratcolor
+	{
+		font-size: 14px;
+	}
+	.worldevspec li img
+	{
+		width: 18%;
+	}
+	#worldevmodal .modal-header h5
+	{
+		font-size: 16px;
+	}
+	.modal-header .close
+	{
+		padding: 10px!important;
+	}
+	.worldevspec li
+	{
+		height: 120px;
+	}
+	.vehicledetail {
+		width: 100%;
+	}
+	.dropdownworld li img {
+    width: 4.9% !important;
+	}
+	.removeoverflow .carousel-item {
+    height: 200px;
+}
+	#scooterSlider .MS-content .item, #brandSlider .MS-content .item, #carSlider .MS-content .item {
+		height: 130px !important;
+	}
+	#scooterSlider .MS-content img, #brandSlider .MS-content img, #carSlider .MS-content img
+	{
+		width: 80% !important;
+		max-width: 100% !important;
+	}
+	.courseul li
+	{
+		padding: 2%;
+	}
+	.courseserachbox .has-search
+	{
+		margin-bottom: 1rem;
+	}
+	.spareservice
+	{
+    	width: 100%;
+	}
+	.spareservice ul
+	{
+		padding:1%;
+	}
+	.spareservice li
+	{
+		width:50%;
+	}
+	.brlcls
+	{
+		border-right: 0;
+		border-left: 0;
+	}
+	.comabout,.comhighlight
+	{
+		border-bottom:1px solid lightgray;
+		margin-bottom:2%;
+		box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);
+		padding:4%;
+		border-radius:5px;
+	}
+	.rv-jobdesc h4
+	{
+		font-size: 16px;
+	}
+	.evstart-details .row
+	{
+		margin-bottom: 0.2rem !important;
+	}
+	.totalfundcls
+	{
+		padding-left:0;
+	}
+	.startuphighlight
+	{
+		padding-left: 0;
+		padding-right: 0%!important;
+	}
+	.recentactivity
+	{
+		box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);
+		margin-bottom:2%;
+		border-radius:5px;
+	}
+}
+@media screen and (max-width: 450px) {
+	.removeoverflow .carousel-item.firstslidecls img
+	{
+		object-position: 0% 50%;
+	}
+	.jobbreadcrumps
+	{
+		padding-left: 10px!important;
+	}
+	.customfooter h5
+	{
+		font-size: 15px;
+	}
+	.footerservice a
+	{
+    	font-size: 12px !important;
+	}
+	.footersocialmb .footersocialmb
+	{
+		margin-bottom: 0.40rem !important;
+		padding-top: 0.50rem !important;
+	}
+	.footersocialmb
+	{
+		margin-bottom: 0%;
+	}
+	.footerservice li
+	{
+		margin-bottom: 1%;
+	}
+	.mobfooterpad
+	{
+		padding-left:0px;
+	}
+	.customercomplaintslider.sliderbgimg img
+	{
+		display:none;
+	}
+	.customerleftfont
+	{
+		position:unset;
+		width:100%;
+		margin-top: 15%;
+		padding: 3%;
+		background: white;
+	}
+	.customercomplainmain #latestreview
+	{
+		margin-top: 1%!important;
+	}
+	.customerleftfont p,.customerleftfont .btn
+	{
+		font-size: 14px;
+	}
+	.customerleftfont h4 {
+    	font-size: 23px;
+		font-weight: bold;
+		line-height: 2rem;
+	}
+	#complainsearchbtn {
+		position: unset;
+		width: 100%;
+	}
+	.complaintlist hr
+	{
+		margin-top: 0.50rem;
+		margin-bottom: 0.50rem;
+	}
+	.complainslidercls h5 {
+    	font-size: 15px;
+	}
+	.complainrvtype, .complaint_category,.resolved-complaints__check {
+    	font-size: 14px;
+	}
+	.complaintlist .complaint_subject
+	{
+    	font-size: 18px;
+	}
+	.complainfullcontent a {
+    	font-size: 11px;
+	}
+	.complainfullcontent
+	{
+		margin-top:0%;
+		margin-bottom: 1%;
+	}
+	.complaint-container .ev_job_desc
+	{
+		-webkit-mask-image: none;
+	}
+	.complaint-container .faqbgcolor
+	{
+		padding-left: 5%;
+	}
+	.bolddark
+	{
+		margin-bottom: 1%;
+	}
+	.complaintcolright .usernamecls, .complaintcolright .addeddatecls
+	{
+		font-size: 11px;
+	}
+	.complaintcolright .faqbgcolor > i
+	{
+		top: 7px;
+		font-size: 12px;
+		width: 18px;
+		height: 17px;
+	}
+	.complaintcolright .dotcircle
+	{
+		top: 11px;
+	}
+	.complaint-container .toptextarea .lft, .nf-add .lft
+	{
+    	width: 7%;
+	}
+	.complaint-container .toptextarea .lft img
+	{
+		width:100%;
+	}
+	.bottomtextarea .btn
+	{
+		font-size:14px;
+	}
+	.complaintbrand-container .startuppreviewsec h4
+	{
+		font-size: 18px;
+		text-align: center;
+	}
+	.complaintbrand-container.rv-container
+	{
+		margin: -78px auto auto;
+	}
+	.complaint-container .rv-jobdesc .pop img
+	{
+		width: 48%;
+		height: 150px;
+		margin-bottom:2%;
+	}
+	.ourretrofitservice ul li span
+	{
+		font-size: 12px;
+		color: black;
+		font-weight: 900;
+	}
+	.complaintbrand-container .evstart-exp p
+	{
+		text-align: center;
+		display: block;
+		margin: auto;
+	}
+	.colorstrip
+	{
+		margin-top: 12%;
+	}
+	.complaint-container .toptextarea .ryt, .nf-add .ryt {
+		width: 93%;
+	}
+	.complainslidercls#truckexpSlider .MS-content .item img
+	{
+		height: 40px !important;
+	}
+	.customercomplaintslider .coursessearchslist {
+    width: 94%;
+    top: 82%;
+    border-radius: 0;
+}
+	.customercomplaintslider#hero
+	{
+		height: 100%;
+	}
+	.complaintcls .feedimgcls .removefeedbckimg
+	{
+		text-align: center;
+		margin: auto;
+		display: block;
+	}
+	.complaintcls .feedimgcls img {
+		width: 100%;
+		margin: auto;
+		display: block;
+	}
+	.userlatestreviewcls h4
+	{
+		padding-left:0;
+		font-size: 17px;
+	}
+	.userlatestreviewcls .sortingcourse>.col-12
+	{
+		padding-left:0;
+	}
+	.reviewpaddingcls
+	{
+		padding-right:0;
+		margin-bottom: 4%;
+	}
+	.userreviewsbybrnd .col-12
+	{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.userreviewslidecls .searchreviewbox ul
+	{
+		padding-left: 5px;
+	}
+	.retrofitaddresscls label
+	{
+		margin-bottom:0%;
+	}
+	.videocontainer h3
+	{
+		font-size: 16px;
+	}
+	.workshopcertigreen,.workshopcerti
+	{
+		font-size: 11px;
+	}
+	.monplretro
+	{
+		padding-left:0.25rem!important;
+	}
+	.monprretro
+	{
+		padding-right:0.25rem!important;
+	}
+	.evconvertorlising #localcity
+	{
+		width: 97% !important;
+	}
+	.evconvertorlising .retrofitsearch.btn
+	{
+		left: 84%;
+	}
+	.evconvertorsidemnu hr
+	{
+		margin-top:0;
+		margin-bottom:0;
+	}
+	.web_retro_preview .breadcrumb
+	{
+		margin-top:0;
+	}
+	.retrofitaddresscls.mt-3,.container.mt-3.whitebg.videocontainer
+	{
+		margin-top: 0.50rem!important;
+	}
+	.retrofitaddresscls.retroslideradd.mt-3 label
+	{
+		margin-bottom:0;
+	}
+	.evconvertorrightmenu .vehicledetail {
+		width: 98%;
+	}
+	.convertorworkshop h4 {
+		font-size: 18px;
+	}
+	.evconvertorultabs .youtubertabs li.active
+	{
+		padding-left: 20px;
+	}
+	.converterimg img
+	{
+		width: 30%;
+	}
+	.web_retro_preview .retrofitreview
+	{
+		text-align: center;
+	}
+	.electricjobs #autoworldevSlider .item
+	{
+		height:250px;
+	}
+	.homeyoutubechnnel img
+	{
+    	width: 80%!important;
+	}
+	.brandsbreadcrump
+	{
+		margin-top: 11%;
+	}
+	.brandsbreadcrump
+	{
+    	padding-left: 2%;
+	}
+	.mobbuysec.brandtxt
+	{
+		margin-bottom:11%;
+	}
+	.evmech_container .modal-content
+	{
+		width: 100%;
+	}
+	.basicinfocls,.socialnetworkcls
+	{
+		z-index: 9!important;
+	}
+	.retrofitfollow p
+	{
+		font-size:12px;
+	}
+	.retroslideradd
+	{
+		/*display: none;*/
+	}
+	.evconvertorsidemnu
+	{
+		margin-bottom: 4%;
+	}
+	.container.aboutconvertor
+	{
+		padding-left: 2%!important;
+	}
+	.evconverthourop
+	{
+		padding-left: 0;
+    	margin-top: 3%;
+	}
+	.evconvertorsidemnu {
+		background: transparent;
+	}
+	.retrofitoversec li {
+		width: 22%;
+	}
+	.subapp img {
+		width: 50%;
+	}
+	.producttitle
+	{
+		font-size: 19px;
+	}
+	.mdsrightnone {
+		border-right: none;
+	}
+	.mdrightborder {
+    	border-right: 1px solid #f5f5f5!important;
+	}
+	.mdbottombrdr {
+    	border-bottom: 1px solid #f5f5f5;
+	}
+	.apptitle label
+	{
+		height: auto;
+		font-size: 14px;
+	}
+	.appdis
+	{
+    	text-align: center;
+	}
+	.othersoftnote
+	{
+		color:red;
+		display:block;
+	}
+	.leftbornone {
+    	border-right: none;
+	}
+	.lftappbox {
+		margin-bottom: 10%;
+	}
+	.dealerh3head
+	{
+		font-size: 20px;
+	}
+	.appimgs img {
+    	width: 60%;
+		margin-right: 0%;
+    	margin-left: 0%;
+		margin-bottom: 2%;
+	}
+	.appiconimage img {
+	    width: 100%;
+	}
+	.dealerh3head img {
+    	width: 11%;
+	}
+	 .order-mob-first
+	{
+		order:-1;
+	}
+	.workshopimgcls
+	{
+		width: 80%;
+	}
+	.rightappbox h5, .lftappbox h5
+	{
+		margin-bottom: 6%;
+		font-size: 19px;
+	}
+	
+	.appdis b
+	{
+		font-size: 14px;
+		display: block;
+	}
+	.appdis label
+	{
+    	font-size: 12px;
+		display: none;
+	}
+	.fixedindexbtn li img
+	{
+		width: 26%;
+	}
+	.homenewsfeed .item .btn
+	{
+		margin:0%
+	}
+	.homenewsfeed .evmoredetail
+	{
+		margin-top:5%;
+		display:block;
+	}
+	.postdescriptioncls
+	{
+    	height: 66px;
+	}
+	.newsfeedbck
+	{
+		bottom: -20px;
+    	left: 8%;
+		width: 40px;
+    	height: 40px;
+	}
+	.newsfeedbck i
+	{
+		font-size: 23px;
+	}
+	.youtuberviewbtn
+	{
+		display:none;
+	}
+	.youtubepost_box img
+	{
+		width: 100%;
+    	height: 100px;
+		border-radius: 10%;
+	}
+	.youtuberdetailcls h4
+	{
+		padding-top: 5%;
+	}
+	.aboutyoutuber img
+	{
+    width: 45%;
+    height: 150px;
+    margin: auto;
+    display: block;
+	}
+	.youtubertabs
+	{
+		white-space: nowrap;
+		overflow-x: auto;
+		overflow-y: hidden;
+		display: block;
+		margin-bottom: 0;
+	}
+	.youtubertabs li
+	{
+		float: none!important;
+		display: inline-block;
+		margin-right: 2%;
+	}
+	.youtubertabs::-webkit-scrollbar
+	{ 
+		display: none;
+		overflow: -moz-scrollbars-none;
+		-ms-overflow-style: none;
+	}
+	#homepopup h5
+	{
+		font-size: 16px;
+	}
+	.youtubercommenttxt
+	{
+		width: 100%;
+	}
+	.youtubersearchbtn
+	{
+		left: 3%;
+	}
+	.youtubersearchbar
+	{
+		margin-bottom: 4%;
+	}
+	.postbox_logoimg
+	{
+		height: 50px;
+		width: 50px;
+	}
+	.postdesc {
+		margin-top: 4%;
+	}
+	
+	.overview_container
+	{
+		margin-top: 11%;
+	}
+	#sendyoutuberotp
+	{
+		margin-left: 5%;
+	}
+	.timelineimg
+	{
+		right: 30%;
+	}
+	.aboutyoutuber
+	{
+		margin-bottom: 4%;
+	}
+	.overview_container h3
+	{
+		font-size: 22px;
+	}
+	.youtubername
+	{
+		font-size: 15px;
+	}
+	.youtubercontainer .container
+	{
+		padding-left: 0;
+    	padding-right: 0;
+	}
+	.youtubercontainer .breadcrumb
+	{
+		padding: 0.75rem 1rem!important;
+		margin-top:1%;
+	}
+	.brandsmotor
+	{
+		padding:2%;
+	}
+	.aboutdetails label
+	{
+		width:90px;
+	}
+	.youtuberbybranddiv,.aboutdetails
+	{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.youtubertabs li a
+	{
+		font-size: 14px;
+	}
+	.youtubertabs li
+	{
+		padding-right: 3%;
+		padding-left: 3%;
+	}
+	#youtubernavbar
+	{
+		margin-top: 14%;
+		height: auto;
+	}
+	.centercls ul li
+	{
+		padding-right: 28%;
+		margin-right: 0%;
+	}
+	.youtuberhomecls li.active
+	{
+		border-bottom:0;
+	}
+	.youtuberhomecls ul
+	{
+		padding-bottom: 2%;
+	}
+	.centercls ul li:last-child
+	{
+		padding-left: 2%;
+		padding-right: 0%;
+	}
+	.youtuberhomecls .hideinweb {
+		display: inline-block!important;
+		visibility: visible;
+		opacity: 1;
+	}
+	.dealerlocation {
+		width: 69%;
+	}
+	.sliderbgimg img
+	{
+		height: 40vh;
+	}
+	.dealer_container h3
+	{
+		font-size: 15px;
+	}
+	.showroomdetailcls
+	{
+		padding: 10px 10px 10px;
+	}
+	.dealercityfilter select,.alldealerfilter select
+	{
+		width: 100%;
+		margin-bottom: 3%;
+	}
+	.alldealerfilter select
+	{
+		margin-right:0%;
+	}
+	.dealermobmrgn
+	{
+		margin-top: 40%;
+	}
+	.userreviewserach p
+	{
+		text-align:center;
+	}
+	.moboverflow
+	{
+		overflow: hidden;
+	}
+	.dealerbreadcrump
+	{
+		padding-left: 0px!important;
+		margin-left: 0.5rem!important;
+	}
+	
+	#heros .userreviewserach
+	{
+		width: 100%!important;
+	}
+	.dealercityfilter .btn,.alldealerfilter .btn
+	{
+		width: 100%!important;
+	}
+	.branddealerlist
+	{
+		padding: 1%;
+	}
+	.filtereddealerslist
+	{
+		margin-top: 5%;
+	}
+	.filtereddealerslist .col-12
+	{
+		padding-right: 5px!important;
+    	padding-left: 5px!important;
+	}
+	.dealercards
+	{
+    	height: auto;
+	}
+	.dealerbreadcrump
+	{
+		margin-top: 15%;	
+	}
+	.dealerscontactrightsec
+	{
+		padding-left: 0px!important;
+	}
+	.mobretrophotos li
+	{
+		width: 60%;
+	}
+	.searchFilter
+	{
+		margin-top: 10%;
+	}
+	.feedimgcls img
+	{
+		width: 62%;
+		height: 50px;
+		object-fit:contain;
+	}
+	.chargingfiltercls
+	{
+		height:300px;
+		overflow-y:scroll;
+	}
+	.stationlistviewsec
+	{
+		margin-top: 26%!important;
+	}
+	.stationviewbtn
+	{
+		font-size:9px;
+	}
+	.merchantprices img
+	{
+		width: 100%;
+		height: auto;
+	}
+	.breadcrumhideinmob
+	{
+		display:none;
+	}
+	.filterveh
+	{
+		padding-right: 0px!important;
+	}
+	.allsparepricebtn
+	{
+		font-size: 9px;
+   		 width: 100%;
+	}
+	.listviewsec
+	{
+		margin-top: 17%!important;
+	}
+	.listviewsec .col-lg-8,.listviewsec .col-lg-4
+	{
+		padding-left:5px;
+		padding-right:5px;
+	}
+	.listviewsec a.float-sm-right
+	{
+		font-size: 10px!important;
+	}
+	.mapsearchbox
+	{
+		height: 38px;
+	}
+	.mapaccordianfilter.show #accordion
+	{
+		height: 500px;
+		max-height:auto!important;
+	}
+	
+	.mapaccordianfilter
+	{
+		background:transparent!important;
+	}
+	.rv-jobdesc h4
+	{
+		font-size: 16px !important;
+	}
+	.jobreflinkbtn
+	{
+		display:none;	
+	}
+	.rv-jobdesc
+	{
+		font-size: 12px;
+	}
+	#startupjobs #motorcyclelatest .MS-content .item {
+		width: 90% !important;
+	}
+	.jobskillsclss
+	{
+		height:auto!important;
+		font-size:14px;
+		margin-bottom: 5%;
+	}
+	.openapplymodal
+	{
+		font-size: 12px;
+		font-weight: 600;
+	}
+	.rv-jobdesc.coursesimilar #carexpSlider .MS-content .item 
+	{
+		width: 85%!important;
+	}
+	#stickytopbar > div
+	{
+		font-size: 10px;
+	}
+	.instructorlist p
+	{
+		font-size: 12px;
+	}
+	.instructorlist h6
+	{
+		font-size: 13px;
+	}
+	.coursemainhead h3
+	{
+		font-size: 17px;
+	}
+	.coursemainhead h5
+	{
+		font-size: 15px;
+		margin-left: 3%;
+	}
+	.limittopics li
+	{
+		font-size:12px;
+		margin-left: 3%;
+	}
+	.coursecontentcls .card-body ul li
+	{
+		height: auto;
+		line-height: 1.5rem!important;
+	}
+	.contactinstructor
+	{
+		font-size: 10px;
+	}
+	.electricjobs .joblistingdesc
+	{
+		overflow: hidden;
+		text-overflow: ellipsis;
+		margin-bottom:2%;
+	}
+	.trainingfront .courseserachbox p
+	{
+		display: none;
+	}
+	.sparewishlist
+	{
+		top: 8px;
+		right: 15px;
+	}
+	.evspareslicls li
+	{
+		width: auto;
+		font-size: 11px;
+		min-width: 100px;
+	}
+	.evspareslicls
+	{
+		height: 80px!important;
+	}
+	#loaddiv
+	{
+		margin-top: 18%;
+	}
+	#worldevvideosec #carexpSlider .item iframe
+	{
+		width:100%;
+	}
+	#worldevvideosec #carexpSlider .item
+	{
+		padding:4%!important;
+	}
+	.evmechbenifit img
+	{
+		height: 50px;
+	}
+	.retrofitmonmargin
+	{
+		margin-top: 15%;
+	}
+	.dealerregister-box h3
+	{
+		font-size:16px;
+	}
+	.retrofittingcls .container-fluid.subservicediv {
+		margin-left: 0rem;
+		margin-right: 0rem;
+		padding:2%!important;
+	}
+	.serviceprice,.subservicelist .btn-outline-danger
+	{
+		font-size: 12px;
+	}
+	.subservicelist .col-9
+	{
+		padding-right:5px;
+	}
+	.subservicelist img
+	{
+		height: 80px;
+		border-radius: 5px;
+	}
+	.serviceitems
+	{
+    	font-size: 12px;
+	}
+	.subservicelist h5
+	{
+    	font-size: 14px;
+	}
+	.carservicecls
+	{
+		height: 150px;
+	}
+	.carservicecls img
+	{
+		width: 100%;
+		height: 150px;
+	}
+	.carservicehead
+	{
+		top: 16%;
+    	left: 14%;
+		font-size:16px;
+	}
+	.evservicetab li
+	{
+		width:auto;
+		margin-right:2%;
+	}
+	.subservicecls.active
+	{
+		border-bottom: 1px solid lightgray!important;
+		padding: 2%;
+		border-radius: 5px;
+	}
+	.subservicediv h3
+	{
+    font-size: 20px;
+    margin-top: 6%!important;
+	}
+	.subservicecls
+	{
+		border: 1px solid lightgray;
+		padding: 2%;
+		border-radius: 5px;
+	}
+	.subservicecls img
+	{
+		display:none;
+	}
+	#carservice .sparecategorycls li div
+	{
+		height: 123px;
+	}
+	#worldevcategoryscrolls .sparecategorycls li div
+	{
+		height: 90px;
+	}
+	#worldevcategoryscrolls .sparecategorycls li div img
+	{
+		height: 41px;
+	}
+	.nav_service
+	{
+		margin-top: 14%;
+	}
+	.mechanicservicetypes .cityimgcls
+	{
+		font-size: 10px;
+	}
+	.retrofittingcls
+	{
+		margin-top: 0%;
+	}
+	.retrofitterlisrcls .categoryvehi
+	{
+		width:50%;
+	}
+	.retrofiterclasnm
+	{
+		padding: 0.25rem!important;
+	}
+	#sendserviceotp
+	{
+		padding: 0;
+	}
+	.mobpaddingport
+	{
+		padding:1%!important;
+	}
+	.right_accountmenu .content
+	{
+		padding-top:0%!important;
+	}
+	.nopaddingcls
+	{
+		padding:0%!important;
+	}
+	.serviceclstbl .btn
+	{
+		padding: 1%;
+		margin-left: 2%;
+	}
+	.retrofiterclasnm .col-3 label
+	{
+		margin-bottom:8px !important	
+	}
+	.retrofiterclasnm .form-control
+	{
+		font-size: 12px;
+	}
+	.dealerlisting .card-body
+	{
+		padding:0%;
+	}
+	.intereststatus .btn
+	{
+		margin-left: 2%;
+	}
+	.assign_med_cls
+	{
+		width: 100% !important;
+	}
+	.assign_med_cls label
+	{
+		width: 150px;
+		font-size: 14px;
+	}
+	.assign_med_cls span
+	{
+		font-size: 14px;
+	}
+	#houroperation select,#houroperation .custom-control
+	{
+		width:100%;
+	}
+	#houroperation .col-3
+	{
+		text-align:center;
+	}
+	#houroperation .custom-control-label::before
+	{
+		margin-left: 12%;
+	}
+	.retrofiterclasnm .categoryvehi
+	{
+		width: 48.33%;
+	}
+	.retrofiterclasnm .select2 li
+	{
+		height: auto!important;
+	}
+	.retrofittedtbl .btn-danger
+	{
+		float: left!important;
+	}
+	#pack_img_preview img {
+		width: 50%;
+		height: 100px;
+		object-fit: cover;
+	}
+	.retrofiterclasnm .col-3
+	{
+		padding-left:0!important;
+		padding-right:0!important;
+	}
+	.addretrofittedcls
+	{
+		font-size:12px;
+	}
+	.retrofiterclasnm .card-body
+	{
+		padding: 0.25rem;
+	}
+	.retrofiterclasnm .nav-item
+	{
+		height: auto;
+	}
+	.updateretrofittedimage,.deleteretrofittedimage
+	{
+		width: 45%;
+		text-align: center!important;
+		padding: 4%!important;
+	}
+	.intereststatus
+	{
+		margin-left: 2%;
+		margin-bottom: 2%;
+		padding: 1%;
+	}
+	
+	.multiphotos h5
+	{
+		font-size: 12px;
+	}
+	#saveretrofitmoreimg
+	{
+		margin-top:2%;
+	}
+	.retrofitreview .ratingspan
+	{
+		height: 20px;
+	}
+	.userreviewimage img
+	{
+		width: 33%;
+	}
+	.retrofitopentime i {
+		margin-right: 0%;
+	}
+	.retrofitreview .noofreviewcls
+	{
+		line-height: 1rem!important;
+		margin-top: 0px!important;
+	}
+	.howretrofit
+	{
+		padding-left: 0;
+	}
+	 .dealerpadding
+	{
+		padding-left:0;
+		padding-right:0;
+	}
+	.dealerwebpadding
+	{
+		padding-right:0px;
+	}
+	#senddealerotp
+	{
+		font-size: 7px;
+		height: 38px;
+	}
+	#sellerdetailid .moboverviewpd
+	{
+		padding-left:0;
+	}
+	.sellerdetbtn
+	{
+		font-size: 10px;
+	}
+	.sellersummary li
+	{
+		width: 18%!important;
+	}
+	#timer_div,#usedtimer_div
+	{
+		line-height: 2.5;
+	}
+	.table.mob_sell_table
+	{
+		display:table;
+	}
+	.mob_sell_table p
+	{
+		font-size:12px;
+	}
+	.mob_sell_table td
+	{
+		width: 100%!important;
+	}
+	.mob_sell_table img
+	{
+		width:100%;
+		height:140px;
+		object-fit: cover;
+	}
+	.inter_dealer p
+	{
+		font-size:13px;
+		margin-bottom:1%;
+	}
+	.mob_sell_table .thead-light tr
+	{
+		font-size:14px;
+	}
+	.mob_sell_table h6,.right_accountmenu .btn
+	{
+		font-size:14px;
+	}
+	.mob_sell_table p
+	{
+		margin-bottom:4%!important;
+	}
+	.mob_sell_table .btn,.mob_sell_table a
+	{
+		font-size: 12px;
+	}
+	.mob_sell_table .btn
+	{
+		float: left;
+		margin-right: 3%;
+	}
+	.mob_sell_table p .btn
+	{
+		float: initial!important;
+	}
+	#openvehicle .modal-body
+	{
+		font-size: 14px;
+	}
+	#listvehicle span
+	{
+		font-size: 10px;
+	}
+	.detailcls_bread
+	{
+		font-size: 10px;
+		display: inline;
+		margin-left: 17%;
+	}
+	.mob_sell_table .btn-danger
+	{
+		float:right;
+	}
+	.lastcontinue
+	{
+		margin-top: 5%;
+		font-size: 13px;
+	}
+	#listvehicle .btn
+	{
+		font-size: 13px;
+	}
+	.sell_table
+	{
+		display:none;
+	}
+	.mob_sell_table
+	{
+		display:block;
+	}
+	.card-body.editusedevimgcls,.editusedevimgcls .card-body
+	{
+		padding:1%;
+	}
+	.mobpaddingnone
+	{
+		padding-left:0!important;
+	}
+	.editimg .btn,.usedevaddimage .btn
+	{
+		font-size: 12px;
+	}
+	#image_preview img
+	{
+		width: 45%;
+		height: 100px;
+	}
+	.usedevaddimage h5
+	{
+		font-size:14px;
+	}
+	.usedevaddimage .multiphotos .retrofitimg
+	{
+		width: 100% !important;
+	}
+	.usedevaddimage ul
+	{
+		padding-left: 0;
+	}
+	.sellevlistinfcls .btn
+	{
+		width: auto;
+		margin-right: 2%;
+		float: left;
+		margin-top: 4%;
+	}
+	.sellevlistinfcls i
+	{
+		font-size:16px;
+	}
+	.vert-tabs-tabContent .row
+	{
+		margin-bottom:1%;
+	}
+	.newevspecification .form-group {
+		margin-bottom: 2rem;
+	}
+	.usedevsimilar #similarSlider .item
+	{
+		height: 300px!important;
+	}
+	.used_webmargin
+	{
+		margin-left:0%;
+	}
+	
+	.icousercls
+	{
+		padding: 16%;
+	}
+	.icousercls i
+	{
+		font-size: 16px;
+	}
+	.leftloginmenu
+	{
+		margin-top:7%;
+	}
+	.right_accountmenu h3
+	{
+		font-size: 17px;
+		padding-bottom: 5%;
+	}
+	.right_accountmenu.p-3
+	{
+		padding: 5px !important;
+	}
+	/*.interestcls img
+	{
+		height: 50px;
+	}*/
+	.interestlist h4,.interestcls p
+	{
+    	font-size: 12px!important;
+	}
+	.interestcls .icofont-delete-alt
+	{
+		font-size: 13px;
+	}
+	.otherwebapp.tortillahide
+	{
+		display:none;
+	}
+	.otherwebapp
+	{
+		margin-left: 2%;
+		margin-right: 3%;
+	}
+	.otherwebs.mb-5
+	{
+		margin-bottom: 2rem!important;
+	}
+	.social-newlinks
+	{
+		margin-bottom: 1rem!important;
+	}
+	.termscls
+	{
+		padding: 9px 10px 10px;
+	}
+	.termscls h2
+	{
+		font-size: 20px;
+	}
+	.termscls h3 {
+		font-size: 15px;
+	}
+	.worldevpreviewcls .carousel-control-prev, .worldevpreviewcls .carousel-control-next
+	{
+		width: 10%!important;
+		height: 30px;
+	}
+	.dropdown-content
+	{
+		top: 15%;
+	}
+	.newevpreviewcls .nav-secondary-wrapper
+	{
+    	margin-top: 5%;
+	}
+	.newevpreview li
+	{
+		padding: 3%!important;
+	}
+	.newevspecification a.active::after
+	{
+		margin-top: 3.02%;
+	}
+	.scootersparepart #brandSlider .MS-content .item,.evmechsparepart #brandSlider .MS-content .item
+	{
+		width: 90% !important;
+		height: 120px !important;
+	}
+	
+	.compareheading
+	{
+		font-size: 16px;
+		margin-top: 6%;
+	}
+	.mobcomparepage .breadcrumb
+	{
+		margin-top: 17%;
+	}
+	.vehpricedsc > div
+	{
+		padding-left: 11px;
+	}
+	.closepopup
+	{
+		top: -10%;
+		right: 0px;
+	}
+	.popup3dbox h5
+	{
+		font-size: 13px;
+	}
+	.popup3dbox p
+	{
+		font-size: 10px!important;
+	}
+	.popup3dbox img
+	{
+    	width: 100%;
+	}
+	#bestnewscooevtab .nav-item a, #newevtab .nav-item a, #popularevtab .nav-item a, #upcomingevtabs .nav-item a, #worldevevtabs .nav-item a
+	{
+		font-size: 12px !important;
+	}
+	.mobile-nav a
+	{
+		font-size: 14px!important;
+	}
+	.mobile-nav
+	{
+		right: 40px;
+	}
+	.showhidelogin .icofont-login, .showhideservice .icofont-engineer, .evstartupmobmenu
+	{
+		width: 8%;
+	}
+	/*.companyfilrercls .sparelisttitle.vehtitle
+	{
+		margin-top:3%!important;
+	}*/
+	table.dataTable > tbody > tr.child span.dtr-title::after
+	{
+		content:" : ";
+	}
+	.mobmargin
+	{
+		margin-top:12%;
+	}
+	.adcoursepreview img
+	{
+		object-fit: cover;
+	}
+	.openjobeducation
+	{
+		width: 290px;
+	}
+	.education-container h4
+	{
+		font-size:16px;
+	}
+	.educationlist li a
+	{
+		font-size:14px;
+	}
+	.titlekeyskill i
+	{
+		display:block;
+		float:left;
+		font-size: 13px;
+		margin-right: 1%;
+		padding-top: 2%;
+	}
+	.titlekeyskill
+	{
+		clear:both;
+	}
+	.titlerequiredprofile
+	{
+		display:none;
+	}
+	.jd-header,.jd-header, .rv-jobdesc,.retro-jobs-right
+	{
+		padding: 10px;
+	}
+	.colorstrip
+	{
+		height: 110px;
+	}
+	.rv-container {
+    	margin: -40px auto auto;
+	}
+	.previewleft_part,.previewright_part
+	{
+		padding-left:5px;
+		padding-right:5px;
+	}
+	.joblistimgcls
+	{
+		display:none;
+	}
+	.jobmodalstyle
+	{
+		float:left;
+	}
+	.previewright_part
+	{
+		margin-top:4%;
+	}
+	.retro-jobs-right h5
+	{
+		font-size: 16px;
+	}
+	.retro-jobs-right h4
+	{
+		font-size: 14px;
+		margin-bottom:8px;
+	}
+	.retro-jobs-right h6
+	{
+		font-size: 12px;
+		margin-bottom:5px;
+	}
+
+	.samecatejob, .samecatepostingtime {
+		font-size: 11px;
+	}
+	.jobfiltercls .sparelisttitle.vehtitle
+	{
+		margin-top: 15%;
+	}
+	.jobsearchbar
+	{
+		top: 4%;
+		right:0%;
+		left: 0%;
+		width: 100%;
+	}
+	.job_alert p
+	{
+		margin-bottom: 10px;
+	}
+	.keyskillcls
+	{
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis
+	}
+	.right_ads li.row
+	{
+		display: block;
+	}
+	.right_ads li.row img
+	{
+		object-fit: contain;
+		width: 50%;
+		margin: auto;
+		display: block;
+	}
+	.adcoursetitle
+	{
+		text-align: center;
+		margin-top: 3%;
+	}
+	.jobsearchrightbar
+	{
+		box-shadow: 0 1px 3px rgba(36,39,44,.15);
+	}
+	#mobjobsimplesearch,#jobsearchbtn
+	{
+		float: none;
+		border-radius: 0;
+		width: 100% !important;
+		display: block;
+		margin-top: 4%;
+	}
+	
+	#jobhero
+	{
+		margin-top: 10%;
+	}
+	.removepadding .pistabg img
+	{
+		display:none;
+	}
+	.Moreli
+	{
+		font-size: 10px!important;
+	}
+	.breadcrumb-item a {
+    	font-size: 12px;
+	}
+	.priceleftsec h5
+	{
+		text-align: center;
+	}
+	.contactseller
+	{
+		padding-left: 0!important;
+	}
+	.removepadding .nav-tabs .nav-item
+	{
+		font-size: 12px;
+	}
+	.priceleftsec .startingcls
+	{
+		text-align: center;
+		display: block;
+	}
+	.priceleftsec .pricerupee
+	{
+		text-align: center;
+	}
+	.traincategorycls .onhovercls
+	{
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	#topiccategorysec h4
+	{
+		font-size: 15px;
+	}
+	.trending_topics
+	{
+		font-size: 14px;
+	}
+	.sparemaincls .breadcrumb
+	{
+		margin-top: 16%;
+	}
+	.sparemaincls .breadcrumb-item a,.mainsparecontainer .breadcrumb-item a
+	{
+		font-size: 12px;
+	}
+	.mobpopulartitle ul
+	{
+		padding-left:0!important;
+	}
+	.mobpopulartitle li
+	{
+		height:auto!important;
+		clear: both;
+		list-style: none;
+		line-height:2rem;
+	}
+	.listingpadding h3
+	{
+		font-size: 20px;
+		margin-left: 3%;
+	}
+	.coursestartedcls h5
+	{
+		font-size: 16px;
+		margin-left: 3%;
+	}
+	.limittopics a
+	{
+		min-height: 2.6rem;
+	}
+	.instructorlist
+	{
+		margin-left: 3%!important;
+		height: 100px;
+		margin-bottom: 2%;
+	}
+	.instructorlist img
+	{
+		width: 60px;
+    height: 60px;
+	}
+	.searchFilter .dropdown-location .category_filters, .searchFilterpreview .dropdown-location .category_filters
+	{
+		min-width: 300px !important;
+	}
+	.category_filters
+	{
+		height: 200px !important;
+	}
+	.trainingfront h3, .paddingleftcls
+	{
+		font-size: 20px;
+	}
+	.mobcourse .card-body
+	{
+		padding: 1%!important;
+	}
+	.mobcourse .card .btn-link
+	{
+		color: #363332;
+		font-weight: 900;
+		font-size: 14px !important;
+	}
+	.traincategorycls li img
+	{
+		display: none;
+	}
+	.traincategorycls li div
+	{
+		box-shadow: none;
+	}
+	#topiccategorysec h4 {
+    	margin-bottom: 1%;
+	}
+	.topicsection {
+    	height: auto;
+    margin-bottom: 3%;
+	}
+	.courseserachbox .has-search .form-control
+	{
+		width: 85%;
+	}
+	.traincategorycls li span
+	{
+		color: #0f7c90;
+		border: 1px solid #0f7c90;
+		border-radius: 35px;
+		font-size: 14px;
+		margin-bottom: 3%;
+	}
+	.mobcourse
+	{
+		display:block;
+	}
+	.webcourse
+	{
+		display:none;
+	}
+	#trainingposition
+	{
+		height: auto !important;
+	}
+	#trainingposition img
+	{
+		height: 30vh !important;
+	}
+	.coursessearchslist
+	{
+		top: 92%;
+	}
+	.spareservice li
+	{
+		font-size:14px;
+	}
+	.spareservice
+	{
+		height: 43px;
+	}
+	.courseserachbox
+	{
+		width: 90%;
+		margin:auto;
+		display:block;
+		position:initial;
+		top: 25%;
+		height: auto;
+	}
+	#trainingposition .courseserachbox
+	{
+		position: absolute;
+	}
+	.sparecategorycls li div
+	{
+		height: 143px;
+		line-height: 1.3;
+	}
+	#worldevcategoryscroll .sparecategorycls li div
+	{
+		height: 100px;
+	}
+	.allvideosection .newsli
+	{
+		height: 350px;
+	}
+	.mainnews.allnewcls
+	{
+		margin-top: 0% !important;
+	}
+	.sparemaincls .nav-secondary-wrapper {
+    	margin-top: 1%;
+	}
+	.sparelisttitle.vehtitle
+	{
+		display:block!important;
+		margin-top: 25%;
+	}
+	#evpopularevstab .alert-danger
+	{
+		margin: auto;
+    	margin-top: 4%;
+	}
+	#sparebrandscroll li img {
+    height: 49px;
+    width: 90%;
+	}
+	.sparessection #newevtab .nav-item
+	{
+		width: 35%;
+	}
+	.sparessection #newevtab
+	{
+		display:block;
+	}
+	.sparewishlist
+	{
+		top: 8%;
+		right: 15px;
+	}
+	.sparesharelist
+	{
+		top: -98%;
+		right: 15px!important;
+	}
+	.sharelst
+	{
+		top: -108%;
+		right: 10px;
+	}
+	.newevpreview .sparepreviewtab
+	{
+		padding: 10px 10px 10px !important;
+		font-size:12px !important;
+	}
+	.sparessection .sparecategoryclass
+	{
+		margin-top: 10%;
+	}
+	.userreviewcls #latestreview
+	{
+		margin-top: 40%;
+	}
+	.spareslider #custCarousel
+	{
+		height: 300px;
+	}
+	.mainsparecontainer .proddescription,#sparepricelist
+	{
+		margin-bottom:3%;
+	}
+	#sparereviewslist #submitsparerate
+	{
+		width: 100%;
+	}
+	.monpaddingalert
+	{
+		padding-left:15px!important;
+		padding-right:15px!important;
+	}
+	.mainsparecontainer
+	{
+		background: #f2f2f2;
+	}
+	.proddescription p,.proddescription li,.proddescription td
+	{
+		font-size:13px;
+	}
+	#sparecomparelist #carpopSlider .MS-content .item, .proddescription #scooterpopSlider .MS-content .item
+	{
+		width: 90% !important;
+	}
+	.submitsparerate,#ratetextarea
+	{
+		width: 85%;
+		font-size: 14px;
+	}
+	.sparepreviewtab
+	{
+		width: auto!important;
+		padding: 10px 10px 10px !important;
+	}
+	.sparemaincls #configuration_sidebar_content
+	{
+		padding-left:0%;
+	}
+	.pricealertcls
+	{
+		margin-top:1%!important;
+	}
+	.webhidegostorebtn
+	{
+		display: block;
+		width: 100%;
+		margin-top: 2%;
+		margin-bottom: 2%;
+	}
+	.mobhidegostorebtn
+	{
+		display:none;
+	}
+	.sparecontainer .sliderpad,.sparetitle,.sparecontainer .sliderpad
+	{
+		padding-left:0;
+		padding-right:0;
+	}
+	.spareslider {
+    	height: 300px;
+	}
+	.merchantprices .row div
+	{
+		line-height: 1.5;
+		padding-left: 0;
+		padding-right: 0;
+		text-align: center;
+		margin: auto;
+	}
+	.merchantprices .btn-outline-success
+	{
+		font-size: 12px;
+		padding: 3%;
+	}
+	.reviewsclss
+	{
+		margin-top:3%;
+	}
+	.sparereviewscls .reviewsclss .icofont-user-alt-4
+	{
+		font-size: 35px;
+	}
+	.merchantnmcls
+	{
+		line-height: 1.5;
+	}
+	.sparesocialcls
+	{
+		top: 110%;
+	}
+	.proddescription h3, #sparepricelist h3 {
+    	font-size: 16px!important;
+	}
+	.getpricealert
+	{
+		margin: auto;
+		width: 100%!important;
+	}
+	.rightdescsec
+	{
+		padding-left: 1% !important;
+	}
+	.rightdescsec.sparedesccls
+	{
+		padding-left: 5% !important;
+	}
+	.rightdescsec.sparedesccls .monpaddingalert,.rightdescsec.sparedesccls .webhidegostorebtn .col-lg-12
+	{
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+	.sparecontainer .hideinmobbox
+	{
+		display:none;
+	}
+	.hideinmob
+	{
+		display:none;
+	}
+	.sparedesccls h1
+	{
+		font-size: 20px;
+	}
+	.sparepricecls span, .sparepricecls i
+	{
+    	font-size: 16px;
+	}
+	.termscls p, .termscls li
+	{
+    	font-size: 12px;
+	}
+	.homepageslider .carousel-indicators
+	{
+		visibility:visible;
+	}
+	.shownewssubmenu .opencomingsoonmodal
+	{
+		font-size: 16px !important;
+		color: #333 !important;
+		font-weight: 400 !important;
+		font-family: arial,verdana,times New Roman !important;
+	}
+	.userreviewserach
+	{
+		left:2%;
+		top:12%;
+	}
+	.searchreviewbox ul
+	{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.userreviewserach h4 {
+    margin-top: 8%;
+    text-align: center;
+    margin-bottom: 0;
+	}
+	.openbrandcls,.openshowdealloc
+	{
+		position:relative;
+	}
+	.searchreviewbox li
+	{
+		border-radius: 4px 4px 4px 4px;
+	}
+	.userreviewcls .evmechanicbgimg
+	{
+		height: calc(15vh - 75px) !important;
+		overflow:visible!important;
+		margin-bottom:30%;
+	}
+	.sparessection .evmechanicbgimg 
+	{
+    	height: auto!important;
+		margin-bottom:4%!important;
+	}
+	.breadcrumb li
+	{
+    	font-size: 11px!important;
+	}
+	.charginglistviewsec
+	{
+		margin-top: 14%!important;
+	}
+	.sparecontainer .breadcrumb
+	{
+		padding-left:2%!important;
+	}
+	.boxshadowcls
+	{
+		padding: 10px 10px 10px;
+	}
+	.sparecategorycls li img
+	{
+		height: 57px;
+	}
+	.sparecategorycls li span
+	{
+		font-size: 11px;
+	}
+	.bannercircle
+	{
+		width:100%;
+		height: 100%;
+	}
+	.allnewcls
+	{
+		margin-top:15% !important;
+		padding-left:5px;
+		padding-right:5px;
+	}
+	.allnewsright,.allnewsleft
+	{
+		padding-left:5px;
+		padding-right:5px;
+	}
+	.mobmarginbtm
+	{
+		margin-bottom:5%;
+	}
+	.poptitlecls {
+    	font-size: 12px;
+		font-weight: 600;
+	}
+	#nearbycities h4, #vehiclekits h3
+	{
+		font-size: 16px;
+	}
+	#popular i, #upcome i, #allveh i,.poppricecls
+	{
+    font-size: 13px;
+	}
+	#popular img, #upcome img, #allveh img {
+    min-height: 70px;
+	}
+	#popular .row, #upcome .row, #allveh .row
+	{
+		margin-bottom:0;
+	}
+	#trandingid .nav-link.active, #upcome .nav-link.active, #allveh .nav-link.active, #trandingid .nav-item a, #upcome .nav-item a, #allveh .nav-item a,.viewallvehicls a {
+    font-size: 12px;
+	}
+	.viewallvehicls
+	{
+		padding:3%;
+	}
+	.evmechanicbgimg
+	{
+		height:auto!important;
+	}
+	.evmechanicbgimg img
+	{
+		height:200px;
+	}
+	.userrevnm
+	{
+		font-size:12px;
+	}
+	.userreviewcolcls div {
+    	padding: 2px;
+	}
+	.mob_retro_preview  .userreviews .clearfix
+	{
+		font-size: 12px;
+		line-height: 1rem;
+		color: gray;
+	}
+	.mob_retro_preview .reviewdatecls,.mob_retro_preview .likedislikecls
+	{
+		font-size: 12px;
+	}
+	.mob_retro_preview .likedislikecls i
+	{
+		font-size: 14px;
+	}
+	.searchFilter .dropdown-location .category_filters li
+	{
+		font-size: 14px;
+		padding: 2% !important;
+	}
+	.mobbusiinfo p,.mobbusiinfo td
+	{
+		font-size: 14px;
+		font-family: 'Roboto',sans-serif;
+		line-height: 1.5rem;
+		margin-top: 2%;
+	}
+	.mobbusiinfo table
+	{
+		margin-top: 2%;
+	}
+	#reviewdesc
+	{
+		width:70%;
+	}
+	.adpt_img
+	{
+		padding: 7px;
+		font-size: 12px;
+	}
+	.rating-widget h4
+	{
+		font-size: 16px;
+	}
+	#submitretroreview
+	{
+		font-size: 12px;
+	}
+	.mob_retro_preview hr
+	{
+		margin-top: 3%;
+		margin-bottom: 3%;
+	}
+	.buss_info_head, .faq_que
+	{
+		font-size: 14px;
+	}
+	.retrofittingcls .breadcrumb
+	{
+		padding-left:10px!important
+	}
+	.mob_retro_preview .accordion .card
+	{
+		border-bottom:0!important;
+	}
+	.mob_retro_preview .accordion .card-header
+	{
+		padding:0!important;
+	}
+	.mob_retro_preview .lightmargin
+	{
+		margin-top: 1%;
+	}
+	.mob_retro_preview .lightmarginbtm
+	{
+		margin-bottom: 1%;
+	}
+	.mob_retro_preview .accordion .float-left span
+	{
+		font-size: 13px;
+	}
+	.mob_retro_preview .mobaddresscls p,.mob_retro_preview .makepaycls,.mob_retro_preview .editlistingcls
+	{
+		margin-top: 1%;
+		font-size: 13px;
+		width: 100%;
+		font-family: 'Roboto',sans-serif;
+		color: black;
+	}
+	.mobretrorateview p
+	{
+		text-align:left;
+		margin-top: 0%;
+		margin-bottom: 1%;
+	}
+	.mobretrorateview span
+	{
+		font-size: 10px;
+		color:gray;
+	}
+	.mob_retro_preview .mobaddresscls i,.mob_retro_preview .accordion .float-left i,.makepaycls i,.mob_retro_preview .editlistingcls i
+	{
+		font-size: 18px;
+		margin-right: 5%;
+		color: gray;
+	}
+	
+	.mob_retro_preview .detailaboutretro
+	{
+		margin-top: 3%;	
+	}
+	.mob_retro_preview .carousel-item img
+	{
+		width: 100%!important;
+		height: 100%!important;
+	}
+	.mob_retro_preview .carousel-inner
+	{
+		height: 200px!important;
+	}
+	.mob_retro_preview .detailaboutretro h5
+	{
+		margin-right:2%;
+		color: #333;
+		font-family: 'Roboto',sans-serif;
+	}
+	.mob_retro_preview .retrolistwishlistcls
+	{
+		padding: 4px 4px;
+		width: 20px;
+		height: 20px;
+		font-size: 12px;
+	}
+	.mob_retro_preview .areanmcls span
+	{
+		font-size:12px;
+		color:#788898;	
+	}
+	.mob_retro_preview .areanmcls
+	{
+		margin-top:0!important;
+	}
+	.mob_retro_preview .row
+	{
+		line-height:1!important;
+	}
+	.mob_retro_preview .detailaboutretro,.mob_retro_preview .areanmcls,.mob_retro_preview .mobrating,.mob_retro_preview .retrofitpreviewimg
+	{
+		padding-left:1%;
+	}
+	.mob_retro_preview .carousel-control-prev,.mob_retro_preview .carousel-control-next
+	{
+		display:none;
+	}
+	.mob_retro_preview .carousel-indicators
+	{
+		bottom: 0!important;
+	}
+	.mob_retro_preview .carousel-indicators li
+	{
+		background-color: white!important;
+	}
+	.retrolistwishlistcls
+	{
+		top: 5px;
+		left: 24%;
+	}
+	.retrofitterli div
+	{
+		line-height: initial;
+	}
+	#localcity
+	{
+		width: 85%!important;
+		float: left;
+		margin-right:0!important;
+		padding: 4%;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 0px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 0px;
+		height:35px;
+		padding-left: 10px;
+		border: 1px solid lightgray;
+	}
+	.input-group-btn .form-control 
+	{
+		margin-bottom: 0%!important;
+	}
+	.retrofittingcls .input-group-btn
+	{
+		padding-left: 2%;
+	}
+	.searchFilter .dropdown-location
+	{
+		right: auto!important;
+		width: 92%!important;
+	}
+	.retrofitterclsbg {
+		height: 200px;
+		background-size: 100%;
+	}
+	.retronav .retrofitterlogin,.retronav a
+	{
+		width: 31.33%;
+		margin-bottom: 1%;
+	}
+	#searchretrofitter
+	{
+		min-width: 2%!important;
+		float: left;
+		border-top-left-radius: 0px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 0px;
+		border-bottom-right-radius: 5px;
+		height:35px;
+		padding: 0rem .75rem!important;
+	}
+	.searchFilter .input-group
+	{
+		margin-bottom: 15%;
+	}
+	.about-us .content h3,.service .aos-init h3,.benifitretrocls h3,.timelinecls h3
+	{
+		font-size: 20px;
+	}
+	.about-us .content p,.service .culture p
+	{
+		font-size: 14px;
+		text-align: inherit;
+	}
+	.service .aos-init img
+	{
+		height: 200px;
+	}
+	.retroprocessid .image,.firstquestion .image,.about-us .image
+	{
+		min-height: 200px;
+	}
+	.about-us .content
+	{
+		    padding: 10px 10px;
+	}
+	.benifitretrocls ul li
+	{
+    	line-height: 2rem;
+	}
+	.retroquescls h3
+	{
+		font-size: 16px !important;
+	}
+	.tsc_ribbon_banner span
+	{
+		font-size: 12px;
+		padding: 1%;
+		line-height:20px!important;
+	}
+	#allbrandsclsdetail .brandlists
+	{
+		padding-top: 7%;
+	}
+	.brandlists img
+	{
+		margin-bottom:1%;
+	}
+	.brandlists p
+	{
+		font-size: 12px;
+		height: 26px;
+		line-height: 18px;
+	}
+	.brandlists img
+	{
+		height: 50px!important;
+	}
+	.newevnewcls img
+	{
+		height: 300px !important;
+	}
+	#newevsec h3
+	{
+		font-size: 20px;
+		margin-top: 5%;
+	}
+	.newevnewcls h5
+	{
+		font-size: 16px;
+	}
+	.newevnewcls p,.newevnewcls span,.newevnewcls p a,.newevnewcls li
+	{
+		font-size: 14px !important;
+		line-height: 1.5rem !important;
+	}
+	#newevsec .table_wrap
+	{
+		overflow-x:scroll;
+	}
+	.MS-controls .MS-left,.MS-controls .MS-right
+	{
+		visibility:hidden!important;
+	}
+	#worldevvideosec .MS-controls .MS-left,#worldevvideosec .MS-controls .MS-right
+	{
+		visibility:visible!important;
+	}
+	#worldevvideosec .MS-controls .MS-left
+	{
+		right: 13%!important;
+	}
+	#worldevvideosec .MS-controls .MS-right
+	{
+		right: 5px!important;
+	}
+	.retronav
+	{
+		margin-top: 4%;
+	}
+	.askfaqs h6
+	{
+		font-size: 14px;
+	}
+	.askfaqs p
+	{
+    font-size: 12px;
+	}
+	.homepageslider img
+	{
+		border-radius: 8px;
+		width: 95%;
+		margin: auto;
+	}
+	#scooterSlider .MS-content .item, #brandSlider .MS-content .item, #carSlider .MS-content .item {
+		height: 100px !important;
+	}
+	#scooterSlider .MS-content img, #brandSlider .MS-content img, #carSlider .MS-content img
+	{
+		/*width: 60% !important;
+		max-width: 100% !important;
+		height: 100px !important;*/
+	}
+	#shopbypricemodal h4
+	{
+		font-size: 14px;
+	}
+	#shopbypricemodal .custom-control-label,#submitshopbyprice
+	{
+		font-size: 12px;
+	}
+	.custom-radio .custom-control-label::before {
+    border-radius: 50%;
+    width: 0.8rem;
+    height: 0.8rem;
+	}
+	#shopbypricemodal p
+	{
+		text-align: center!important;
+	}
+	
+	.worldevpreviewcls .carousel-item
+		{
+			height: 250px;
+		}
+	#bestnewscooevtab .nav-item a,#bestnewscooevtab .nav-link.active
+	{
+		font-size:11px;
+	}
+	.mobile-nav li > img {
+		width: 10%;
+		height: 27px;
+		object-fit: contain;
+}
+	.searchbox
+	{
+		display:none;
+	}
+	.sitesearchbox
+	{
+		display:block;
+	}
+	.removeoverflow
+	{
+		margin-top:13%; /*effect on home page*/
+	}
+	.carousel-control-next-icon, .carousel-control-prev-icon
+	{
+		width:12px!important;
+	}
+	.newevpreviewcls .carousel-control-next, .newevpreviewcls .carousel-control-prev
+	{
+		height: 28px!important;
+		width:8%!important;
+	}
+	.reviewsecion .col-md-3, .reviewsecion .col-md-2, .reviewsecion .col-md-4, .reviewsecion .col-lg-3, .reviewsecion .col-lg-2, .reviewsecion .col-lg-4
+	{
+		padding-right: 2px!important;
+		padding-left: 2px!important;
+	}
+	.previewtechspeccls
+	{
+		display:none;
+	}
+	.retrofitservicecls
+	{
+		width:100%;
+		left:1%;
+		right:1%;
+	}
+	.retrofitservicecls .btn {
+    	font-size: 16px;
+	}
+	.mobmtcls
+	{
+		margin-top: 12%;
+	}
+	#collapseThree .paddingcls
+	{
+		padding:0.5rem;
+	}
+	.paddingcls .container
+	{
+		padding-right: 0px;
+		padding-left: 0px;
+	}
+	.worldevspec li
+	{
+		width: 31%;
+	}
+	.worldevdetail .carousel-item img
+	{
+		height: 250px !important;
+	}
+	.worldevdetail .carousel-inner {
+    	height: 250px !important;
+	}
+	.retrofittingcls .container
+	{
+		/*margin-top:11%;*/
+	}
+	.dropdownworld li img {
+    width: 5.2% !important;
+	}
+	.retrofitcoverimg img {
+    height: 100%;
+	}
+	.retrolistwishlistcls {
+    left: 24%;
+	}
+	#mixedSlider .MS-controls button, #similarSlider .MS-controls button, #newevimgslider .MS-controls button, #moreoptslider .MS-controls button, #dealerSlider .MS-controls button, #reviewSlider .MS-controls button
+	{
+		background-color: white;
+	}
+	.selmodaltitle
+	{
+		font-size:16px;
+	}
+	.sellerdetailclass .alert
+	{
+		font-size:12px;
+	}
+	.prossellerdetl label,.prossellerdetl p
+	{
+		font-size:14px;
+	}
+	.colorcircle
+	{
+		height: 40px;
+    width: 40px;
+	}
+	#sellerdet
+	{
+		margin-top: 2%;
+	}
+	#sellerdet h3
+	{
+		font-size: 13px;
+	}
+	#sellerdet label
+	{
+		font-size:12px;
+	}
+	#sellerdet .form-control
+	{
+		width:75%;
+	}
+	#sendusedevotp,#sendnewevotp
+	{
+		width: 24%;
+		margin-left: 1%;
+		height: 32px;
+		font-size: 9px!important;
+		padding: 1%!important;
+	}
+	.usedpreviewbtn
+	{
+		font-size: 9px;
+		height: 27px!important;
+		padding: 0%!important;
+	}
+	#fixeddealerbtn
+	{
+		display: none;
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+		height: 55px;
+		background: #fff;
+		box-shadow: 0 4px 8px 0 rgba(36,39,44,1);
+		z-index: 1;
+		padding:2%;
+	}
+	#fixeddealerbtn .dealeropen
+	{
+		margin-left:0;
+		width: 100%;
+		font-size: 14px;
+		margin-top:0!important;
+		padding: 10px;
+		border-radius: 0;
+	}
+	#tawkchat-minified-box
+	{
+		bottom: 12%!important;
+	}
+  .changerow>.col-md-2
+	{
+		flex: 0 0 35.667%;
+		max-width: 35.667%;
+	}
+	.sellform h2
+	{
+		font-size: 1rem;
+	}
+	.sellvehicle label
+	{
+		top: 0px;
+	}
+	.sellvehicle
+	{
+		  font-size: 12px;
+    	height: 40px;
+	}
+	.uploadul
+	{
+		padding-left: 2%;
+	}
+	.multiphotos .uploadli
+	{
+		width: 40px !important;
+		height: 40px !important;
+	}
+	.sellvehicle .rightArrow
+	{
+		top: 16px;
+	}
+	.changerow .col-md-10
+	{
+		flex: 0 0 64.333%;
+		max-width: 64.333%;
+	}
+	.middlebox h5
+	{
+		margin-top: 0%;
+	}
+	#loaddiv>h3
+	{
+		margin-top:7%;
+	}
+	.nav-secondary-wrapper
+	{
+		margin-top: 4%;
+	}
+	.dropdownmob-content
+	{
+		left: -90px;
+	}
+	.dropdownmob-content::before
+	{
+		left: 100px;
+	}
+	.dropdown-content::after, .dropdown-content::before
+	{
+		left:68%;
+	}
+	.vehfeature img
+	{
+		width:20%;
+	}
+	.vehfeature li
+	{
+		width:49%;
+	}
+	.overviewsec h3, .featuresec h3, #vehiclekits h3
+	{
+		font-size:1rem;
+	}
+	.pricesection h3, .videosec h3, .carreviewsec h3, .carreviewsec h3, .previewimgslider h3
+	{
+		font-size:16px;
+		padding-left: 2%;
+	}
+	.newevpricedef p
+	{
+		font-size:12px;
+	}
+	#mixedSlider .MS-controls button, #similarSlider .MS-controls button, #newevimgslider .MS-controls button, #moreoptslider .MS-controls button
+	{
+		background-color: white;
+	}
+	#mixedSlider .MS-content .item, #similarSlider .MS-content .item, #newevimgslider .MS-content .item, #moreoptslider .MS-content .item, #dealerSlider .MS-content .item
+	{
+		height: 350px;
+	}
+	.item h4
+	{
+		font-size:14px;
+	}
+	.spanrupee
+	{
+		font-size:16px !important;
+	}
+	.item .btn
+	{
+		font-size:12px;
+	}
+	.btn-link .float-left
+	{
+		font-size:14px;
+	}
+	.collapse pre
+	{
+		font-size:12px !important;
+	}
+	.leftpros,.rightcons
+	{
+		width:100%;
+	}
+	.leftpros
+	{
+		margin-right:0px;
+	}
+	.leftpros ul li,.rightcons ul li
+	{
+		font-size:13px;
+	}
+	.rightcons
+	{
+		margin-top:2%;
+	}
+	.writerbtncls .btn
+	{
+		margin: auto;
+		display: block;
+		font-size: 12px;
+	}
+	.carreviewsec p
+	{
+		font-size:12px;
+	}
+	.carreviewsec iframe
+	{
+		height:250px !important;
+	}
+	.colorimgsection img
+	{
+		height:100px;
+	}
+	.newsdate .col-2
+	{
+		padding-left:0%;
+	}
+	.newsrefrence
+	{
+		width: 100%;
+		padding: 11%;
+	}
+	.allcommentcls .commentcls
+	{
+		padding-left: 5px;
+		margin-top: 3%;
+		font-size:15px;
+	}
+	
+	#prices .pricerightsec
+	{
+		padding-left: 0px;
+	}
+	.pricerightsec .btn-danger
+	{
+		font-size:12px;
+	}
+	.ansbtn
+	{
+		margin-left: 8px!important;
+	}
+	#newevimgslider .MS-content .item
+	{
+		height:250px !important;
+	}
+	.confuseseccls img
+	{
+		margin: auto;
+		display: block;
+		width: 20%;
+	}
+	.quescls
+	{
+		text-align:center;
+	}
+	.quescls h5
+	{
+		font-size:14px;
+	}
+	.quescls .btn
+	{
+		font-size: 12px;
+		margin-top: 1%;
+		margin-bottom: 1%;
+	}
+	#myfaq .nav-item
+	{
+		font-size:12px;
+	}
+	#faq .float-left
+	{
+		font-size:12px;
+		width: 90%;
+	}
+	.vehicledetail .btn-outline-success
+	{
+		width:100%;
+	}
+	.col-auto .custom-control
+	{
+		padding-left: 2.5rem;
+	}
+	.paddingdealermob
+	{
+		padding-left: 2% !important;
+	}
+	.marginmobile
+	{
+		margin-top: 12%;
+	}
+	.marginmobile h4
+	{
+		font-size:18px;
+		margin-top:2%;
+		color:#38ba9f;
+	}
+	.newevslider
+	{
+		padding-left:0px;
+	}
+	.newevslider
+	{
+    height: 180px;
+	}
+	.img-fluid
+	{
+		height:50px;
+	}
+	.carousel-control-next, .carousel-control-prev
+	{
+		top: 0px;
+	}
+	.pricedet .col-4,.rupeescls .col-4
+	{
+		    padding-left: 5px;
+		padding-right: 0px;
+	}
+	#prices h3, #colors h3, #varianties h3, #videoes h3, #reviewi h3, #speci h3, #images h3
+	{
+		font-size:15px!important;
+	}
+	.priceleftsec h4,.videosec h3,.carreviewsec h3,.carreviewsec h4
+	{
+		font-size:14px!important;
+	}
+	.breadcrumb li
+	{
+		font-size: 9px;
+	}
+	.pricerightsec h5
+	{
+		margin-top: 6%;
+		font-size: 14px;
+	}
+	.pricerightsec .table th
+	{
+		font-size:12px;
+	}
+	.ex_in_imgcls li img
+	{
+		height: 100px;
+	}
+	.condealerbtn .btn
+	{
+		font-size: 12px;
+	}
+	#imgCarousel, #colorimgCarousel
+	{
+		height: 300px;
+	}
+	.pricerightsec .nav-link
+	{
+		font-size: 12px;
+		   padding: .3rem 1rem;
+	}
+	#popular img, #upcome img, #allveh img
+	{
+		min-height: 80px;
+	}
+	.pricerupee .col-6
+	{
+		padding-right: 5px;
+    padding-left: 5px;
+	}
+	.priceleftsec p
+	{
+		    font-size: 12px;
+	}
+	#mixedSlider .MS-content .item,#similarSlider .MS-content .item,#newevimgslider .MS-content .item,#moreoptslider .MS-content .item,#dealerSlider .MS-content .item,#reviewSlider .MS-content .item {
+    width: 90%;
+  	}
+	.couseslider #carexpSlider .MS-content .item,.couseslider #cargoexpSlider .MS-content .item,.couseslider #ecycleexpSlider .MS-content .item,.couseslider #truckexpSlider .MS-content .item,.couseslider #busexpSlider .MS-content .item,.couseslider #vanexpSlider .MS-content .item,.couseslider #motorcycleworldevSlider .MS-content .item,.couseslider #scooterworldevSlider .MS-content .item
+	{
+		width: 90% !important;
+	}
+	.limittopics li
+	{
+		margin-bottom: 1%;
+	}
+	.previewimgslider p
+	{
+		font-size:12px;
+	}
+	#custCarousel .carousel-indicators, #imgCarousel .carousel-indicators, #colorimgCarousel .carousel-indicators
+	{
+		margin-top: 5px;
+	}
+	.rightdescsec
+	{
+		padding-left:0;
+		padding-right:0;
+	}
+	#smallcrosssell
+	{
+		margin-top: 16%;
+	}
+	.usedvehtypelink li
+	{
+		width: 34.66%!important;
+	}
+	#smallcrosssell ul li::after
+	{
+		margin-left: 19%;
+	}
+	.usedvehdesc
+	{
+		margin-top: 6%;
+	}
+	.paddinglftrgt
+	{
+		padding-right: 5px;
+		padding-left: 5px;
+	}
+	.prosummary li
+	{
+		width: 43%;
+	}
+	.sellersummary .form-row.pl-1
+	{
+		padding-left: .50rem !important;
+	}
+	.sellersummary .form-row.used_webmargin.pl-1
+	{
+		padding-left: .25rem !important;
+	}
+	.usedevbreadcrum
+	{
+		margin-top: 18%;
+	}
+	.breadcrumb.usedevbreadcrum li,.usedevbreadcrum .breadcrumb-item a,.usedevbreadcrum .breadcrumb-item.active
+	{
+		font-size: 10px;
+	}
+	#specfea #configuration_sidebar_content li
+	{
+		width: 49%;
+	}
+	.fchild
+	{
+		color: gray;
+	}
+	.feanm {
+    	font-size: 10px;
+	}
+	.prosummary li
+	{
+		padding:0!important;
+	}
+	.form-group {
+    	margin-bottom: 2rem;
+	}
+	.paddingzero
+	{
+		margin-top: 13%;
+	}
+	.comapretablecls table td, .comapretablecls table th
+	{
+		font-size: 9px;
+	}
+	.compareimg img
+	{
+		height: 60px;
+	}
+	.comparepricecls
+	{
+		font-size: 9px;
+	}
+	#getprosellerdetail
+	{
+		font-size: 11px;
+		height:38px;
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+	.comparerow input[type="checkbox"],.comparerow label
+	{
+		font-size:12px;
+	}
+	.vdetails
+	{
+		padding: 5px!important;
+	}
+	.compareanchor a
+	{
+		font-size:12px;
+	}
+	.listing .grid,.listing .grid.empty
+	{
+		height: 125px;
+	}
+	.listing .grid img
+	{
+		height: 60px;
+	}
+	.collapseCompare
+	{
+		height: 225px;
+	}
+	.multiphotos .uploadli
+	{
+		width: 16% !important;
+		height: 50px !important;
+	}
+	.imgPanelleft
+	{
+		width:30%;
+	}
+	.textpanelRight
+	{
+		width:70%;
+	}
+	.imgPanelleft img
+	{
+		height:60px!important;
+	}
+	.compare_With_Similar li {
+    	height: 60px!important;
+		margin-bottom:1%;
+	}
+	.vmodel_ul li
+	{
+		height:30px!important;
+	}
+	.dealeropen
+	{
+		font-size: 8px;
+    padding: 4px;
+    margin-top: 6%;
+	}
+	.vdetails h4
+	{
+		font-size: 10px;
+	}
+	.vdetails p
+	{
+		font-size: 12px;
+	}
+	.close_block span
+	{
+		font-size: 12px;
+	}
+	.close_block
+	{
+		width: 13px;
+    	height: 13px;
+	}
+	#compareDiv a
+	{
+		font-size: 12px;
+	}
+	.retrofitreview .ratingspan,.retrofitreview .startingcls {
+    	margin-right: 8px;
+	}
+	.retrofitreview .noofreviewcls
+	{
+		font-size: 10px;
+		 margin-top: 2px;
+	}
+	.retrofit_detail
+	{
+		padding-right: 8px;
+		padding-left: 8px;
+	}
+	#bestdealmodal .modal-header h5
+	{
+		font-size: 14px;
+	}
+	#bestdealmodal .modal-body .col-form-label
+	{
+		font-size: 12px;
+	}
+	#bestdealmodal .form-control
+	{
+		height: calc(1.5em + .55rem + 2px);
+		margin-bottom: 1rem;
+	}
+	.evcuploadimg
+	{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.filelabel
+	{
+		font-size: 12px;
+	}
+	.evconversionpersonal .form-group
+	{
+		margin-bottom: 0rem!important;
+	}
+	.uploadimgcls
+	{
+		margin-top:3%;
+		margin-bottom:3%;
+	}
+	#bestdealmodal a
+	{
+		font-size:13px;
+	}
+	#bestdealmodal .btn
+	{
+		padding:1.25%;
+	}
+	.homepageslider .carousel-indicators li
+	{
+		width: 10px;
+		background-color: green;
+	}
+	.homepageslider .carousel-indicators
+	{
+		bottom: -35px;
+	}
+	.fullwidthcontainer
+	{
+		margin-top: 2%;
+	}
+	.removeoverflow .carousel-item,.retrofitsliderbgcolor .carousel-item
+	{
+    	height: 200px;
+	}
+	.colorboxhidden .container
+	{
+		padding-right: 5px!important;
+		padding-left: 0px!important;
+	}
+}
+@media screen and (max-width: 410px) {
+	.dropdownworld li img {
+		width: 11% !important;
+		height: 17px;
+	}
+	.dropdownworld li a
+	{
+		font-size:14px!important;
+	}
+	.mobservice .opencomingsoonmodal
+	{
+		font-size: 14px !important;
+		color: #30343e !important;
+		padding: 5px 0px 5px 15px !important
+		font-weight: 600;
+	}
+	.mobile-nav .dropdownworld > a::after
+	{
+		top: 21%;
+	}
+	#evstartupfront #startupsource
+	{
+		margin-top: 0%!important;
+	}
+	.ourretrofitservice h3
+	{
+		margin-top:3%;
+		color: crimson;
+font-weight: 900;
+font-size: 16px;
+	}
+	.mobcomplpadding
+	{
+		padding-left:5px!important;
+		padding-right:5px!important;
+	}
+	.removepadmob
+	{
+		padding:0;
+	}
+	.ourretrofitservice ul li img {
+		height: 40px;
+		object-fit: contain;
+	}
+	.retrofitsliderbgcolor .carousel-item img
+	{
+		width: auto;
+		min-width: 100%;
+		height:100%!important;
+		object-fit: contain;
+	}
+	#allbrandsclsdetail
+	{
+		margin-top:8%;
+	}
+	#popularev .nav-item,#brandsev .nav-item,#usedevtab .nav-item,#newevtab .nav-item,#bestnewscooevtab .nav-item,#popularscooter .nav-item,#bestmotorev .nav-item,#bestscooterev .nav-item,#latestmotorev .nav-item,#latestescooter .nav-item,#upcomeemotor .nav-item,#upcomevscoo .nav-item,#usedevmotorcycle .nav-item,#usedescooter .nav-item,#usedevindia .nav-item,#usedevbyprice .nav-item,#usedscooterbyprice .nav-item,#latestreview .nav-item,#retrofitterworkshop .nav-item,#retrofitterinindia .nav-item,#worldecar .nav-item,#keycomponentev .nav-item,#evcomparison .nav-item,#escoocomparison .nav-item
+	{
+		width: 32%;
+	}
+	
+	.worldevspec li
+	{
+		width: 48%;
+		height: 98px;
+	}
+	.dropdownworld li img {
+    	width: 8% !important;
+		height: 17px;
+	}
+	.mobservice a
+	{
+		padding: 10px!important;
+	}
+	.retrofittingcls .container
+	{
+		/*margin-top:12%;*/
+	}
+	.vdetails p
+	{
+		font-size: 12px;
+	}
+	.listing .grid,.listing .grid.empty
+	{
+		height: 112px;
+	}
+	.listing .grid {
+    	width: 22%;
+	}
+	.kmdrivenli li
+	{
+		width: 29%;
+	}
+	.retrolistwishlistcls {
+    left: 22%;
+	}
+	.mobmtcls
+	{
+		margin-top: 14%;
+	}
+	.citylisting li
+	{
+		/*flex-basis: 40%;*/
+	}
+}
+@media screen and (max-width: 375px) {
+	.sharepreview
+	{
+		top: -134px;
+    	right: 16px;
+	}
+	.traincategorycls li span
+	{
+		font-size: 12px;
+		padding: 3%;
+		margin-bottom: 7%;
+	}
+	.topiccategorysec .col-6 h4
+	{
+		padding-left:5px;
+		padding-right:5px;
+	}
+	.trending_topics
+	{
+    	font-size: 12px;
+	}
+	#allbrandscls .nav-item
+	{
+		width:23%;
+	}
+	.newsheightcls {
+    	height: 225px;
+	}
+	.worldevpreviewcls .carousel-item
+		{
+			height: 220px;
+		}
+	.citylisting img {
+		height: 70px;
+	}
+	
+	#loaddiv>h3
+	{
+		margin-top:16%;
+	}
+	.nav-secondary-wrapper
+	{
+		margin-top: 4%;
+	}
+	#configuration_sidebar_content li
+	{
+		font-size:11px!important;
+	}
+	.dropdown-content::after, .dropdown-content::before
+	{
+		left:68%;
+	}
+	.pricerupee span
+	{
+		font-size: 11px;
+	}
+	.pricerupee h3
+	{
+		font-size: 15px!important;
+	}
+	.removepadding .wishlistscls,.priceleftsec .wishlistscls
+	{
+		top: -163px;
+    right: 16px;
+	}
+	.removepadding .sharelst,.priceleftsec .sharelst
+	{
+		top: -136px;
+    right: 15px;
+	}
+	.mobnavtype li
+	{
+		width:31.33%;
+	}
+	.vdetails
+	{
+		padding: 4px!important;
+	}
+	.vdetails h4
+	{
+		height:35px;
+		font-size: 8px;
+		margin-bottom: 0px!important;
+	}
+	.listing .grid img
+	{
+		height: 50px;
+	}
+	.vdetails p
+	{
+		font-size: 10px;
+	}
+	.compareanchor a
+	{
+		width: 100%;
+	}
+	.collapseCompare
+	{
+		height: 195px;
+	}
+	.sellcls .modal-body
+	{
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+	.explore_ev li a
+	{
+		padding: 0 5px;
+		font-size: 10px;
+	}
+	.videoheightcls
+	{
+		height: 180px!important;
+	}
+	.videoheightcls .newsdate
+	{
+		position: inherit;
+	}
+	.videoheightcls .newssubtitle
+	{
+		height: 88px;
+		display: block;
+	}
+}
+@media screen and (max-width: 345px) {
+	
+	.mobmargin
+	{
+		margin-top:3%;
+	}
+	.worldevpreviewcls .carousel-item
+		{
+			height: 200px;
+		}	
+	.mobmtcls
+	{
+		margin-top: 16%;
+	}
+	.imagecls img {
+    height: 90px;
+}
+	
+	.retrofittingcls .container
+	{
+		/*margin-top:13%;*/
+	}
+	.searchFilter
+	{
+		padding-right: 5px!important;
+		padding-left: 5px!important;
+	}
+}
+@media (max-width: 991px) {
+	.dropdownworld ul > li
+	{
+		padding:2% !important;
+	}
+	#allbrandscls .btn a
+	{
+		font-size: 12px;
+	}
+	.drop-down:after{
+			content:none;
+	}
+	.drop-down:hover .nav-link{
+			position:relative;
+			z-index:0;
+		}
+.drop-down:hover:after{
+			z-index:0;
+			opacity:0; 
+			visibility:hidden;
+	}
+}
+@media screen and (max-width: 330px) 	
+{
+	.marginmobile
+	{
+		margin-top: 12%;
+	}
+}
+@media screen and (max-width: 315px) {
+	.worldevpreviewcls .carousel-item
+		{
+			height: 180px;
+		}
+	}
